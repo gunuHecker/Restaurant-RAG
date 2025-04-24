@@ -1,5 +1,4 @@
 beautifulsoup4
-Scrapy
 selenium
 webdriver-manager
 pandas
