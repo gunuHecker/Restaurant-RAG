@@ -2,8 +2,8 @@ import os
 import json
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..'))
-RAW_DIR = os.path.join(PROJECT_ROOT, 'data', 'raw', 'pastaria_stlouis')
-PROCESSED_DIR = os.path.join(PROJECT_ROOT, 'data', 'processed')
+RAW_DIR = os.path.join(PROJECT_ROOT, 'data', 'raw', 'pastaria_stlouis', 'json')
+PROCESSED_DIR = os.path.join(PROJECT_ROOT, 'data', 'processed', 'json')
 OUTPUT_PATH = os.path.join(PROCESSED_DIR, 'PastariaStLouis.json')
 
 def load_json(filename):
