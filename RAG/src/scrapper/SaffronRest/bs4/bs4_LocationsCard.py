@@ -2,8 +2,8 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-def extract_location_cards(input_path="data/raw/saffron/locationsPage.html",
-                           output_path="data/raw/saffron/locations.json"):
+def extract_location_cards(input_path="data/raw/saffron/html/locationsPage.html",
+                           output_path="data/raw/saffron/json/locations.json"):
     with open(input_path, "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
 

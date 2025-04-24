@@ -3,7 +3,7 @@ import json
 import os
 
 # Load the HTML file
-with open("data/raw/CopperChimney/locationsPage.html", "r", encoding="utf-8") as f:
+with open("data/raw/CopperChimney/html/locationsPage.html", "r", encoding="utf-8") as f:
     html = f.read()
 
 # Parse HTML
@@ -27,7 +27,7 @@ for div in location_divs:
             "address": address
         })
 
-output_path = "data/raw/CopperChimney/locations.json"
+output_path = "data/raw/CopperChimney/json/locations.json"
 
 # Ensure directory exists
 os.makedirs(os.path.dirname(output_path), exist_ok=True)

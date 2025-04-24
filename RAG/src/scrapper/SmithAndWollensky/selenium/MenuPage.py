@@ -5,7 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import os
 
-def get_html_from_SmithAndWollensky(output_path="data/raw/SmithAndWollensky/MenuPage.html"):
+def get_html_from_SmithAndWollensky(output_path="data/raw/SmithAndWollensky/html/MenuPage.html"):
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
@@ -21,7 +21,7 @@ def get_html_from_SmithAndWollensky(output_path="data/raw/SmithAndWollensky/Menu
         html_content = driver.page_source
 
         # Ensure the "SmithAndWollensky" directory exists
-        base_dir = "data/raw/SmithAndWollensky"
+        base_dir = "data/raw/SmithAndWollensky/html"
         os.makedirs(base_dir, exist_ok=True)
 
         with open(output_path, "w", encoding="utf-8") as f:

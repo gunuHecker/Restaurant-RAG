@@ -3,7 +3,7 @@ import json
 import os
 
 # Load the HTML file
-with open("data/raw/CopperChimney/AboutPage.html", "r", encoding="utf-8") as f:
+with open("data/raw/CopperChimney/html/AboutPage.html", "r", encoding="utf-8") as f:
     html = f.read()
 
 # Parse HTML
@@ -24,8 +24,8 @@ for container in containers:
         about_data[title] = content
 
 # Save to JSON
-os.makedirs("data/raw/CopperChimney", exist_ok=True)
-with open("data/raw/CopperChimney/about.json", "w", encoding="utf-8") as f:
+os.makedirs("data/raw/CopperChimney/json", exist_ok=True)
+with open("data/raw/CopperChimney/json/about.json", "w", encoding="utf-8") as f:
     json.dump(about_data, f, indent=4, ensure_ascii=False)
 
-print("[✓] Saved About page content to data/raw/CopperChimney/about.json")
+print("[✓] Saved About page content to data/raw/CopperChimney/json/about.json")

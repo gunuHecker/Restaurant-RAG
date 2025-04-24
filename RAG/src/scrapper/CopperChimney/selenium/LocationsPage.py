@@ -5,7 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import os
 
-def get_html_from_cc(output_path="data/raw/CopperChimney/locationsPage.html"):
+def get_html_from_cc(output_path="data/raw/CopperChimney/html/locationsPage.html"):
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")

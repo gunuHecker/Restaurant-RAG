@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import json
 
-def extract_location_info_from_html(html_path="data/raw/SmithAndWollensky/LocationPage.html", output_json_path="data/raw/SmithAndWollensky/location.json"):
+def extract_location_info_from_html(html_path="data/raw/SmithAndWollensky/html/LocationPage.html", output_json_path="data/raw/SmithAndWollensky/json/location.json"):
     with open(html_path, "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
 

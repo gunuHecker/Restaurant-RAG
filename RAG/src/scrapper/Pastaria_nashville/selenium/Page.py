@@ -5,7 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import os
 
-def get_html_from_pastaria_nashville(output_path="data/raw/pastaria_nashville/Page.html"):
+def get_html_from_pastaria_nashville(output_path="data/raw/pastaria_nashville/html/Page.html"):
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
@@ -21,7 +21,7 @@ def get_html_from_pastaria_nashville(output_path="data/raw/pastaria_nashville/Pa
         html_content = driver.page_source
 
         # Ensure the "pastaria_stlouis" directory exists
-        base_dir = "data/raw/pastaria_nashville"
+        base_dir = "data/raw/pastaria_nashville/html"
         os.makedirs(base_dir, exist_ok=True)
 
         with open(output_path, "w", encoding="utf-8") as f:

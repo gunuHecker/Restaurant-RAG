@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 
 # Load the HTML file
-with open("data/raw/saffron/AboutUsPage.html", "r", encoding="utf-8") as file:
+with open("data/raw/saffron/html/AboutUsPage.html", "r", encoding="utf-8") as file:
     html = file.read()
 
 soup = BeautifulSoup(html, "html.parser")
@@ -42,7 +42,7 @@ for section in sections:
                 about_us_data[label.text.strip()] = content
 
 # Save to JSON
-with open("data/raw/saffron/about_us.json", "w", encoding="utf-8") as f:
+with open("data/raw/saffron/json/about_us.json", "w", encoding="utf-8") as f:
     json.dump(about_us_data, f, ensure_ascii=False, indent=2)
 
-print("✅ About Us content saved to 'data/raw/saffron/about_us.json'")
+print("✅ About Us content saved to 'data/raw/saffron/json/about_us.json'")

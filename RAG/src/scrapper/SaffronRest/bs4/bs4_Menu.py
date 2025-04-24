@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 
 # Load the HTML from a file
-with open("data/raw/saffron/menuPage.html", "r", encoding="utf-8") as file:
+with open("data/raw/saffron/html/menuPage.html", "r", encoding="utf-8") as file:
     html = file.read()
 
 soup = BeautifulSoup(html, "html.parser")
@@ -31,7 +31,7 @@ for pane in tab_panes:
         })
 
 # Save to JSON
-with open("data/raw/saffron/menu.json", "w", encoding="utf-8") as json_file:
+with open("data/raw/saffron/json/menu.json", "w", encoding="utf-8") as json_file:
     json.dump(menu_data, json_file, ensure_ascii=False, indent=2)
 
-print("Scraped menu saved to data/raw/saffron/menu.json")
+print("Scraped menu saved to data/raw/saffron/json/menu.json")

@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import json
 
-def extract_menu_items(input_path="data/raw/pastaria_nashville/menu.html", output_path="data/raw/pastaria_nashville/menu.json"):
+def extract_menu_items(input_path="data/raw/pastaria_nashville/html/menu.html", output_path="data/raw/pastaria_nashville/json/menu.json"):
     with open(input_path, "r", encoding="utf-8") as f:
         html = f.read()
 

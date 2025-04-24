@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-def extract_menus_section(input_path="data/raw/pastaria_stlouis/Page.html", output_path="data/raw/pastaria_stlouis/menu.html"):
+def extract_menus_section(input_path="data/raw/pastaria_stlouis/html/Page.html", output_path="data/raw/pastaria_stlouis/html/menu.html"):
     try:
         # Read the previously saved HTML
         with open(input_path, "r", encoding="utf-8") as f:

@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-def extract_locations_from_html(input_path="data/raw/Paakshala/locationsPage.html", output_path="data/raw/Paakshala/locations.json"):
+def extract_locations_from_html(input_path="data/raw/Paakshala/html/locationsPage.html", output_path="data/raw/Paakshala/json/locations.json"):
     # Load your HTML content (as string)
     with open(input_path, "r", encoding="utf-8") as file:
         html_content = file.read()

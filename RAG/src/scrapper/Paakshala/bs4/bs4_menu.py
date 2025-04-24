@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import json
 
-def parse_paakshala_menu(html_path="data/raw/Paakshala/menuPage.html", output_json_path="data/raw/Paakshala/menu.json"):
+def parse_paakshala_menu(html_path="data/raw/Paakshala/html/menuPage.html", output_json_path="data/raw/Paakshala/json/menu.json"):
     with open(html_path, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 

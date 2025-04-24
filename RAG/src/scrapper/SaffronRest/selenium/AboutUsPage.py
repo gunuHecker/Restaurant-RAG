@@ -5,7 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import os
 
-def get_html_from_saffron(output_path="data/raw/saffron/AboutUsPage.html"):
+def get_html_from_saffron(output_path="data/raw/saffron/html/AboutUsPage.html"):
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")

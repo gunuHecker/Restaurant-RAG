@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import os
 
-def extract_menu_section(input_path="data/raw/SmithAndWollensky/MenuPage.html", output_path="data/raw/SmithAndWollensky/menu.html"):
+def extract_menu_section(input_path="data/raw/SmithAndWollensky/html/MenuPage.html", output_path="data/raw/SmithAndWollensky/html/menu.html"):
     # Load the full page HTML
     with open(input_path, "r", encoding="utf-8") as f:
         html = f.read()

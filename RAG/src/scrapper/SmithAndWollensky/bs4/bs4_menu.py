@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import json
 
-def extract_menu_data(input_html="data/raw/SmithAndWollensky/menu.html", output_json="data/raw/SmithAndWollensky/menu.json"):
+def extract_menu_data(input_html="data/raw/SmithAndWollensky/html/menu.html", output_json="data/raw/SmithAndWollensky/json/menu.json"):
     with open(input_html, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 
