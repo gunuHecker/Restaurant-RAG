@@ -1,0 +1,90 @@
+[
+    {
+        "name": "R-City Mall, Ghatkopar",
+        "address": "3rd Floor,R-City Mall, Lal Bahadur Shastri Marg, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086"
+    },
+    {
+        "name": "Oberoi Mall, Goregoan (E),mumbai",
+        "address": "2nd floor , Oberoi mall ,Yashodham, Goregaon, Mumbai, Maharashtra 400063"
+    },
+    {
+        "name": "Lotus Court, Worli, mumbai",
+        "address": "12-A, Lotus Court, Dr. A.B. Road, Mumbai."
+    },
+    {
+        "name": "Kala Ghoda,Fort, Mumbai",
+        "address": "Ground Floor, 3/3A, Hari Chambers, Shahid Bhagat Singh Road, Kalaghoda, Fort, Mumbai, Maharashtra - 400001"
+    },
+    {
+        "name": "Bandra Kurla Complex, Bandra East, mumbai",
+        "address": "Bandra Kurla Complex, Next to Asian Heart Hospital, Mumbai."
+    },
+    {
+        "name": "Linking Road, Bandra (W), Mumbai",
+        "address": "266, Linking Rd, Bandra West, Mumbai, Maharashtra 400050"
+    },
+    {
+        "name": "Delivery Kitchen- Powai",
+        "address": "B-10, Kailash Industrial Complex Veer Savarkar Marg, Park\n      Site Rd, Vikhroli West, Mumbai."
+    },
+    {
+        "name": "Juhu,mumbai",
+        "address": "Juhu Tara Road, Next Juhu Residency Hotel, opp, HSBC, Mumbai, Maharashtra 400049"
+    },
+    {
+        "name": "Infiniti Mall, Malad (W), Mumbai",
+        "address": "Food Court, Infiniti Mall, Link Road, Malad West , Mumbai - 400064"
+    },
+    {
+        "name": "Viviana Mall, Thane, Mumbai",
+        "address": "2nd Floor, Viviana Mall, Eastern Express Highway, Near Jupiter Hospital, Majiwada, Thane West."
+    },
+    {
+        "name": "Nexus Mall, Seawood, Navi mumbai",
+        "address": "2 Floor, Sea woods Grand Central Mall, Near Seawoods Railway Station."
+    },
+    {
+        "name": "Phoenix Marketcity, Viman Nagar, Pune",
+        "address": "3rd Floor, Phoenix Market City Mall, Viman Nagar, Pune."
+    },
+    {
+        "name": "Phoenix Mall of the Milleninum, Wakad, Pune",
+        "address": "2nd floor S No. 132, 23, Phoenix mall Millennium, Western Avenue 1-type , Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057"
+    },
+    {
+        "name": "Phoenix Marketcity Whitefield, Banglore",
+        "address": "1st Floor, Phoenix Market City, Whitefield, Bangalore."
+    },
+    {
+        "name": "RMZ Galleria Mall, Yelahanka, Banglore",
+        "address": "RMZ Galleria, Bellary Rd, Yelahanka, Bengaluru, Karnataka 560064."
+    },
+    {
+        "name": "M5 E-City",
+        "address": "Address – 4th floor,M5 E-City Mall, Veerasandra industrial Area, Hosur Rd, opposite to Electronic City Flyover, Phase 2, Electronic City, Bengaluru, Karnataka 560100"
+    },
+    {
+        "name": "Prestige Tech Park",
+        "address": "1st Floor, Gravity Building, Prestige Tech Park, Outer Ring Rd, Kadubeesanahalli, Bengaluru, Karnataka - 560103"
+    },
+    {
+        "name": "Cathdral Road, Chennai",
+        "address": "73, Cathedral Road, Gopalapuram, Chennai."
+    },
+    {
+        "name": "Phoenix Marketcity, Velachery, Chennai",
+        "address": "2nd Floor, Phoenix Market City, Indira Gandhi Nagar, Velachery, Chennai."
+    },
+    {
+        "name": "Vishal Cinema, Rajouri Garden, Delhi",
+        "address": "GF-06, Vishal Cinema, Shivaji Place, Vishal Enclave, Tagore Garden Extension, New Delhi, Delhi 110027."
+    },
+    {
+        "name": "DLF Cyber Hub, Gurugram",
+        "address": "11, DLF Cyber City, DLF Phase 2, Sector 25, Gurugram, Haryana 122022."
+    },
+    {
+        "name": "Kolkata Airport",
+        "address": "International Airport, Dum Dum, Kolkata."
+    }
+]

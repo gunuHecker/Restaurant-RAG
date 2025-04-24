@@ -1,0 +1,236 @@
+[
+  {
+    "category": "Appetizers",
+    "item": "Crispy Risotto Balls",
+    "price": "12.95 dollars",
+    "ingridients": "mozzarella, grana padano, herb aioli, marinara"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Citrus Salad",
+    "price": "12.50 dollars",
+    "ingridients": "orange, grapefruit, green olives, red onions, tarragon, olive oil"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Boquerones",
+    "price": "8.24 dollars",
+    "ingridients": "olive oil, herbs, house bread"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Marinated Olives",
+    "price": "9.95 dollars",
+    "ingridients": "olive oil, citrus, chili, herbs"
+  },
+  {
+    "category": "Salads",
+    "item": "Chopped Salad",
+    "price": "11.95 dollars",
+    "ingridients": "chickpeas, green olives, pistachios, pepperoni, oregano, red wine vinaigrette, pecorino"
+  },
+  {
+    "category": "Salads",
+    "item": "Shaved Kale",
+    "price": "10.95 dollars",
+    "ingridients": "creamy anchovy dressing, pecorino, bread crumbs"
+  },
+  {
+    "category": "Salads",
+    "item": "Spring Medley",
+    "price": "13.95 dollars",
+    "ingridients": "Greener Roots Nashville Blend, citrus, sunflower shoots, pecorino crisp, charred red onion vinaigrette"
+  },
+  {
+    "category": "Shareables",
+    "item": "The Bite Flight",
+    "price": "13.95 dollars",
+    "ingridients": "marinated olives, boquerones, giardiniera, house bread"
+  },
+  {
+    "category": "Shareables",
+    "item": "Roasted Beets",
+    "price": "13.95 dollars",
+    "ingridients": "sunflower shoots, balsamic glaze, cr\u00e8me fra\u00eeche, crunchy Za\u2019atar, pecorino"
+  },
+  {
+    "category": "Shareables",
+    "item": "Grilled Radicchio",
+    "price": "15.50 dollars",
+    "ingridients": "mozzarella cream, crispy Benton\u2019s Ham, red onion, cashews, pecorino, lemon vinaigrette"
+  },
+  {
+    "category": "Shareables",
+    "item": "Burrata",
+    "price": "14.95 dollars",
+    "ingridients": "8 year aged balsamic, olive oil, house focaccia add Benton\u2019s Ham +5.00"
+  },
+  {
+    "category": "Desserts",
+    "item": "Espresso Chocolate Tart",
+    "price": "10.55 dollars",
+    "ingridients": "white chocolate, mascarpone cream, espresso crunch"
+  },
+  {
+    "category": "Desserts",
+    "item": "Olive Oil Cake",
+    "price": "11.95 dollars",
+    "ingridients": "maple & huckleberry syrup, creme fraiche whipped cream"
+  },
+  {
+    "category": "Desserts",
+    "item": "Birthday Cake",
+    "price": "9.50 dollars",
+    "ingridients": "confetti cake, butter cream frosting, confetti cookie crumble"
+  },
+  {
+    "category": "Entrees",
+    "item": "Pastaria\u2019s \u201cChicken Parm\u201d",
+    "price": "27.95 dollars",
+    "ingridients": "chitarra noodles, crispy chicken breast, pomodoro, mozzarella, oregano, grana padano, chili"
+  },
+  {
+    "category": "Entrees",
+    "item": "Market Fish",
+    "price": "27.95 dollars",
+    "ingridients": "cannellini beans, snap peas, sunflower shoots, maitake and brown beech mushrooms"
+  },
+  {
+    "category": "Pastas",
+    "item": "Chitarra Aglio e Olio",
+    "price": "21.95 dollars",
+    "ingridients": "olive oil, garlic, chili, grana padano\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0*add anchovy +3.50"
+  },
+  {
+    "category": "Pastas",
+    "item": "Chitarra al Pomodoro",
+    "price": "22.25 dollars",
+    "ingridients": "tomatoes, garlic, basil, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Canestri Cacio e Pepe",
+    "price": "23.95 dollars",
+    "ingridients": "pecorino, grana padano, black pepper"
+  },
+  {
+    "category": "Pastas",
+    "item": "Tagliatelle",
+    "price": "25.95 dollars",
+    "ingridients": "\u2018Pastaria Bolognese,\u2019 grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Pistachio Ravioli",
+    "price": "23.95 dollars",
+    "ingridients": "mint, lemon brown butter, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Garganelli Pork Ragu",
+    "price": "26.25 dollars",
+    "ingridients": "braised pork, mushrooms, citrus, pecorino"
+  },
+  {
+    "category": "Pastas",
+    "item": "Bucatini Rigate",
+    "price": "26.95 dollars",
+    "ingridients": "ground lamb, calabrian chili, garlic, whipped ricotta"
+  },
+  {
+    "category": "Pastas",
+    "item": "Bucatini All\u2019 Amatriciana",
+    "price": "24.95 dollars",
+    "ingridients": "tomato, red onion, guanciale, chili, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Pappardelle Beef Ragu",
+    "price": "26.95 dollars",
+    "ingridients": "Black Hawk Farms Wagyu, Castlevetrano olives, pecorino, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Lasagna Verde",
+    "price": "27.95 dollars",
+    "ingridients": "bechamel, bolognese"
+  },
+  {
+    "category": "Pizza",
+    "item": "Margherita",
+    "price": "20.95 dollars",
+    "ingridients": "tomato, mozzarella, basil"
+  },
+  {
+    "category": "Pizza",
+    "item": "Pastaria Marinara",
+    "price": "21.95 dollars",
+    "ingridients": "tomato, olive oil, garlic, oregano, basil *try Heather\u2019s way"
+  },
+  {
+    "category": "Pizza",
+    "item": "Pepperoni",
+    "price": "22.95 dollars",
+    "ingridients": "fontina, tomato"
+  },
+  {
+    "category": "Pizza",
+    "item": "The Roman",
+    "price": "22.95 dollars",
+    "ingridients": "tomato, garlic, bacon, mozzarella, pecorino, chili"
+  },
+  {
+    "category": "Pizza",
+    "item": "The Allan",
+    "price": "23.95 dollars",
+    "ingridients": "tomato, mozzarella, mushroom, Benton\u2019s ham, oregano, grana padano"
+  },
+  {
+    "category": "Pizza",
+    "item": "Nduja",
+    "price": "23.95 dollars",
+    "ingridients": "tomato, Fior di latte, garlic, oregano, honey"
+  },
+  {
+    "category": "Pizza",
+    "item": "Pastaria Hawaiian",
+    "price": "22.95 dollars",
+    "ingridients": "tomato, mozzarella, jalapeno, pineapple, house-made Canadian bacon"
+  },
+  {
+    "category": "Pizza",
+    "item": "The Mushroom",
+    "price": "22.95 dollars",
+    "ingridients": "mushrooms, roasted garlic puree, fontina, pecorino, fresh herbs"
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Spaghetti with Meat or Tomato Sauce",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Cheese Pizza",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Pasta Shells \u201cMac \u2018n Cheese\u201d",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Butter Noodles",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Kid's Desserts",
+    "item": "Kid\u2019s Gelato Scoop",
+    "price": null,
+    "ingridients": ""
+  }
+]

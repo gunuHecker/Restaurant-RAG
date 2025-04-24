@@ -1,0 +1,608 @@
+[
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "location",
+    "address": "7734 Forsyth Blvd. | Clayton, MO 63105",
+    "phone": "314.862.6603",
+    "email": "info@pastariastl.com",
+    "hours": [
+      "7 Days a Week",
+      "4pm – 9pm",
+      "Sunday Brunch",
+      "10am – 2pm",
+      "Dine-In & Curbside"
+    ]
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Chicken",
+    "category": "Entrées",
+    "description": "borlotti beans, tomato-braised tuscan kale",
+    "price": "32.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Striped Bass",
+    "category": "Entrées",
+    "description": "braised artichoke, fingerlings, fennel, salsa verde",
+    "price": "34.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chitarra Aglio e Olio",
+    "category": "Pastas",
+    "description": "olive oil, garlic, chili, grana padano",
+    "price": "22.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chitarra al Pomodoro",
+    "category": "Pastas",
+    "description": "tomato, garlic, basil, grana padano",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Canestri Cacio e Pepe",
+    "category": "Pastas",
+    "description": "pecorino, grana padano, black pepper",
+    "price": "24.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Tagliatelle Bolognese",
+    "category": "Pastas",
+    "description": "“Pastaria Bolognese”, grana padano",
+    "price": "27.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pistachio Ravioli",
+    "category": "Pastas",
+    "description": "lemon, brown butter, mint, grana padano",
+    "price": "24.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Garganelli",
+    "category": "Pastas",
+    "description": "braised beef, olives, gremolata, Grana Padano",
+    "price": "27.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Bucatini All’ Amatriciana",
+    "category": "Pastas",
+    "description": "tomato, red onion, guanciale, chili, grana padano",
+    "price": "27.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Toasted Semolina Linguine",
+    "category": "Pastas",
+    "description": "rock shrimp, shellfish butter, chili, lemon, fennel, grana padano",
+    "price": "27.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Strozzapreti al Pork Sugo",
+    "category": "Pastas",
+    "description": "braised pork shoulder, mirepoix, tomato, lemon, herbs, grana padano",
+    "price": "26.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Margherita",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, basil",
+    "price": "20.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pastaria Marinara",
+    "category": "Pizza",
+    "description": "tomato, onion, garlic, oregano, basil, pecorino (very minimal cheese)",
+    "price": "20.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Four Cheese",
+    "category": "Pizza",
+    "description": "mozzarella, fontina, gorgonzola dolce, Grana Padano (no tomato)",
+    "price": "21.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pepperoni",
+    "category": "Pizza",
+    "description": "tomato, fontina",
+    "price": "22.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "The Roman",
+    "category": "Pizza",
+    "description": "tomato, garlic, bacon, mozzarella, pecorino, chili",
+    "price": "22.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "The Allan",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, mushroom, Benton’s country ham, oregano, grana padano",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Tempesta Nduja (spicy)",
+    "category": "Pizza",
+    "description": "spicy pork spread, tomato, fior di latte, garlic, oregano, honey",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Mushroom",
+    "category": "Pizza",
+    "description": "bechamel, fontina, rosemary, thyme, garlic, grana padano",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Minestrone",
+    "category": "Soups and Salads",
+    "description": "cranberry beans, vegetables, noodles, grana padano",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Mixed Greens",
+    "category": "Soups and Salads",
+    "description": "pears, walnuts, goat cheese, red wine vinaigrette",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chopped Salad",
+    "category": "Soups and Salads",
+    "description": "little gem lettuce, pepperoni, chickpeas, green olives, pistachios, oregano, red wine vinaigrette, pecorino",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Shaved Kale",
+    "category": "Soups and Salads",
+    "description": "creamy anchovy dressing, pecorino, bread crumbs",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Arugula & Endive",
+    "category": "Soups and Salads",
+    "description": "white wine vinaigrette, dried cherry, pistachio, goat cheese, breadcrumbs",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Brussels Sprouts",
+    "category": "Vegetables",
+    "description": "lemon, calabrian chili flake, garlic",
+    "price": "10.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Heirloom Carrots",
+    "category": "Vegetables",
+    "description": "confit leeks, herbs, toasted breadcrumb",
+    "price": "9.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Crispy Risotto Balls",
+    "category": "Appetizers",
+    "description": "mozzarella, grana padano, herb aioli, marinara",
+    "price": "12.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Cauliflower Caponata",
+    "category": "Appetizers",
+    "description": "golden raisin, red onion, red pepper chili, herbs, bread",
+    "price": "10.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Marinated Olives",
+    "category": "Appetizers",
+    "description": "rosemary, thyme, citrus",
+    "price": "10.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Burrata",
+    "category": "Appetizers",
+    "description": "trapanese pesto, arugula, toasted bread",
+    "price": "13.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roman Style Gnocchi",
+    "category": "Appetizers",
+    "description": "semolina gnocchi, pomodoro sauce, olives, lemon, aged parmesan",
+    "price": "12.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Beets",
+    "category": "Appetizers",
+    "description": "cara cara oranges, olive oil, pistachio dukkah",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Meatballs",
+    "category": "Appetizers",
+    "description": "*ONLY AVAILABLE MONDAY* 3 beef and ricotta meatballs, garlic toast, spicy pomodoro sauce",
+    "price": "16.50 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Kid’s Gelato Scoop",
+    "category": "Kid's Desserts",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Kid’s Birthday Cake",
+    "category": "Kid's Desserts",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Spaghetti with meat or tomato sauce",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Cheese Pizza",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pasta Shells “Mac ‘n Cheese”",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Crispy Risotto Balls with Mozzarella Cheese",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Long Macaroni with Butter & Cheese",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Birthday Cake",
+    "category": "Desserts",
+    "description": "confetti cake under a layer of vanilla butter cream and shortbread cookie crumbles",
+    "price": "11.50 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Mama Rodolico’s Tiramisu",
+    "category": "Desserts",
+    "description": "an old family recipe from friends in Florence – layers of espresso-soaked biscuits topped with an airy mascarpone custard",
+    "price": "12.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Assorted Gelato and Sorbetto Flavors",
+    "category": "Desserts",
+    "description": "1 scoop 4.75 – 2 scoops 6.75 – 3 scoops 8.75 – pint 12",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Breakfast Bruschetta",
+    "category": "Brunch",
+    "description": "cotto ham, provolone, arugula, pickled red onion, add egg +3",
+    "price": "15.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pastaria ‘Huevos Rancheros’",
+    "category": "Brunch",
+    "description": "thick cut toast, white beans, ham, salsa verde",
+    "price": "15.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Breakfast Pizza",
+    "category": "Brunch",
+    "description": "tomato, bacon, fontina, egg, garlic, chili, parsley",
+    "price": "16.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "French Toast",
+    "category": "Brunch",
+    "description": "powdered sugar, whipped ricotta with lemon zest & honey",
+    "price": "16.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Wood Oven Baked Eggs",
+    "category": "Brunch",
+    "description": "choice of amatriciana or pomodoro, toast",
+    "price": "12.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Seasonal Frittata",
+    "category": "Brunch",
+    "description": "spinach, mushroom & tomato mixed green salad or crispy potatoes, toast",
+    "price": "15.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Granola Parfait",
+    "category": "Brunch",
+    "description": "yogurt, honey, seasonal fruit",
+    "price": "10.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Farm Egg Plate",
+    "category": "Brunch",
+    "description": "2 eggs your style, crispy potatoes or mixed greens, toast",
+    "price": "15.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Cacio e Pepe Eggs",
+    "category": "Brunch",
+    "description": "soft scramble with pecorino & black pepper, toast, choice of side salad or crispy potatoes",
+    "price": "15.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Crispy Potatoes",
+    "category": "Sides",
+    "description": "",
+    "price": "5.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Side of Toast with Apple Butter",
+    "category": "Sides",
+    "description": "",
+    "price": "5.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Side of Bacon",
+    "category": "Sides",
+    "description": "",
+    "price": "4.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Two Eggs",
+    "category": "Sides",
+    "description": "",
+    "price": "5.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Crispy Risotto Balls",
+    "category": "Starters & Salads",
+    "description": "mozzarella, grana padano, herb aioli, marinara",
+    "price": "12.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Shaved Kale",
+    "category": "Starters & Salads",
+    "description": "creamy anchovy dressing, pecorino, breadcrumbs, add chicken +9",
+    "price": "10.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chopped Salad",
+    "category": "Starters & Salads",
+    "description": "romaine, pepperoni, chickpeas, olives, pistachios, oregano, red wine vinaigrette, pecorino, add chicken +9",
+    "price": "12.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Mixed Greens",
+    "category": "Starters & Salads",
+    "description": "pears, walnuts, goat cheese, red wine vinaigrette, add chicken +9",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Caprese",
+    "category": "Sandwiches",
+    "description": "mozzarella, tomato, pesto aioli, arugula, red wine vinegar, evoo add turkey +3, add prosciutto +3",
+    "price": "13.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Turkey",
+    "category": "Sandwiches",
+    "description": "double star farms turkey breast, arugula, tomato, calabrian chili aioli, red wine vinegar, evoo",
+    "price": "13.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "World’s Best Tuna Salad",
+    "category": "Sandwiches",
+    "description": "confit tuna, olives, capers, red onion, aioli, fire roasted tomatoes, garlic chili vinaigrette",
+    "price": "13.50 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Salami",
+    "category": "Sandwiches",
+    "description": "genoa salami, capocollo, provolone, arugula, tomato, red wine vinegar",
+    "price": "13.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Seasonal Coffee Cake",
+    "category": "Pastries",
+    "description": "",
+    "price": "5.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Scone",
+    "category": "Pastries",
+    "description": "",
+    "price": "5.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Gluten-Free Muffin",
+    "category": "Pastries",
+    "description": "",
+    "price": "5.00 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chitarra alla Carbonara",
+    "category": "Pastas",
+    "description": "guanciale, egg yolk, black pepper, pecorino",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Strozzapreti Cacio e Pepe",
+    "category": "Pastas",
+    "description": "pecorino, grana padano, black pepper",
+    "price": "24.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Strozzapreti Bolognese",
+    "category": "Pastas",
+    "description": "“Pastaria Bolognese”, grana padano",
+    "price": "27.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Strozzapreti al Pomodoro",
+    "category": "Pastas",
+    "description": "tomato, garlic, basil, grana padano",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Margherita",
+    "category": "Pizzas",
+    "description": "tomato, mozzarella, basil",
+    "price": "20.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pepperoni",
+    "category": "Pizzas",
+    "description": "tomato, fontina",
+    "price": "22.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "The Roman",
+    "category": "Pizzas",
+    "description": "tomato, garlic, bacon, mozzarella, pecorino, chili",
+    "price": "22.95 dollars"
+  }
+]

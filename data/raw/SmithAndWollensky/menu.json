@@ -1,0 +1,527 @@
+[
+  {
+    "section": "STARTERS",
+    "name": "ANGRY SHRIMP",
+    "price": "$26.00",
+    "description": "crispy battered shrimp, spicy lobster butter sauce",
+    "options": []
+  },
+  {
+    "section": "STARTERS",
+    "name": "CRAB CAKE",
+    "price": "$28.00",
+    "description": "lump crab meat, cognac mustard, ginger sauce",
+    "options": []
+  },
+  {
+    "section": "STARTERS",
+    "name": "TUNA TARTARE*",
+    "price": "$25.00",
+    "description": "orange, jalapeno, cucumber, coconut vinaigrette, sesame tuile",
+    "options": []
+  },
+  {
+    "section": "STARTERS",
+    "name": "TABLESIDE STEAK TARTARE*",
+    "price": "$26.00",
+    "description": "roasted bone marrow, grilled crostini",
+    "options": []
+  },
+  {
+    "section": "STARTERS",
+    "name": "CONFIT BACON",
+    "price": "$24.00",
+    "description": "sweet soy glazed, red cabbage and fresno pepper slaw, pickled vegetables",
+    "options": []
+  },
+  {
+    "section": "STARTERS",
+    "name": "GRILLED OCTOPUS",
+    "price": "$30.00",
+    "description": "Marcona almond romesco sauce, peppadew peppers, romanesco",
+    "options": []
+  },
+  {
+    "section": "STARTERS",
+    "name": "HAMACHI CRUDO",
+    "price": "$26.00",
+    "description": "citrus, green apple, cucumber, tomato, passion fruit sauce",
+    "options": []
+  },
+  {
+    "section": "STARTERS",
+    "name": "AMERICAN WAGYU CARPACCIO*",
+    "price": "$27.00",
+    "description": "SRF Wagyu tenderloin, pickled mushrooms, black truffle aioli, shaved Parmesan",
+    "options": []
+  },
+  {
+    "section": "STARTERS",
+    "name": "BURRATA",
+    "price": "$19.00",
+    "description": "herb pesto, heirloom tomato, Marcona almond",
+    "options": [
+      {
+        "text": "add prosciutto",
+        "price": "$6.00"
+      }
+    ]
+  },
+  {
+    "section": "SHELLFISH",
+    "name": "JUMBO SHRIMP COCKTAIL",
+    "price": "",
+    "description": "",
+    "options": [
+      {
+        "text": "3 pieces",
+        "price": "$19.00"
+      },
+      {
+        "text": "5 pieces",
+        "price": "$30.00"
+      }
+    ]
+  },
+  {
+    "section": "SHELLFISH",
+    "name": "EAST COAST OYSTERS* (HALF DOZEN)",
+    "price": "$22.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "SHELLFISH",
+    "name": "CHILLED MAINE LOBSTER TAIL (EACH)",
+    "price": "$21.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "SHELLFISH",
+    "name": "CRAB COCKTAIL",
+    "price": "",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "SHELLFISH",
+    "name": "OCTOPUS COCKTAIL",
+    "price": "$22.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "SHELLFISH",
+    "name": "SHELLFISH TOWER FOR TWO*",
+    "price": "$82.00",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail",
+    "options": []
+  },
+  {
+    "section": "SHELLFISH",
+    "name": "SHELLFISH TOWER FOR FOUR*",
+    "price": "$143.00",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail",
+    "options": []
+  },
+  {
+    "section": "SHELLFISH",
+    "name": "SHELLFISH TOWER FOR SIX*",
+    "price": "$185.00",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail, tuna tartare",
+    "options": []
+  },
+  {
+    "section": "SOUP & SALADS",
+    "name": "CLASSIC SPLIT PEA SOUP",
+    "price": "$10.00",
+    "description": "the Smith & Wollensky original recipe",
+    "options": []
+  },
+  {
+    "section": "SOUP & SALADS",
+    "name": "CLAM CHOWDER",
+    "price": "$14.00",
+    "description": "New England style",
+    "options": []
+  },
+  {
+    "section": "SOUP & SALADS",
+    "name": "TOMATO & ONION SALAD",
+    "price": "$16.00",
+    "description": "whipped feta, Marcona almonds",
+    "options": []
+  },
+  {
+    "section": "SOUP & SALADS",
+    "name": "WOLLENSKY SALAD",
+    "price": "$16.00",
+    "description": "romaine lettuce, tomatoes, potato croutons, bacon lardons, marinated mushrooms, dijon vinaigrette",
+    "options": []
+  },
+  {
+    "section": "SOUP & SALADS",
+    "name": "CAESAR SALAD",
+    "price": "$16.00",
+    "description": "romaine lettuce, traditional dressing, croutons",
+    "options": []
+  },
+  {
+    "section": "SOUP & SALADS",
+    "name": "CLASSIC ICEBERG SALAD",
+    "price": "$17.00",
+    "description": "tomatoes, crumbled bleu cheese, bleu cheese dressing, bacon lardons, scallions",
+    "options": []
+  },
+  {
+    "section": "SOUP & SALADS",
+    "name": "MODERN ICEBERG SALAD",
+    "price": "$17.00",
+    "description": "creamy bleu cheese, bacon lardons, tomatoes, red onion, radish, red wine vinaigrette",
+    "options": []
+  },
+  {
+    "section": "SOUP & SALADS",
+    "name": "DUCK CONFIT SALAD",
+    "price": "$19.00",
+    "description": "duck confit, carrots, cucumber, quinoa, poached egg, frisee, red onion, dijon vinaigrette",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "SURF & TURF FOR TWO",
+    "price": "$160.00",
+    "description": "18 oz. filet, twin Maine lobster tails with garlic butter, chimichurri",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "SIGNATURE FILET MIGNON 10 OZ",
+    "price": "$68.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "COFFEE & COCOA RUBBED FILET 10 OZ",
+    "price": "$70.00",
+    "description": "ancho chili butter, angry onions",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "FILET OSCAR 10 OZ",
+    "price": "$88.00",
+    "description": "lump crab meat, asparagus, hollandaise sauce",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "GORGONZOLA CRUSTED FILET 10 OZ",
+    "price": "$75.00",
+    "description": "bacon and scallions",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "TWIN PETIT FILET MIGNON",
+    "price": "$60.00",
+    "description": "mushrooms, brandy peppercorn sauce",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "SRF KUROBUTA PORK CHOP",
+    "price": "$65.00",
+    "description": "pineapple salsa, chimichurri, charred radicchio",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "DUCK CONFIT",
+    "price": "$36.00",
+    "description": "cherry glaze, carrot orange puree, potato gratin",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "HALF CHICKEN",
+    "price": "$36.00",
+    "description": "semi-boneless chicken, prosciutto, spinach, crispy Yukon gold potatoes, lemon chicken jus",
+    "options": []
+  },
+  {
+    "section": "BUTCHER'S TABLE*",
+    "name": "BONE-IN RIB EYE AU POIVRE 26 OZ",
+    "price": "$78.00",
+    "description": "wet-aged, peppercorn crusted, brandy peppercorn sauce",
+    "options": []
+  },
+  {
+    "section": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "name": "USDA PRIME DRY-AGED PORTERHOUSE FOR TWO - 42 OZ",
+    "price": "$190.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "name": "SIGNATURE USDA PRIME DRY-AGED BONE-IN RIB EYE 28 OZ",
+    "price": "$105.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "name": "CAJUN MARINATED USDA PRIME DRY-AGED BONE-IN RIB EYE 28 OZ",
+    "price": "$105.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "name": "USDA PRIME DRY-AGED T-BONE 26 OZ",
+    "price": "$90.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "name": "USDA PRIME DRY-AGED BONE-IN NEW YORK CUT 21 OZ",
+    "price": "$86.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "name": "USDA PRIME BONELESS NEW YORK STRIP 16 OZ",
+    "price": "$78.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "AMERICAN WAGYU*",
+    "name": "SWINGING TOMAHAWK RIB EYE",
+    "price": "$250.00",
+    "description": "44 oz. black grade Wagyu, carved tableside, crispy beef-fat potatoes - great to share",
+    "options": []
+  },
+  {
+    "section": "AMERICAN WAGYU*",
+    "name": "WAGYU PORTERHOUSE FOR TWO",
+    "price": "$275.00",
+    "description": "38+ oz. gold grade Wagyu, fondant potatoes, asparagus",
+    "options": []
+  },
+  {
+    "section": "AMERICAN WAGYU*",
+    "name": "LONG BONE WAGYU FILET",
+    "price": "$158.00",
+    "description": "18 oz. gold grade Wagyu, arugula, EVOO, lemon, crispy garlic",
+    "options": []
+  },
+  {
+    "section": "AMERICAN WAGYU*",
+    "name": "WAGYU RIBEYE",
+    "price": "$145.00",
+    "description": "14 oz. black grade Wagyu, bone marrow bordelaise, blistered tomato",
+    "options": []
+  },
+  {
+    "section": "AMERICAN WAGYU*",
+    "name": "WAGYU NY STRIP",
+    "price": "$130.00",
+    "description": "14 oz. gold grade Wagyu, sauteed spinach, crispy shallots",
+    "options": []
+  },
+  {
+    "section": "AMERICAN WAGYU*",
+    "name": "WAGYU MANHATTAN CUT",
+    "price": "$99.00",
+    "description": "9 oz. gold grade Wagyu, coffee and cocoa rub, roasted corn puree, chimichurri, smoked tableside",
+    "options": []
+  },
+  {
+    "section": "AMERICAN WAGYU*",
+    "name": "WAGYU FILET MIGNON",
+    "price": "$98.00",
+    "description": "9 oz. black grade Wagyu, roasted shallot, asparagus, bone marrow butter",
+    "options": []
+  },
+  {
+    "section": "FRESH CATCH*",
+    "name": "CHILEAN SEA BASS",
+    "price": "$54.00",
+    "description": "fondue potato, lobster sauce, confit tomato, charred cippolini, shaved fennel",
+    "options": []
+  },
+  {
+    "section": "FRESH CATCH*",
+    "name": "SEARED YELLOWFIN TUNA",
+    "price": "$52.00",
+    "description": "coconut carrot puree, wild rice, vegetable medley, tamarind sauce, soy cured egg yolk",
+    "options": []
+  },
+  {
+    "section": "FRESH CATCH*",
+    "name": "SEARED NORWEGIAN SALMON*",
+    "price": "$45.00",
+    "description": "spring vegetable ragu, morel mushroom, braised leeks, chicken jus",
+    "options": []
+  },
+  {
+    "section": "STEAK ENHANCEMENTS",
+    "name": "CAJUN RUB",
+    "price": "$3.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "STEAK ENHANCEMENTS",
+    "name": "COFFEE & COCOA RUB",
+    "price": "$3.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "STEAK ENHANCEMENTS",
+    "name": "BEARNAISE SAUCE",
+    "price": "$5.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "STEAK ENHANCEMENTS",
+    "name": "HOLLANDAISE SAUCE",
+    "price": "$5.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "STEAK ENHANCEMENTS",
+    "name": "BRANDY PEPPERCORN SAUCE",
+    "price": "$8.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "STEAK ENHANCEMENTS",
+    "name": "GORGONZOLA CRUSTED",
+    "price": "$10.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "STEAK ENHANCEMENTS",
+    "name": "ROASTED BONE MARROW",
+    "price": "$12.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "STEAK ENHANCEMENTS",
+    "name": "MAINE LOBSTER TAIL (EACH)",
+    "price": "$21.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "TRUFFLED MAC & CHEESE",
+    "price": "$22.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "CREAMED SPINACH",
+    "price": "$16.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "SAUTEED SPINACH",
+    "price": "$14.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "SAUTEED MUSHROOMS",
+    "price": "$16.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "ASPARAGUS WITH HOLLANDAISE",
+    "price": "$15.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "WHIPPED POTATOES",
+    "price": "$12.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "HAND CUT FRENCH FRIES",
+    "price": "$10.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "TRUFFLE FRENCH FRIES",
+    "price": "$14.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "FRIED ONIONS",
+    "price": "$12.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "CORN MANCHEGO",
+    "price": "$17.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "CHARRED BROCCOLINI",
+    "price": "$15.00",
+    "description": "",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "CHARRED ROMANESCO",
+    "price": "$14.00",
+    "description": "Marcona almond romesco sauce, herb aioli",
+    "options": []
+  },
+  {
+    "section": "CLASSIC & NEW SIDES",
+    "name": "ROAST BEEF HASH",
+    "price": "$15.00",
+    "description": "fried egg, horseradish gremolata",
+    "options": []
+  },
+  {
+    "section": "*",
+    "name": "*",
+    "price": "",
+    "description": "",
+    "options": []
+  }
+]

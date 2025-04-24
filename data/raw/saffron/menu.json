@@ -1,0 +1,457 @@
+[
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Blue Lagoon",
+    "description": "A wonderful fizzy drink with blue curracao, creama nd soda"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Fruit Punch",
+    "description": "An exotic mocktail with fruit pulp and dash of soda"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Pina Colada",
+    "description": "A tropical mocktail with pineapple juice and coconut cream"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Assorted Milk Shake",
+    "description": "Cool refreshing beverage made with milk and ice cream of your choice"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Fresh Fruit Juice",
+    "description": "Assorted seasonal fresh fruit juice served chilled"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Cold Coffee",
+    "description": "A chilled creamy Nescafe preparation"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Lassi (Sweet/Salted)",
+    "description": "A traditional North Indian drink made by blending yogurt salt/sugar and a dash of fresh creama"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Mango Lassi",
+    "description": "All time favorite"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Butter Milk",
+    "description": "The Authentic Indian Blend of yogurt with salt , coriander and cumin seeds"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Aerated Drinks",
+    "description": "Assorted soft drinks"
+  },
+  {
+    "category": "Assorted Beverages",
+    "item_name": "Bottled Water",
+    "description": "Packed drinking water"
+  },
+  {
+    "category": "Khane Se Pehle",
+    "item_name": "Tomato Soup",
+    "description": "A vegetable broth prepared using Garden Fresh Tomatoes, Herbs and Spices"
+  },
+  {
+    "category": "Khane Se Pehle",
+    "item_name": "Corn \"N\" Tomato Soup",
+    "description": "A healthy soup made from Garden Fresh Tomatoes with boiled Corn Kernels scraped in"
+  },
+  {
+    "category": "Khane Se Pehle",
+    "item_name": "Sweet Corn Veg. Soup",
+    "description": "A thick soup made from Fresh American Corns and Assorted Vegetables"
+  },
+  {
+    "category": "Khane Se Pehle",
+    "item_name": "Hot \"N\" Sour Soup",
+    "description": "A dark brown Chinese Soup with stir fried minced vegetables, ginger and garlic"
+  },
+  {
+    "category": "Khane Se Pehle",
+    "item_name": "Manchow Soup",
+    "description": "A popular Hot n Spicy Meal Soup prepared in Chinese style and served with Fried Noodles"
+  },
+  {
+    "category": "Jalwa-e-Tandoor",
+    "item_name": "Tandoori Special Sizzler",
+    "description": "Assorted varieties of tandoori kababs and tikkas served on a sizzler plate with tandoori sauce and special chatnis"
+  },
+  {
+    "category": "Jalwa-e-Tandoor",
+    "item_name": "Paneer Tiranga Dry",
+    "description": "A delicacy of the restaurant - Paneer marinated in three different yogurt sauces"
+  },
+  {
+    "category": "Jalwa-e-Tandoor",
+    "item_name": "Paneer Tiranga Dry(Lehsuni/Hariyali/Malai)",
+    "description": "A delicacy of the restaurant - Paneer marinated in three different yogurt sauces"
+  },
+  {
+    "category": "Jalwa-e-Tandoor",
+    "item_name": "Gobhi Tikka (Lehsuni/Hariyali/Malai)",
+    "description": "Pieces of Cauliflower marinated in lightly spiced Indian sauce and roasted in a Clay oven"
+  },
+  {
+    "category": "Jalwa-e-Tandoor",
+    "item_name": "Aloo (Chutney/Shikhari/Hariyali)",
+    "description": "Dices of Baby Potatoes mixed in a special piquant Indian Herb Sauce"
+  },
+  {
+    "category": "Jalwa-e-Tandoor",
+    "item_name": "Veg. Cheese Roll",
+    "description": "Chef's Special"
+  },
+  {
+    "category": "Jalwa-e-Tandoor",
+    "item_name": "Hara Bhara Kabab",
+    "description": "Deep Fried Kababs made of choicest vegetables boiled and mixed with Leafy Greens, Paneer and Bread Crumbs"
+  },
+  {
+    "category": "Jalwa-e-Tandoor",
+    "item_name": "Crispy Rumali Roti",
+    "description": ""
+  },
+  {
+    "category": "Chatpata Chinese",
+    "item_name": "Veg. Manchuruian (Dry/Gravy)",
+    "description": "Seasonal mixed vegetable dumplings cooked in Manchurian sauce"
+  },
+  {
+    "category": "Chatpata Chinese",
+    "item_name": "Chilly Paneer (Dry/Gravy)",
+    "description": "Crispy fried cottage cheese with dices on onion and capcicum cooked in  red chilly sauce"
+  },
+  {
+    "category": "Chatpata Chinese",
+    "item_name": "Schezwan Noodles",
+    "description": "Spicy soft noodles with vegetables in spicy Schezwan sauce"
+  },
+  {
+    "category": "Chatpata Chinese",
+    "item_name": "Veg. Fride Rice",
+    "description": ""
+  },
+  {
+    "category": "Chatpata Chinese",
+    "item_name": "Schezwan Fried Rice",
+    "description": "Steamed rice with vegetables in Schezwan  sauce"
+  },
+  {
+    "category": "Chatpata Chinese",
+    "item_name": "Chinese Bhel",
+    "description": ""
+  },
+  {
+    "category": "Chatpata Chinese",
+    "item_name": "Crispy Corn",
+    "description": "Veg fried corn kennels tossed in chilly soya sauce"
+  },
+  {
+    "category": "Chatpata Chinese",
+    "item_name": "Veg. Crispy",
+    "description": ""
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Afghani Bhurji",
+    "description": "Fresh cottage cheese grated and cooked with green pappers, tomatoes and onions"
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Balti",
+    "description": "Two different cuts of panner prepared in two different graviews and served layered in a balti."
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Kolhapuri",
+    "description": "Paneer coocked in a spicy kolhaouri gravy which is a combination of tomato and onion gravy."
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Handi",
+    "description": "dices of cottage cheese cookked on low heat in brown onion gravy and served in handi."
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Chatpata",
+    "description": "A spicy but tangy style of preparing cottage cheese in the chef's special style."
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Tikka Masala",
+    "description": "Barberqued paneer pieces cooked in makhani gravy."
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Butter Masala",
+    "description": "Matighons of fresh indain paneer in a tomato based makhani gravy with lots of cream."
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Cheese  Butter Masala",
+    "description": "Matighons of cheese in a tomato based makhani gravy with lots of cream."
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Palak",
+    "description": "Mildly spiced cottage cheese preparation in spinach and onion gravy."
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Kadai",
+    "description": "cubes of paneer, onion, tomatoes and green bell peppers tossed in indian gravy with whole spices"
+  },
+  {
+    "category": "Subz-e-Paneer",
+    "item_name": "Paneer Methi Garlic Masala",
+    "description": "Chef's Special"
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Saffron Special Vegetable",
+    "description": "A specialty made by our chef with passion."
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Khoya Kaju",
+    "description": "Cashew nuts cooked in khoya rich mild gravy with lots of cream."
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Kaju Makhani",
+    "description": "Choicest cashew nuts simmered in makhani gravy and cream."
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Navratan Korma",
+    "description": "Idealy a combanation of nine choicest vegitables, fruits and nuts prepaid in rich  mildgravy."
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Veg. Toofani",
+    "description": "Chefs special way of preparing the vegetables with ouch id north india."
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Veg. Makhanwala",
+    "description": "Fresh vegetable cooked in makhani gravy."
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Veg. Kadai",
+    "description": "Assorted garden fresh vegetables cooked in a mixture of makhani and onion gravy and served in a karahi."
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Veg. Jaipuri",
+    "description": "A elicious and colorful vegetatiean dish prepared in onion gravy."
+  },
+  {
+    "category": "Taaza Tarkariyan",
+    "item_name": "Veg Diwani Handi",
+    "description": "Garden fresh vegetable cooked with aromatic species and served in handi."
+  },
+  {
+    "category": "Kofte Ka Khazana",
+    "item_name": "Malai Kofta",
+    "description": "Delicious dumplings of paneer in rich creamy indian sauces."
+  },
+  {
+    "category": "Kofte Ka Khazana",
+    "item_name": "Palak Kofta",
+    "description": "Soft veggie balls prepared in spinach onion gravy."
+  },
+  {
+    "category": "Kofte Ka Khazana",
+    "item_name": "Shahi Kofta",
+    "description": "Stuffed dump;ings made with cheese and nuts in a cashew rich mild indian gravy."
+  },
+  {
+    "category": "Khaas Ap Ke Liye",
+    "item_name": "Palak Corn Capsicum",
+    "description": "A delectable corn & bell papper preparation in spinach & onion gravy."
+  },
+  {
+    "category": "Khaas Ap Ke Liye",
+    "item_name": "Corn Methi Malai",
+    "description": "Delightful blend of Fenugreek with Fresh American Corn in a creamy rich Gravy"
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Roti",
+    "description": "Flat discs of unleavened indian bread with a chewy texture"
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Butter Roti",
+    "description": "Butter added flat discs of unleavened indian bread with a chewy texture"
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Missi Roti",
+    "description": ""
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Paratha",
+    "description": "A flat disc of unleavened indian bread made from whole wheat flour and cooked in a tandoor."
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Paratha (Pudina/Stuffed)",
+    "description": "Pudhina added, A flat disc of unleavened indian bread made from whole wheat flour and cooked in a tandoor."
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Kulcha",
+    "description": "Flat bread from north indian made from maida and baked in a clay oven."
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Onion Kulcha",
+    "description": "Onion added, Flat bread from north indian made from maida and baked in a clay oven."
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Cheese Chilly Garlic Kulcha",
+    "description": "Garlic & cheese added, Flat bread from north indian made from maida and baked in a clay oven."
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Naan",
+    "description": "A leavened bread from north india made from maida and baked in a clay over."
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Garlic Naan",
+    "description": "Garlic added, A leavened bread from north india made from maida and baked in a clay over."
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Masala Cheese Naan",
+    "description": "Masala cheese added, A leavened bread from north india made from maida and baked in a clay over."
+  },
+  {
+    "category": "Tandoor Se",
+    "item_name": "Cheese Chilly Garlic Naan",
+    "description": "Cheese, chilly, & garlic stuffed, A leavened bread from north india made from maida and baked in a clay over.."
+  },
+  {
+    "category": "Dahi Ki Jugalbandhi",
+    "item_name": "Veg. Raita",
+    "description": "A cooling combanation of yogurt with fresh tomatoes, and cucumber and gatnished with roasted cummin seeds."
+  },
+  {
+    "category": "Dahi Ki Jugalbandhi",
+    "item_name": "Boondi Raita",
+    "description": "Deep fried lentil crumbs with seasoned creamy yogurt with fresh coriander."
+  },
+  {
+    "category": "Dahi Ki Jugalbandhi",
+    "item_name": "Pineapple Raita",
+    "description": "Dices of pineappple mixed sweetened reamy hung curd served chilled."
+  },
+  {
+    "category": "Saathmein",
+    "item_name": "Roasted Papad",
+    "description": ""
+  },
+  {
+    "category": "Saathmein",
+    "item_name": "Fried Papad",
+    "description": ""
+  },
+  {
+    "category": "Saathmein",
+    "item_name": "Masala Papad",
+    "description": ""
+  },
+  {
+    "category": "Saathmein",
+    "item_name": "Green Salad",
+    "description": ""
+  },
+  {
+    "category": "Saathmein",
+    "item_name": "French Fries",
+    "description": ""
+  },
+  {
+    "category": "Tadka Marke",
+    "item_name": "Dal Bukhara",
+    "description": "Assorted lentiles cooked in an authentics recipe on a low heat & thickedned with generous helping of cream & butter."
+  },
+  {
+    "category": "Tadka Marke",
+    "item_name": "Dal Tadka",
+    "description": "Thick lentils flavered with onion, ginger & garlic & tempered with butter & cumin seeds."
+  },
+  {
+    "category": "Basmati Ka Jaadu",
+    "item_name": "Saffron Special Pulao",
+    "description": "Our Chef's special recipe preparation of basmati with zaffran flavor."
+  },
+  {
+    "category": "Basmati Ka Jaadu",
+    "item_name": "Avadhi Dum Biryani",
+    "description": "Long grained rice fried in aromatic spices and herbs with fresh vegetables cooked in a handi."
+  },
+  {
+    "category": "Basmati Ka Jaadu",
+    "item_name": "Hyderabadi Biryani",
+    "description": "The cooking recipe comes all the way from hyderabad - A special style of minty flavored rice with fried onions."
+  },
+  {
+    "category": "Basmati Ka Jaadu",
+    "item_name": "Banarasi Pulao",
+    "description": "A vegetable pulao prepared with indian spices."
+  },
+  {
+    "category": "Basmati Ka Jaadu",
+    "item_name": "Jeera Rice",
+    "description": "Seasoned boiled basmati rice tossed in butter and cumin seeds."
+  },
+  {
+    "category": "Basmati Ka Jaadu",
+    "item_name": "Steamed Rice",
+    "description": ""
+  },
+  {
+    "category": "Ice Creams & Desserts",
+    "item_name": "Vanila (100 gm)",
+    "description": ""
+  },
+  {
+    "category": "Ice Creams & Desserts",
+    "item_name": "Strawberry (100 gm)",
+    "description": ""
+  },
+  {
+    "category": "Ice Creams & Desserts",
+    "item_name": "Kesar Pista (100 gm)",
+    "description": ""
+  },
+  {
+    "category": "Ice Creams & Desserts",
+    "item_name": "Chocolate Ice Cream (100 gm)",
+    "description": ""
+  },
+  {
+    "category": "Ice Creams & Desserts",
+    "item_name": "Butterscotch Ice Cream (100 gm)",
+    "description": ""
+  },
+  {
+    "category": "Ice Creams & Desserts",
+    "item_name": "Sizzling Brownie With Ice Cream (160 gm)",
+    "description": ""
+  }
+]

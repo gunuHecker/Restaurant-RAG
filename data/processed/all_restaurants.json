@@ -1,0 +1,5388 @@
+[
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "about",
+    "description": "Arya Bhavan offers a wide selection of South India Dishes for our esteemed patrons. All the South Indian delicacies are prepared by our expert chefs who use South Indian ingredients. Step into a tasteful journey where our chefs bring the flavors of the south onto your tables at Arya Bhavan.Indulge in South Indian delicacies like the variety of Dosa’s, Malabar paratha, Idli, Vada at Arya Bhavan – one of the top-rated vegetarian restaurants in Karol Bagh. A warm and prompt staff ensures that all your needs will get proper attention. Head to our South India restaurant near Karol Bagh and experience the finest delicacies today.”",
+    "about_us": "Arya Bhavan at Hotel Southern – The Top-rated South Indian QSR Veg Restaurant in Karol Bagh, New Delhi"
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "location",
+    "address": "18/1, Arya Samaj Rd, Block 18, WEA, Karol Bagh, Delhi-05",
+    "phone": "+91 8006698006",
+    "hours": "Monday – Sunday 06.30 AM – 11.00 PM"
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Idly (2Pc)",
+    "category": "south-indian",
+    "price": "80",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Podi Idly (2Pc)",
+    "category": "south-indian",
+    "price": "85",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mini Idly (12Pc)",
+    "category": "south-indian",
+    "price": "115",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Vada (2Pc)",
+    "category": "south-indian",
+    "price": "85",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Sambar Vada",
+    "category": "south-indian",
+    "price": "115",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rasam Vada",
+    "category": "south-indian",
+    "price": "115",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Dahi Vada (1Pc)",
+    "category": "south-indian",
+    "price": "70",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Dahi Vada (2Pc)",
+    "category": "south-indian",
+    "price": "120",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Upma",
+    "category": "south-indian",
+    "price": "110",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Ghee Pongal",
+    "category": "south-indian",
+    "price": "120",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Ghee Pongal + Vada (1Pc)",
+    "category": "south-indian",
+    "price": "150",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Poori Masala (2Pc)",
+    "category": "south-indian",
+    "price": "105",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Extra Sambar (250ml)",
+    "category": "south-indian",
+    "price": "50",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rava Kesari",
+    "category": "sweets",
+    "price": "85",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Gulab Jamun (2Pcs.)",
+    "category": "sweets",
+    "price": "70",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Sweet Pongal",
+    "category": "sweets",
+    "price": "85",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rasogolla (2Pcs.)",
+    "category": "sweets",
+    "price": "30",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tea",
+    "category": "beverages",
+    "price": "45",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Lamsa Tea (Hyderabadi Special Chai",
+    "category": "beverages",
+    "price": "50",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Masala Tea (Ginger with Cardamom",
+    "category": "beverages",
+    "price": "50",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Coffee (South Indian Filter)",
+    "category": "beverages",
+    "price": "50",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Cold Coffee",
+    "category": "beverages",
+    "price": "80",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Bournvita",
+    "category": "beverages",
+    "price": "65",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Holicks",
+    "category": "beverages",
+    "price": "65",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Badam Milk (Hot)",
+    "category": "beverages",
+    "price": "75",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Hot Milk",
+    "category": "beverages",
+    "price": "45",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Lassi (Sweet/Salt)",
+    "category": "beverages",
+    "price": "90",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Milk",
+    "category": "beverages",
+    "price": "75",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mineral Water",
+    "category": "beverages",
+    "price": "MRP",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Soft Drink (Cola, Lemon & Orange)",
+    "category": "beverages",
+    "price": "MRP",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Soda",
+    "category": "beverages",
+    "price": "MRP",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Fresh Lime Soda",
+    "category": "beverages",
+    "price": "70",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Cappuccino",
+    "category": "beverages",
+    "price": "75",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Cold Coffee with Ice Cream",
+    "category": "beverages",
+    "price": "110",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Strawberry",
+    "category": "milk-shakes",
+    "price": "135",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Vanilla",
+    "category": "milk-shakes",
+    "price": "125",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chocolate",
+    "category": "milk-shakes",
+    "price": "145",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Scotch",
+    "category": "milk-shakes",
+    "price": "145",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mango",
+    "category": "milk-shakes",
+    "price": "145",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Pina Colada",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Virgin Mojito",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Orange Sunrise",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Blue Lagoon",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Lemon Ice Tea",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Pakoda",
+    "category": "evening-snacks",
+    "price": "80",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Aloo Bonda",
+    "category": "evening-snacks",
+    "price": "75",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Paneer Bajji (2Pcs.)",
+    "category": "evening-snacks",
+    "price": "95",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Masala Vada",
+    "category": "evening-snacks",
+    "price": "70",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mirchi Bajji (3Pcs.)",
+    "category": "evening-snacks",
+    "price": "90",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Banana Bajji (4Pcs.)",
+    "category": "evening-snacks",
+    "price": "85",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Guntha Punugulu",
+    "category": "evening-snacks",
+    "price": "90",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Assorted Bajji",
+    "category": "evening-snacks",
+    "price": "100",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Fresh Lime",
+    "category": "fresh-juice",
+    "price": "55",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Pomegranate",
+    "category": "fresh-juice",
+    "price": "130",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Sweet Lime Juice",
+    "category": "fresh-juice",
+    "price": "115",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Apple Juice",
+    "category": "fresh-juice",
+    "price": "130",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Pineapple Juice",
+    "category": "fresh-juice",
+    "price": "120",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Watermelon Juice",
+    "category": "fresh-juice",
+    "price": "115",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Plain Dosa",
+    "category": "dosa",
+    "price": "125",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Dosa",
+    "category": "dosa",
+    "price": "140",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Masala Dosa",
+    "category": "dosa",
+    "price": "145",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Masala Dosa",
+    "category": "dosa",
+    "price": "155",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Podi Dosa",
+    "category": "dosa",
+    "price": "140",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Dosa",
+    "category": "dosa",
+    "price": "135",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Masala Dosa",
+    "category": "dosa",
+    "price": "155",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Ghee Roast Dosa",
+    "category": "dosa",
+    "price": "135",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Ghee Roast Masala Dosa",
+    "category": "dosa",
+    "price": "155",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Set Dosa (2pcs)",
+    "category": "dosa",
+    "price": "160",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rava Dosa",
+    "category": "dosa",
+    "price": "135",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Rava Dosa",
+    "category": "dosa",
+    "price": "155",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rava Masala Dosa",
+    "category": "dosa",
+    "price": "160",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Coconot Rava Dosa",
+    "category": "dosa",
+    "price": "150",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Rava Masala Dosa",
+    "category": "dosa",
+    "price": "170",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Green Moong Dosa (Pesarattu)",
+    "category": "dosa",
+    "price": "135",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Green Moong Dosa (Pesarattu)",
+    "category": "dosa",
+    "price": "150",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Uttapam",
+    "category": "uttapam",
+    "price": "135",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Uttapam",
+    "category": "uttapam",
+    "price": "150",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tomato Uttapam",
+    "category": "uttapam",
+    "price": "150",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mix Vegetable Uttapam",
+    "category": "uttapam",
+    "price": "160",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tomato Coconut Uttapam",
+    "category": "uttapam",
+    "price": "160",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mysore Masala Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "155",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Spring Roll Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "170",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Coconot Rava Masala Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "165",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "M.L.A Pesarattu (with Upma)",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "165",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Arya Bhavan Paneer Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "170",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Podi Ghee Masala Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "170",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Adai Avail Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "175",
+    "recommended": true,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Malabar Parotta 2Pc with Veg Korma",
+    "category": "parotta",
+    "price": "155",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chapati 3Pc with Veg Korma",
+    "category": "parotta",
+    "price": "145",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Veg Khothu Parotta",
+    "category": "parotta",
+    "price": "150",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Sambar Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tomato Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tamarind Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Lemon Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Curd Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Masala Dosa + Dahi Vada (1Pc)",
+    "category": "combos",
+    "price": "190",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Green Moong Dosa + Dahi Vada (1Pc)",
+    "category": "combos",
+    "price": "195",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mini Meal",
+    "category": "combos",
+    "price": "190",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "South Indian Platter",
+    "category": "combos",
+    "price": "195",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chocolate Surprise",
+    "category": "combos",
+    "price": "120",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Bunny Hug",
+    "category": "combos",
+    "price": "130",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Malabar Parotta 2Pc with Veg Korma",
+    "category": "parotta",
+    "price": "155",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chapati 3Pc with Veg Korma",
+    "category": "parotta",
+    "price": "145",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Veg Khothu Parotta",
+    "category": "parotta",
+    "price": "150",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Vanilla",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Strawberry",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chocolate",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Scotch",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mango",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false,
+    "options": []
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "review",
+    "author": "Rahim Al Azzi",
+    "review": "The great Indian south india tali, little bit expensive but good taste., Remember that etra rice they charge you 🤠"
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "review",
+    "author": "DANIEL MATHANGI",
+    "review": "Arya Bhavan the Telugu restaurant serves only veg and the southern dishes"
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "review",
+    "author": "Kusuma Krishna Sankar",
+    "review": "It is part of sothern hotel. good ambience. authentic south breakfast. digital payments accepted."
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "review",
+    "author": "Hemansh Sanadhya",
+    "review": "Food was amazing, affordable and they really serve authentic South Indian cuisine. Highly recommended."
+  },
+  {
+    "restaurant_name": "Copper Chimney",
+    "type": "about",
+    "about_us": "Copper Chimney is an ode to secret recipes and cooking techniques from across Undivided North India. Founded by JK Kapur in 1972 in erstwhile Bombay, Copper Chimney serves up a flavourful melange of its signature Indian dishes, flavours and ingredients to deliver an unforgettable dining experience.",
+    "our_story": "During the Partition, Mr. JK Kapur migrated to newly independent India. He always wanted to share with the city the culinary experience reminiscent of his years growing up near the North West Frontier Province. In November 1972, 25 years after he first landed in this new city, his love for the food took shape as the first Copper Chimney in the heart of Bombay. Every detail, from the even heating of custom clay ovens, to the creation of distinctive spice blends showcases the skills of our 'Ustads', our trained master chefs who were trained under JK Kapur and have perfected over the years, the art of preparing and presenting dishes that are simply unforgettable. Over the past 5 decades, Copper Chimney has taken millions of guests on a culinary journey exploring and celebrating  Indian cuisine, culture, and flavours. (PICTURE ON RIGHT) THE LEGENDARY BOLLYWOOD ACTOR MR. DILIP KUMAR INAUGRATED THE ORIGINAL AND MANY OF THE SUBSEQUENT COPPER CHIMNEYS. Seen on the right is the iconic launch day photo featuring Mr. Prem Chaddha (Left), Mr. Dilip Kumar (Center) and Mr. JK Kapur (Right) at the lauch of the first Copper Chimney in erstwhile Bombay in November 1972 During the Partition of India in 1947, Mr. JK Kapur migrated to Bombay from modern-day Pakistan. He always wanted to share with the city the culinary experience reminiscent of his years growing up near the North West Frontier Province. In November 1972, 25 years after he first landed in this new city, his love for the food took shape as the first Copper Chimney in the heart of Bombay. Every detail, from the even heating of custom clay ovens, to the creation of distinctive spice blends showcases the skills of our 'Ustads', our trained master chefs who have perfected over the years, the art of preparing and presenting dishes that are simply unforgettable. Over the past 4 decades, Copper Chimney has taken millions of guests on a culinary journey exploring and celebrating  Indian cuisine, culture, and flavours. (PICTURE ON TOP) THE LEGENDARY BOLLYWOOD ACTOR MR. DILIP KUMAR INAUGRATED THE ORIGINAL AND MANY OF THE SUBSEQUENT COPPER CHIMNEYS. Seen on the top is the iconic launch day photo featuring Mr. Prem Chaddha (Left), Mr. Dilip Kumar (Center) and Mr. JK Kapur (Right) at the lauch of the first Copper Chimney in erstwhile Bombay in November 1972",
+    "awards": "Over the years, Copper Chimney has won numerous awards and accolades and it continues to feature regularly in the news for its award-wining cuisine and strong history.",
+    "contact": "info@charcoalconcepts.com"
+  },
+  {
+    "restaurant_name": "Copper Chimney",
+    "type": "location",
+    "locations": [
+      {
+        "name": "R-City Mall, Ghatkopar",
+        "address": "3rd Floor,R-City Mall, Lal Bahadur Shastri Marg, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086"
+      },
+      {
+        "name": "Oberoi Mall, Goregoan (E),mumbai",
+        "address": "2nd floor , Oberoi mall ,Yashodham, Goregaon, Mumbai, Maharashtra 400063"
+      },
+      {
+        "name": "Lotus Court, Worli, mumbai",
+        "address": "12-A, Lotus Court, Dr. A.B. Road, Mumbai."
+      },
+      {
+        "name": "Kala Ghoda,Fort, Mumbai",
+        "address": "Ground Floor, 3/3A, Hari Chambers, Shahid Bhagat Singh Road, Kalaghoda, Fort, Mumbai, Maharashtra - 400001"
+      },
+      {
+        "name": "Bandra Kurla Complex, Bandra East, mumbai",
+        "address": "Bandra Kurla Complex, Next to Asian Heart Hospital, Mumbai."
+      },
+      {
+        "name": "Linking Road, Bandra (W), Mumbai",
+        "address": "266, Linking Rd, Bandra West, Mumbai, Maharashtra 400050"
+      },
+      {
+        "name": "Delivery Kitchen- Powai",
+        "address": "B-10, Kailash Industrial Complex Veer Savarkar Marg, Park\n      Site Rd, Vikhroli West, Mumbai."
+      },
+      {
+        "name": "Juhu,mumbai",
+        "address": "Juhu Tara Road, Next Juhu Residency Hotel, opp, HSBC, Mumbai, Maharashtra 400049"
+      },
+      {
+        "name": "Infiniti Mall, Malad (W), Mumbai",
+        "address": "Food Court, Infiniti Mall, Link Road, Malad West , Mumbai - 400064"
+      },
+      {
+        "name": "Viviana Mall, Thane, Mumbai",
+        "address": "2nd Floor, Viviana Mall, Eastern Express Highway, Near Jupiter Hospital, Majiwada, Thane West."
+      },
+      {
+        "name": "Nexus Mall, Seawood, Navi mumbai",
+        "address": "2 Floor, Sea woods Grand Central Mall, Near Seawoods Railway Station."
+      },
+      {
+        "name": "Phoenix Marketcity, Viman Nagar, Pune",
+        "address": "3rd Floor, Phoenix Market City Mall, Viman Nagar, Pune."
+      },
+      {
+        "name": "Phoenix Mall of the Milleninum, Wakad, Pune",
+        "address": "2nd floor S No. 132, 23, Phoenix mall Millennium, Western Avenue 1-type , Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057"
+      },
+      {
+        "name": "Phoenix Marketcity Whitefield, Banglore",
+        "address": "1st Floor, Phoenix Market City, Whitefield, Bangalore."
+      },
+      {
+        "name": "RMZ Galleria Mall, Yelahanka, Banglore",
+        "address": "RMZ Galleria, Bellary Rd, Yelahanka, Bengaluru, Karnataka 560064."
+      },
+      {
+        "name": "M5 E-City",
+        "address": "Address – 4th floor,M5 E-City Mall, Veerasandra industrial Area, Hosur Rd, opposite to Electronic City Flyover, Phase 2, Electronic City, Bengaluru, Karnataka 560100"
+      },
+      {
+        "name": "Prestige Tech Park",
+        "address": "1st Floor, Gravity Building, Prestige Tech Park, Outer Ring Rd, Kadubeesanahalli, Bengaluru, Karnataka - 560103"
+      },
+      {
+        "name": "Cathdral Road, Chennai",
+        "address": "73, Cathedral Road, Gopalapuram, Chennai."
+      },
+      {
+        "name": "Phoenix Marketcity, Velachery, Chennai",
+        "address": "2nd Floor, Phoenix Market City, Indira Gandhi Nagar, Velachery, Chennai."
+      },
+      {
+        "name": "Vishal Cinema, Rajouri Garden, Delhi",
+        "address": "GF-06, Vishal Cinema, Shivaji Place, Vishal Enclave, Tagore Garden Extension, New Delhi, Delhi 110027."
+      },
+      {
+        "name": "DLF Cyber Hub, Gurugram",
+        "address": "11, DLF Cyber City, DLF Phase 2, Sector 25, Gurugram, Haryana 122022."
+      },
+      {
+        "name": "Kolkata Airport",
+        "address": "International Airport, Dum Dum, Kolkata."
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Indiranagar",
+    "address": "#219, opp. BDA Complex, 2nd Stage, Binnamangala, Indiranagar, Bengaluru, Karnataka 560038",
+    "phone": "8431432806"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Jayanagar 8th Block",
+    "address": "502/37, 40th cross, 1st Main Rd, 8th Block, Jayanagar, Bengaluru, Karnataka 560070",
+    "phone": "9880277785"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Nagavara",
+    "address": "Katha No. 310/73/85, situated at Chalukaya Layout, Nagavara, Bangalore – 560045",
+    "phone": "9606992893"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Prestige Falcon City",
+    "address": "Prestige Falcon City, Cross, Kanakapura Rd, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560062",
+    "phone": "9741971010"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Rajarajeshwari Nagar",
+    "address": "Ideal Home Township, Phase 1, Sector – B, 335, Rajarajeshwari Temple Rd,  Remco Bhel Layout, Javarandoddi, Bengaluru, Karnataka 560098",
+    "phone": "9538100114"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Sarjapur Road",
+    "address": "2217/62//2C, Sarjapur Main Rd, above Bank Of Baroda, near Wipro Corporate Office, Doddakannelli, Bengaluru, Karnataka 560035",
+    "phone": "8123368282"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Uttarahalli",
+    "address": "No-469 Rajarajeshwari CMC, Sri BL Lekkegowda Nagara The Bharath Housing Co Operative, Society Ltd, Uttarahalli Hobli, Bengaluru, Karnataka 560061",
+    "phone": "8867302229"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Chandra Layout",
+    "address": "90, Chandra Layout Main Rd, KP Agrahara, Govindaraja Nagar Ward, Maruthi Nagar, Vijayanagar, Bengaluru, Karnataka 560040",
+    "phone": "9380909955"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Jayanagar 4th Block",
+    "address": "4, 8th C Main Road, 4th T Block East, 4th Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "phone": "9880277792"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "J P Nagar",
+    "address": "No. 37, Aster RV Hospital Campus, 24th Main Rd, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "phone": "9380909952"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Kanakapura Road",
+    "address": "Ground Floor, 67, Kanakapura Rd, next to Vaishnavi Residency, Yelachenahalli, Naidu Layout, Bengaluru, Karnataka 560078",
+    "phone": "8431432804"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Malleshwaram",
+    "address": "598, Sampige Road, 15th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003",
+    "phone": "9380909959"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "MG Road",
+    "address": "Shop No. 104, Dhavanam Emporium, 46, Mahatma Gandhi Rd,  Shanthala Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "phone": "9380909957"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Dickenson Road",
+    "address": "No:105, Bharathi Nagar Ulsoor, Ward, Dickenson Rd, Bengaluru, Karnataka 560042",
+    "phone": "9972944490"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Vidyaranyapura",
+    "address": "BEL Layout 2nd Block, Chamundeswari Layout, Vidyaranyapura, Bengaluru, Karnataka 560097",
+    "phone": "7348871555"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Nandi Upachar - Devanahalli",
+    "address": "29/5, Hoysala Corpus, BB Road, Rani Circle, NH 44, Devanahalli, Bengaluru, Karnataka 562110",
+    "phone": "7026628185"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Madikeri",
+    "address": "No 10-1-10-11 Block No 11 Survey No-390/6, P2, Kohinoor Rd, Stuart Hill, Madikeri, Karnataka 571201",
+    "phone": "8904742229"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Sira",
+    "address": "No-4903/96/2 Site No- 55, Near K.S.R.T.C Depot, Saraswathi Badavane, N.H-4, Sira, Karnataka 572137",
+    "phone": "8904253336"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "T-Begur",
+    "address": "Thyamagondlu Cross, Karnataka 562123",
+    "phone": "8904293336"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Yediyur",
+    "address": "Koppa Bangalore Mangalore Highway, NH75, Kunigal, Karnataka 572142",
+    "phone": "7760844465"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Udupi",
+    "address": "Survey No 127/34, Ward No 26, Kalsanka, Kadiyali Road, Kunjibettu, Udupi District, Karnataka 576102",
+    "phone": "8123354949"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Kumbhashi",
+    "address": "No 26,28 Kumbhashi Village, National Highway 66 (OLD NH-17, Taluk, Kundapura, Karnataka 576257",
+    "phone": "9880007978"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Channapattana",
+    "address": "No-300/81, Ground Floor, A & N Arcade Settihalli Village, Bengaluru – Mysore Highway, Taluk, near A & N Arcade, Ramanagara, Karnataka 562160",
+    "phone": "9632017948"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Hoskote",
+    "address": "3RRM+2XQ, Mugabala Panchyathi, Halasahalli, Karnataka 562114",
+    "phone": "9686004303"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Solur",
+    "address": "No76B, NGB, Compound, Kannasandra Village, Kudur, Hobli, Magadi, Karnataka 562127",
+    "phone": "9880007966"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Murudeshwara",
+    "address": "Survey No-819, Sannakuppe, Shirali Village, Hobli, Mavalli, Bhatkal, Karnataka 581354",
+    "phone": "9632017984"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Chitradurga",
+    "address": "No Mrh 39/22017-18, Khata No 5, Sy No 97/1, Kasaba Hobli, Gonuru Grama, Ng 48, Chitradurga, Karnataka – 577502",
+    "phone": "7795556894"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Nelamangala",
+    "address": "Sy No. 157, Bhavikere, Karnataka 562123",
+    "phone": "9632017948"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Ananthpuram",
+    "address": "No:35/1, Prasannayapalli Panchayat, NH- 44 Hyderabad Bengaluru Highway, Anantapur District, Andhra Pradesh, 515004.",
+    "phone": "9035018882"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "location",
+    "name": "Koneripalli",
+    "address": "NO.1 IOCL- Swagath – Coco Petrol Pump,NH-44,Koneripalli, Dist-Krishnagiri,Tamil Nadu-635117.",
+    "phone": "9632017942"
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "IDLI",
+    "category": "Snacks & Thindi",
+    "description": "Soft steamed rice cakes made from a batter of fermented rice and black lentils",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VADA",
+    "category": "Snacks & Thindi",
+    "description": "Deep-fried lentil donuts seasoned with spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "KESARI BATH",
+    "category": "Snacks & Thindi",
+    "description": "A sweet semolina dessert enriched with ghee, saffron, and garnished with cashews",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "KHARA BATH",
+    "category": "Snacks & Thindi",
+    "description": "Semolina spiced with mustard seeds, curry leaves, and vegetables",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PONGAL",
+    "category": "Snacks & Thindi",
+    "description": "A savoury rice and lentil porridge, seasoned with aromatic spices, ghee, and garnished with cashews",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "POORI SAAGU",
+    "category": "Snacks & Thindi",
+    "description": "Fluffy deep-fried bread (poori) served with a flavourful South Indian vegetable stew (saagu) featuring potatoes, carrots, peas, and spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BONDA SOUP",
+    "category": "Snacks & Thindi",
+    "description": "Lentil dumplings in a special broth, featuring lentils, black pepper seeds, vegetables, tamarind & spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BANANA BUNS",
+    "category": "Snacks & Thindi",
+    "description": "Soft, freshly baked bread rolls made with banana, premium flour, yeast, and a touch of honey for a delicate sweetness",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "AKKI ROTTI",
+    "category": "Snacks & Thindi",
+    "description": "Rice flour, water, salt, and a blend of finely chopped vegetables; pan-fried to golden perfection",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MADDUR VADA",
+    "category": "Snacks & Thindi",
+    "description": "Crispy lentil fritter with rice flour, semolina, onions, curry leaves, and a hint of spices, deep-fried to perfection",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PLAIN DOSE",
+    "category": "DOSE",
+    "description": "A thin, fermented rice and urad dal crepe, served with\ncoconut chutney and tangy sambar",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MASALA DOSE",
+    "category": "DOSE",
+    "description": "A thin rice crepe filled with spiced potato, served with\ncoconut chutney and tangy sambar",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "OPEN BUTTER MASALA DOSE",
+    "category": "DOSE",
+    "description": "Thin rice crepe filled with spiced mashed potatoes, butter\nand garnished with cilantro and coconut chutney",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "RAVA DOSE",
+    "category": "DOSE",
+    "description": "A fermented semolina batter, crisped to perfection,\nserved with coconut chutney and tangy sambar",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SET DOSE",
+    "category": "DOSE",
+    "description": "Soft and fluffy rice and urad dal pancakes, served in a set\nof three, with onion and carrot toppings",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PUDI DOSE",
+    "category": "DOSE",
+    "description": "Dose with a spiced lentil powder spread, made from\nurad dal, chana dal, and various spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PANEER MASALA DOSE",
+    "category": "DOSE",
+    "description": "Dosa filled with a savory mixture of Indian\ncottage cheese (paneer), spices, and herbs",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CHEESE MASALA DOSE",
+    "category": "DOSE",
+    "description": "Fermented rice and urad dal batter, stuffed with a\nflavourful spiced potato filling, and topped with a\ndecadent layer of melted cheese",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ONION DOSE",
+    "category": "DOSE",
+    "description": "Dosa with a generous topping of finely chopped\nonions and seasoned with spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "NEER DOSE",
+    "category": "DOSE",
+    "description": "Thin, delicate dosa made from rice batter,\ntypically served with a coconut chutney",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "COFFEE",
+    "category": "HOT BEVERAGES",
+    "description": "Finely ground coffee beans brewed\nwith hot water",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "TEA",
+    "category": "HOT BEVERAGES",
+    "description": "A blend of high-quality tea leaves steeped\nin hot water",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MASALA TEA",
+    "category": "HOT BEVERAGES",
+    "description": "Tea infused with aromatic spices like cardamom,\ncinnamon, and cloves",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SPL ORGANIC JAGGERY COFFEE",
+    "category": "HOT BEVERAGES",
+    "description": "Coffee sweetened with organic jaggery, a natural\nsweetener",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "HORLICKS",
+    "category": "HOT BEVERAGES",
+    "description": "A malted milk powder drink made with hot milk,\nproviding a wholesome and comforting beverage",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CREAM OF MUSHROOM",
+    "category": "SOUPS",
+    "description": "Fresh mushrooms, cream, onions, garlic, vegetable\nbroth, butter, and seasoning",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "HOT & SOUR",
+    "category": "SOUPS",
+    "description": "Bamboo shoots, tofu, wood ear fungus, vinegar, soy\nsauce, chili, and a mix of vegetables in a tangy broth",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SWEET CORN VEG",
+    "category": "SOUPS",
+    "description": "Sweet corn kernels, mixed vegetables, vegetable broth,\nsoy sauce, and a hint of ginger and garlic",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CREAM OF PALAK",
+    "category": "SOUPS",
+    "description": "Spinach, cream, onions, garlic, vegetable broth, butter,\nand aromatic spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG CLEAR SOUP",
+    "category": "SOUPS",
+    "description": "Clear vegetable broth with a variety of finely chopped\nvegetables, herbs, and spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG SHEEK KABAB",
+    "category": "INDIAN STARTERS",
+    "description": "Mix of minced vegetables, spices, and gram flour, skewered and grilled to perfection",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "HARA BHARA TIKKA",
+    "category": "INDIAN STARTERS",
+    "description": "Blend of spinach, peas, and potatoes seasoned with aromatic spices, shaped into kababs and cooked until golden",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MUSHROOM TIKKA",
+    "category": "INDIAN STARTERS",
+    "description": "Fresh mushrooms marinated in a spiced yogurt mixture, skewered and tandoor-grilled for a smoky flavor",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MALAI PANEER TIKKA",
+    "category": "INDIAN STARTERS",
+    "description": "Cubes of paneer (indian cottage cheese) marinated in a creamy mixture of yogurt, cream, and spices, then grilled to perfection",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "TANDOORI GOBI",
+    "category": "INDIAN STARTERS",
+    "description": "Cauliflower florets marinated in a spicy tandoori mixture and roasted in the urn-shaped oven for a flavorful bite",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GOBI MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Marinate cauliflower florets in a seasoned batter & deep-fry to perfection and toss with chilli Manchurian sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PANEER MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Cottage cheese tossed in a flavourful blend of soy sauce, ginger, garlic, tomato sauce, and green onions, creating a delightful Indo-Chinese fusion dish",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BABY CORN MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Tender baby corn coated in a zesty batter, deep-fried to golden perfection, and tossed in a tangy Manchurian sauce made with soy sauce, ginger, garlic, and a hint of sweetness",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MUSHROOM MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Tender mushrooms tossed in a flavourful blend of soy sauce, ginger, garlic, tomato sauce, and green onions, creating a delightful Indo-Chinese fusion dish",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GOBI CHILLI",
+    "category": "CHINESE STARTERS",
+    "description": "Marinated Cauliflower florets in seasoned batter, perfectly deep-fried and generously coated in a flavourful manchurian sauce.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GOBI PEPPER DRY",
+    "category": "CHINESE STARTERS",
+    "description": "Cauliflower florets marinated in batter and deep-fried and tossed in soy sauce, black pepper & green onions",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BABY CORN 65",
+    "category": "CHINESE STARTERS",
+    "description": "Succulent baby corn marinated in a spicy mix, deep-fried to a crispy texture, and garnished with curry leaves, green chilies, and a dash of lemon for a zingy and aromatic experience",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MUSHROOM PEPPER DRY",
+    "category": "CHINESE STARTERS",
+    "description": "Tender mushrooms sautéed with vibrant bell peppers, tossed in spices, and finished with a hint of cracked black pepper for a bold and flavourful explosion",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CRISPY BABYCORN",
+    "category": "CHINESE STARTERS",
+    "description": "Tender babycorn coated in a delicate batter, deep-fried\nto golden perfection",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG BALL MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Vegetable balls immersed in a savory Manchurian gravy, delivering a rich and satisfying taste",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ALOO GOBI",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Fresh cauliflower and potatoes squtéed with aromatic spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ALOO JEERA (DRY)",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Potatoes tossed with cumin seeds, creating a flavourful dry dish",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ALOO METHI",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Potatoes cooked with fenugreek leaves, delivering a delightful herbal twist",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ALOO MUTTER",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Potatoes and peas in a spiced tomato-based gravy",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BHINDI FRY",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Crispy fried okra seasoned with Indian spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAL MAKHANI",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Black lentils and kidney beans simmered in a rich,\ncreamy tomato sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAL PALAK",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Lentils combined with spinach, creating a nutritious and flavourful dish",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "KADAI PANEER",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Paneer (Indian cottage cheese) and bell peppers in a spiced tomato gravy",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PAAKASHALA SPL CURRY",
+    "category": "NORTH INDIAN CURRY",
+    "description": "A rich blend of Amul butter, paneer and a medley of mixed vegetables crafted from luscious tomato puree, finely chopped onions, creamy cashew nuts with spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG SHAHI PANEER",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Assorted vegetables with paneer in a royal, creamy sauce.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ROTI",
+    "category": "ROTI KA PARIWAR",
+    "description": "A classic unleavened Indian bread made with whole wheat flour, water, and a pinch of salt.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "NAAN",
+    "category": "ROTI KA PARIWAR",
+    "description": "Soft, leavened bread crafted from refined flour, yogurt, yeast, and a touch of ghee.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "KULCHA",
+    "category": "ROTI KA PARIWAR",
+    "description": "A delightful variation of naan, featuring all-purpose flour, yogurt, and baking powder for a lighter texture.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BUTTER ROTI",
+    "category": "ROTI KA PARIWAR",
+    "description": "Our traditional roti generously brushed with clarified butter (ghee) for a rich and flavourful experience.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GARLIC NAAN",
+    "category": "ROTI KA PARIWAR",
+    "description": "Naan infused with minced garlic, offering a savory and aromatic twist to your dining experience.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG FRIED RICE",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "A blend of jasmine rice, colourful mixed vegetables, scrambled tofu, and a dash of soy sauce, wok-tossed to perfection.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG NOODLES",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "Thin eggless noodles stir-fried with an assortment of crisp vegetables and seasoned with a light soy-based sauce.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PANEER NOODLES",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "Soft paneer chunks mingling with eggless noodles, crisp vegetables, and a subtle blend of spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MUSHROOM FRIED RICE",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "Fragrant jasmine rice stir-fried with plump mushrooms, vibrant vegetables, and a touch of soy sauce, creating a savory and satisfying dish.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG SCHEZWAN NOODLES",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "Eggless noodles bathed in a bold Schezwan sauce, combined with a medley of vegetables.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SAMOSA",
+    "category": "CHAATS",
+    "description": "Triangular pastry pockets filled with spiced potatoes, peas, and Indian spices, deep-fried until golden brown.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAHI PURI",
+    "category": "CHAATS",
+    "description": "Hollow puris filled with spiced potatoes, chickpeas, and topped with yogurt, tamarind chutney, and sev.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CHEESE MASALA PAV",
+    "category": "CHAATS",
+    "description": "Mixed vegetables cooked in a flavorful spice blend, served with buttered buns and topped with melted cheese.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PAPADI CHAAT",
+    "category": "CHAATS",
+    "description": "Crispy papadis topped with potatoes, chickpeas, yogurt, and various chutneys.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SEV PURI",
+    "category": "CHAATS",
+    "description": "Flat puris topped with spiced mashed potatoes, onions, sev, and chutneys.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PANEER PAV",
+    "category": "CHAATS",
+    "description": "Mixed vegetables with paneer (Indian cottage cheese), served with buttered buns and garnished with cilantro.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PAANI PURI",
+    "category": "CHAATS",
+    "description": "Hollow puris filled with a mixture of flavoured water, tamarind chutney, potatoes, and chickpeas.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SEV BATATA PURI",
+    "category": "CHAATS",
+    "description": "Crisp puris filled with spiced potatoes, topped with sev (thin gram flour noodles), and various chutneys.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAHI BALLA",
+    "category": "CHAATS",
+    "description": "Soft lentil dumplings soaked in yogurt and topped with tamarind chutney and spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAHI SAMOSA CHAAT",
+    "category": "CHAATS",
+    "description": "Crisp samosas topped with yogurt, chutneys, and spices for a delightful chaat experience.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GULAB JAMOON",
+    "category": "DESSERTS",
+    "description": "Deep-fried milk dumplings soaked in sugar syrup, flavoured with cardamom and rose water, and topped with pistachios.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CARROT HALWA",
+    "category": "DESSERTS",
+    "description": "Finely grated carrots cooked with ghee, milk, sugar, and cardamom, garnished with chopped nuts.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CHANDRAHARA",
+    "category": "DESSERTS",
+    "description": "Flaky pastry made from ail-purpose flour, ghee, and a touch of sugar, deep-fried to golden perfection.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "HAL BAI",
+    "category": "DESSERTS",
+    "description": "Creamy yogurt-based curry with fenugreek leaves, mustard seeds, and aromatic Indian spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "FRUIT MIXTURE",
+    "category": "DESSERTS",
+    "description": "Fresh seasonal fruits tossed in a light citrus dressing.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GULKAND ICE CREAM",
+    "category": "DESSERTS",
+    "description": "Rose petal-infused ice cream with the sweet touch of gulkand.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GUD BUD ICECREAM",
+    "category": "DESSERTS",
+    "description": "A unique treat featuring jaggery-infused ice cream with a hint of cardamom.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "FRUIT SALAD PLAIN",
+    "category": "DESSERTS",
+    "description": "A refreshing medley of seasonal fruits for a light and healthy option.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BANANA SPLIT ICE CREAM",
+    "category": "DESSERTS",
+    "description": "A classic dessert with bananas, ice cream, and indulgent toppings.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "FALOODA",
+    "category": "DESSERTS",
+    "description": "A rich and creamy dessert drink with layers of falooda noodles, basil seeds, and ice cream.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "IDLI",
+    "category": "Snacks & Thindi",
+    "description": "Soft steamed rice cakes made from a batter of fermented rice and black lentils",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VADA",
+    "category": "Snacks & Thindi",
+    "description": "Deep-fried lentil donuts seasoned with spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "KESARI BATH",
+    "category": "Snacks & Thindi",
+    "description": "A sweet semolina dessert enriched with ghee, saffron, and garnished with cashews",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "KHARA BATH",
+    "category": "Snacks & Thindi",
+    "description": "Semolina spiced with mustard seeds, curry leaves, and vegetables",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PONGAL",
+    "category": "Snacks & Thindi",
+    "description": "A savoury rice and lentil porridge, seasoned with aromatic spices, ghee, and garnished with cashews",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "POORI SAAGU",
+    "category": "Snacks & Thindi",
+    "description": "Fluffy deep-fried bread (poori) served with a flavourful South Indian vegetable stew (saagu) featuring potatoes, carrots, peas, and spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BONDA SOUP",
+    "category": "Snacks & Thindi",
+    "description": "Lentil dumplings in a special broth, featuring lentils, black pepper seeds, vegetables, tamarind & spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BANANA BUNS",
+    "category": "Snacks & Thindi",
+    "description": "Soft, freshly baked bread rolls made with banana, premium flour, yeast, and a touch of honey for a delicate sweetness",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "AKKI ROTTI",
+    "category": "Snacks & Thindi",
+    "description": "Rice flour, water, salt, and a blend of finely chopped vegetables; pan-fried to golden perfection",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MADDUR VADA",
+    "category": "Snacks & Thindi",
+    "description": "Crispy lentil fritter with rice flour, semolina, onions, curry leaves, and a hint of spices, deep-fried to perfection",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PLAIN DOSE",
+    "category": "DOSE",
+    "description": "A thin, fermented rice and urad dal crepe, served with\ncoconut chutney and tangy sambar",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MASALA DOSE",
+    "category": "DOSE",
+    "description": "A thin rice crepe filled with spiced potato, served with\ncoconut chutney and tangy sambar",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "OPEN BUTTER MASALA DOSE",
+    "category": "DOSE",
+    "description": "Thin rice crepe filled with spiced mashed potatoes, butter\nand garnished with cilantro and coconut chutney",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "RAVA DOSE",
+    "category": "DOSE",
+    "description": "A fermented semolina batter, crisped to perfection,\nserved with coconut chutney and tangy sambar",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SET DOSE",
+    "category": "DOSE",
+    "description": "Soft and fluffy rice and urad dal pancakes, served in a set\nof three, with onion and carrot toppings",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PUDI DOSE",
+    "category": "DOSE",
+    "description": "Dose with a spiced lentil powder spread, made from\nurad dal, chana dal, and various spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PANEER MASALA DOSE",
+    "category": "DOSE",
+    "description": "Dosa filled with a savory mixture of Indian\ncottage cheese (paneer), spices, and herbs",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CHEESE MASALA DOSE",
+    "category": "DOSE",
+    "description": "Fermented rice and urad dal batter, stuffed with a\nflavourful spiced potato filling, and topped with a\ndecadent layer of melted cheese",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ONION DOSE",
+    "category": "DOSE",
+    "description": "Dosa with a generous topping of finely chopped\nonions and seasoned with spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "NEER DOSE",
+    "category": "DOSE",
+    "description": "Thin, delicate dosa made from rice batter,\ntypically served with a coconut chutney",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "COFFEE",
+    "category": "HOT BEVERAGES",
+    "description": "Finely ground coffee beans brewed\nwith hot water",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "TEA",
+    "category": "HOT BEVERAGES",
+    "description": "A blend of high-quality tea leaves steeped\nin hot water",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MASALA TEA",
+    "category": "HOT BEVERAGES",
+    "description": "Tea infused with aromatic spices like cardamom,\ncinnamon, and cloves",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SPL ORGANIC JAGGERY COFFEE",
+    "category": "HOT BEVERAGES",
+    "description": "Coffee sweetened with organic jaggery, a natural\nsweetener",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "HORLICKS",
+    "category": "HOT BEVERAGES",
+    "description": "A malted milk powder drink made with hot milk,\nproviding a wholesome and comforting beverage",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ALOO GOBI",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Fresh cauliflower and potatoes squtéed with aromatic spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ALOO JEERA (DRY)",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Potatoes tossed with cumin seeds, creating a flavourful dry dish",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ALOO METHI",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Potatoes cooked with fenugreek leaves, delivering a delightful herbal twist",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ALOO MUTTER",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Potatoes and peas in a spiced tomato-based gravy",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BHINDI FRY",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Crispy fried okra seasoned with Indian spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAL MAKHANI",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Black lentils and kidney beans simmered in a rich,\ncreamy tomato sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAL PALAK",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Lentils combined with spinach, creating a nutritious and flavourful dish",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "KADAI PANEER",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Paneer (Indian cottage cheese) and bell peppers in a spiced tomato gravy",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PAAKASHALA SPL CURRY",
+    "category": "NORTH INDIAN CURRY",
+    "description": "A rich blend of Amul butter, paneer and a medley of mixed vegetables crafted from luscious tomato puree, finely chopped onions, creamy cashew nuts with spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG SHAHI PANEER",
+    "category": "NORTH INDIAN CURRY",
+    "description": "Assorted vegetables with paneer in a royal, creamy sauce.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "ROTI",
+    "category": "ROTI KA PARIWAR",
+    "description": "A classic unleavened Indian bread made with whole wheat flour, water, and a pinch of salt.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "NAAN",
+    "category": "ROTI KA PARIWAR",
+    "description": "Soft, leavened bread crafted from refined flour, yogurt, yeast, and a touch of ghee.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "KULCHA",
+    "category": "ROTI KA PARIWAR",
+    "description": "A delightful variation of naan, featuring all-purpose flour, yogurt, and baking powder for a lighter texture.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BUTTER ROTI",
+    "category": "ROTI KA PARIWAR",
+    "description": "Our traditional roti generously brushed with clarified butter (ghee) for a rich and flavourful experience.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GARLIC NAAN",
+    "category": "ROTI KA PARIWAR",
+    "description": "Naan infused with minced garlic, offering a savory and aromatic twist to your dining experience.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "COFFEE",
+    "category": "HOT BEVERAGES",
+    "description": "Finely ground coffee beans brewed\nwith hot water",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "TEA",
+    "category": "HOT BEVERAGES",
+    "description": "A blend of high-quality tea leaves steeped\nin hot water",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MASALA TEA",
+    "category": "HOT BEVERAGES",
+    "description": "Tea infused with aromatic spices like cardamom,\ncinnamon, and cloves",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SPL ORGANIC JAGGERY COFFEE",
+    "category": "HOT BEVERAGES",
+    "description": "Coffee sweetened with organic jaggery, a natural\nsweetener",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "HORLICKS",
+    "category": "HOT BEVERAGES",
+    "description": "A malted milk powder drink made with hot milk,\nproviding a wholesome and comforting beverage",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GOBI MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Marinate cauliflower florets in a seasoned batter & deep-fry to perfection and toss with chilli Manchurian sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PANEER MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Cottage cheese tossed in a flavourful blend of soy sauce, ginger, garlic, tomato sauce, and green onions, creating a delightful Indo-Chinese fusion dish",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BABY CORN MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Tender baby corn coated in a zesty batter, deep-fried to golden perfection, and tossed in a tangy Manchurian sauce made with soy sauce, ginger, garlic, and a hint of sweetness",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MUSHROOM MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Tender mushrooms tossed in a flavourful blend of soy sauce, ginger, garlic, tomato sauce, and green onions, creating a delightful Indo-Chinese fusion dish",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GOBI CHILLI",
+    "category": "CHINESE STARTERS",
+    "description": "Marinated Cauliflower florets in seasoned batter, perfectly deep-fried and generously coated in a flavourful manchurian sauce.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GOBI PEPPER DRY",
+    "category": "CHINESE STARTERS",
+    "description": "Cauliflower florets marinated in batter and deep-fried and tossed in soy sauce, black pepper & green onions",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BABY CORN 65",
+    "category": "CHINESE STARTERS",
+    "description": "Succulent baby corn marinated in a spicy mix, deep-fried to a crispy texture, and garnished with curry leaves, green chilies, and a dash of lemon for a zingy and aromatic experience",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MUSHROOM PEPPER DRY",
+    "category": "CHINESE STARTERS",
+    "description": "Tender mushrooms sautéed with vibrant bell peppers, tossed in spices, and finished with a hint of cracked black pepper for a bold and flavourful explosion",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CRISPY BABYCORN",
+    "category": "CHINESE STARTERS",
+    "description": "Tender babycorn coated in a delicate batter, deep-fried\nto golden perfection",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG BALL MANCHURI",
+    "category": "CHINESE STARTERS",
+    "description": "Vegetable balls immersed in a savory Manchurian gravy, delivering a rich and satisfying taste",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG FRIED RICE",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "A blend of jasmine rice, colourful mixed vegetables, scrambled tofu, and a dash of soy sauce, wok-tossed to perfection.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG NOODLES",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "Thin eggless noodles stir-fried with an assortment of crisp vegetables and seasoned with a light soy-based sauce.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PANEER NOODLES",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "Soft paneer chunks mingling with eggless noodles, crisp vegetables, and a subtle blend of spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "MUSHROOM FRIED RICE",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "Fragrant jasmine rice stir-fried with plump mushrooms, vibrant vegetables, and a touch of soy sauce, creating a savory and satisfying dish.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG SCHEZWAN NOODLES",
+    "category": "CHINESE RICE & NOODLES",
+    "description": "Eggless noodles bathed in a bold Schezwan sauce, combined with a medley of vegetables.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CREAM OF MUSHROOM",
+    "category": "SOUPS",
+    "description": "Fresh mushrooms, cream, onions, garlic, vegetable\nbroth, butter, and seasoning",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "HOT & SOUR",
+    "category": "SOUPS",
+    "description": "Bamboo shoots, tofu, wood ear fungus, vinegar, soy\nsauce, chili, and a mix of vegetables in a tangy broth",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SWEET CORN VEG",
+    "category": "SOUPS",
+    "description": "Sweet corn kernels, mixed vegetables, vegetable broth,\nsoy sauce, and a hint of ginger and garlic",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CREAM OF PALAK",
+    "category": "SOUPS",
+    "description": "Spinach, cream, onions, garlic, vegetable broth, butter,\nand aromatic spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "VEG CLEAR SOUP",
+    "category": "SOUPS",
+    "description": "Clear vegetable broth with a variety of finely chopped\nvegetables, herbs, and spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SAMOSA",
+    "category": "CHAATS",
+    "description": "Triangular pastry pockets filled with spiced potatoes, peas, and Indian spices, deep-fried until golden brown.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAHI PURI",
+    "category": "CHAATS",
+    "description": "Hollow puris filled with spiced potatoes, chickpeas, and topped with yogurt, tamarind chutney, and sev.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CHEESE MASALA PAV",
+    "category": "CHAATS",
+    "description": "Mixed vegetables cooked in a flavorful spice blend, served with buttered buns and topped with melted cheese.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PAPADI CHAAT",
+    "category": "CHAATS",
+    "description": "Crispy papadis topped with potatoes, chickpeas, yogurt, and various chutneys.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SEV PURI",
+    "category": "CHAATS",
+    "description": "Flat puris topped with spiced mashed potatoes, onions, sev, and chutneys.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PANEER PAV",
+    "category": "CHAATS",
+    "description": "Mixed vegetables with paneer (Indian cottage cheese), served with buttered buns and garnished with cilantro.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "PAANI PURI",
+    "category": "CHAATS",
+    "description": "Hollow puris filled with a mixture of flavoured water, tamarind chutney, potatoes, and chickpeas.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "SEV BATATA PURI",
+    "category": "CHAATS",
+    "description": "Crisp puris filled with spiced potatoes, topped with sev (thin gram flour noodles), and various chutneys.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAHI BALLA",
+    "category": "CHAATS",
+    "description": "Soft lentil dumplings soaked in yogurt and topped with tamarind chutney and spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "DAHI SAMOSA CHAAT",
+    "category": "CHAATS",
+    "description": "Crisp samosas topped with yogurt, chutneys, and spices for a delightful chaat experience.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GULAB JAMOON",
+    "category": "DESSERTS",
+    "description": "Deep-fried milk dumplings soaked in sugar syrup, flavoured with cardamom and rose water, and topped with pistachios.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CARROT HALWA",
+    "category": "DESSERTS",
+    "description": "Finely grated carrots cooked with ghee, milk, sugar, and cardamom, garnished with chopped nuts.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "CHANDRAHARA",
+    "category": "DESSERTS",
+    "description": "Flaky pastry made from ail-purpose flour, ghee, and a touch of sugar, deep-fried to golden perfection.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "HAL BAI",
+    "category": "DESSERTS",
+    "description": "Creamy yogurt-based curry with fenugreek leaves, mustard seeds, and aromatic Indian spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "FRUIT MIXTURE",
+    "category": "DESSERTS",
+    "description": "Fresh seasonal fruits tossed in a light citrus dressing.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GULKAND ICE CREAM",
+    "category": "DESSERTS",
+    "description": "Rose petal-infused ice cream with the sweet touch of gulkand.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "GUD BUD ICECREAM",
+    "category": "DESSERTS",
+    "description": "A unique treat featuring jaggery-infused ice cream with a hint of cardamom.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "FRUIT SALAD PLAIN",
+    "category": "DESSERTS",
+    "description": "A refreshing medley of seasonal fruits for a light and healthy option.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "BANANA SPLIT ICE CREAM",
+    "category": "DESSERTS",
+    "description": "A classic dessert with bananas, ice cream, and indulgent toppings.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Paakshala",
+    "type": "menu_item",
+    "item_name": "FALOODA",
+    "category": "DESSERTS",
+    "description": "A rich and creamy dessert drink with layers of falooda noodles, basil seeds, and ice cream.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "location",
+    "address": "8 city blvd | Nashville, TN 37209",
+    "phone": "615.915.1866",
+    "email": "info@pastarianashville.com",
+    "hours": [
+      "Dinner EveryDay 5-9 PM",
+      "Bar EveryDay 4-9 PM",
+      "Happy Hour EveryDay 4-6 PM (Dine-In Only)"
+    ]
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Crispy Risotto Balls",
+    "category": "Appetizers",
+    "description": "mozzarella, grana padano, herb aioli, marinara",
+    "price": "12.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Citrus Salad",
+    "category": "Appetizers",
+    "description": "orange, grapefruit, green olives, red onions, tarragon, olive oil",
+    "price": "12.50 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Boquerones",
+    "category": "Appetizers",
+    "description": "olive oil, herbs, house bread",
+    "price": "8.24 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Marinated Olives",
+    "category": "Appetizers",
+    "description": "olive oil, citrus, chili, herbs",
+    "price": "9.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Chopped Salad",
+    "category": "Salads",
+    "description": "chickpeas, green olives, pistachios, pepperoni, oregano, red wine vinaigrette, pecorino",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Shaved Kale",
+    "category": "Salads",
+    "description": "creamy anchovy dressing, pecorino, bread crumbs",
+    "price": "10.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Spring Medley",
+    "category": "Salads",
+    "description": "Greener Roots Nashville Blend, citrus, sunflower shoots, pecorino crisp, charred red onion vinaigrette",
+    "price": "13.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "The Bite Flight",
+    "category": "Shareables",
+    "description": "marinated olives, boquerones, giardiniera, house bread",
+    "price": "13.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Roasted Beets",
+    "category": "Shareables",
+    "description": "sunflower shoots, balsamic glaze, crème fraîche, crunchy Za’atar, pecorino",
+    "price": "13.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Grilled Radicchio",
+    "category": "Shareables",
+    "description": "mozzarella cream, crispy Benton’s Ham, red onion, cashews, pecorino, lemon vinaigrette",
+    "price": "15.50 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Burrata",
+    "category": "Shareables",
+    "description": "8 year aged balsamic, olive oil, house focaccia add Benton’s Ham +5.00",
+    "price": "14.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Espresso Chocolate Tart",
+    "category": "Desserts",
+    "description": "white chocolate, mascarpone cream, espresso crunch",
+    "price": "10.55 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Olive Oil Cake",
+    "category": "Desserts",
+    "description": "maple & huckleberry syrup, creme fraiche whipped cream",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Birthday Cake",
+    "category": "Desserts",
+    "description": "confetti cake, butter cream frosting, confetti cookie crumble",
+    "price": "9.50 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pastaria’s “Chicken Parm”",
+    "category": "Entrees",
+    "description": "chitarra noodles, crispy chicken breast, pomodoro, mozzarella, oregano, grana padano, chili",
+    "price": "27.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Market Fish",
+    "category": "Entrees",
+    "description": "cannellini beans, snap peas, sunflower shoots, maitake and brown beech mushrooms",
+    "price": "27.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Chitarra Aglio e Olio",
+    "category": "Pastas",
+    "description": "olive oil, garlic, chili, grana padano             *add anchovy +3.50",
+    "price": "21.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Chitarra al Pomodoro",
+    "category": "Pastas",
+    "description": "tomatoes, garlic, basil, grana padano",
+    "price": "22.25 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Canestri Cacio e Pepe",
+    "category": "Pastas",
+    "description": "pecorino, grana padano, black pepper",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Tagliatelle",
+    "category": "Pastas",
+    "description": "‘Pastaria Bolognese,’ grana padano",
+    "price": "25.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pistachio Ravioli",
+    "category": "Pastas",
+    "description": "mint, lemon brown butter, grana padano",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Garganelli Pork Ragu",
+    "category": "Pastas",
+    "description": "braised pork, mushrooms, citrus, pecorino",
+    "price": "26.25 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Bucatini Rigate",
+    "category": "Pastas",
+    "description": "ground lamb, calabrian chili, garlic, whipped ricotta",
+    "price": "26.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Bucatini All’ Amatriciana",
+    "category": "Pastas",
+    "description": "tomato, red onion, guanciale, chili, grana padano",
+    "price": "24.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pappardelle Beef Ragu",
+    "category": "Pastas",
+    "description": "Black Hawk Farms Wagyu, Castlevetrano olives, pecorino, grana padano",
+    "price": "26.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Lasagna Verde",
+    "category": "Pastas",
+    "description": "bechamel, bolognese",
+    "price": "27.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Margherita",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, basil",
+    "price": "20.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pastaria Marinara",
+    "category": "Pizza",
+    "description": "tomato, olive oil, garlic, oregano, basil *try Heather’s way",
+    "price": "21.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pepperoni",
+    "category": "Pizza",
+    "description": "fontina, tomato",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "The Roman",
+    "category": "Pizza",
+    "description": "tomato, garlic, bacon, mozzarella, pecorino, chili",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "The Allan",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, mushroom, Benton’s ham, oregano, grana padano",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Nduja",
+    "category": "Pizza",
+    "description": "tomato, Fior di latte, garlic, oregano, honey",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pastaria Hawaiian",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, jalapeno, pineapple, house-made Canadian bacon",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "The Mushroom",
+    "category": "Pizza",
+    "description": "mushrooms, roasted garlic puree, fontina, pecorino, fresh herbs",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Spaghetti with Meat or Tomato Sauce",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Cheese Pizza",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pasta Shells “Mac ‘n Cheese”",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Butter Noodles",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Kid’s Gelato Scoop",
+    "category": "Kid's Desserts",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "location",
+    "address": "7734 Forsyth Blvd. | Clayton, MO 63105",
+    "phone": "314.862.6603",
+    "email": "info@pastariastl.com",
+    "hours": [
+      "7 Days a Week",
+      "4pm – 9pm",
+      "Sunday Brunch",
+      "10am – 2pm",
+      "Dine-In & Curbside"
+    ]
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Chicken",
+    "category": "Entrées",
+    "description": "borlotti beans, tomato-braised tuscan kale",
+    "price": "32.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Striped Bass",
+    "category": "Entrées",
+    "description": "braised artichoke, fingerlings, fennel, salsa verde",
+    "price": "34.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chitarra Aglio e Olio",
+    "category": "Pastas",
+    "description": "olive oil, garlic, chili, grana padano",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chitarra al Pomodoro",
+    "category": "Pastas",
+    "description": "tomato, garlic, basil, grana padano",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Canestri Cacio e Pepe",
+    "category": "Pastas",
+    "description": "pecorino, grana padano, black pepper",
+    "price": "24.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Tagliatelle Bolognese",
+    "category": "Pastas",
+    "description": "“Pastaria Bolognese”, grana padano",
+    "price": "27.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pistachio Ravioli",
+    "category": "Pastas",
+    "description": "lemon, brown butter, mint, grana padano",
+    "price": "24.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Garganelli",
+    "category": "Pastas",
+    "description": "braised beef, olives, gremolata, Grana Padano",
+    "price": "27.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Bucatini All’ Amatriciana",
+    "category": "Pastas",
+    "description": "tomato, red onion, guanciale, chili, grana padano",
+    "price": "27.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Toasted Semolina Linguine",
+    "category": "Pastas",
+    "description": "rock shrimp, shellfish butter, chili, lemon, fennel, grana padano",
+    "price": "27.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Strozzapreti al Pork Sugo",
+    "category": "Pastas",
+    "description": "braised pork shoulder, mirepoix, tomato, lemon, herbs, grana padano",
+    "price": "26.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Margherita",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, basil",
+    "price": "20.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pastaria Marinara",
+    "category": "Pizza",
+    "description": "tomato, onion, garlic, oregano, basil, pecorino (very minimal cheese)",
+    "price": "20.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Four Cheese",
+    "category": "Pizza",
+    "description": "mozzarella, fontina, gorgonzola dolce, Grana Padano (no tomato)",
+    "price": "21.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pepperoni",
+    "category": "Pizza",
+    "description": "tomato, fontina",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "The Roman",
+    "category": "Pizza",
+    "description": "tomato, garlic, bacon, mozzarella, pecorino, chili",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "The Allan",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, mushroom, Benton’s country ham, oregano, grana padano",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Tempesta Nduja (spicy)",
+    "category": "Pizza",
+    "description": "spicy pork spread, tomato, fior di latte, garlic, oregano, honey",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Mushroom",
+    "category": "Pizza",
+    "description": "bechamel, fontina, rosemary, thyme, garlic, grana padano",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Minestrone",
+    "category": "Soups and Salads",
+    "description": "cranberry beans, vegetables, noodles, grana padano",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Mixed Greens",
+    "category": "Soups and Salads",
+    "description": "pears, walnuts, goat cheese, red wine vinaigrette",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chopped Salad",
+    "category": "Soups and Salads",
+    "description": "little gem lettuce, pepperoni, chickpeas, green olives, pistachios, oregano, red wine vinaigrette, pecorino",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Shaved Kale",
+    "category": "Soups and Salads",
+    "description": "creamy anchovy dressing, pecorino, bread crumbs",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Arugula & Endive",
+    "category": "Soups and Salads",
+    "description": "white wine vinaigrette, dried cherry, pistachio, goat cheese, breadcrumbs",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Brussels Sprouts",
+    "category": "Vegetables",
+    "description": "lemon, calabrian chili flake, garlic",
+    "price": "10.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Heirloom Carrots",
+    "category": "Vegetables",
+    "description": "confit leeks, herbs, toasted breadcrumb",
+    "price": "9.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Crispy Risotto Balls",
+    "category": "Appetizers",
+    "description": "mozzarella, grana padano, herb aioli, marinara",
+    "price": "12.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Cauliflower Caponata",
+    "category": "Appetizers",
+    "description": "golden raisin, red onion, red pepper chili, herbs, bread",
+    "price": "10.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Marinated Olives",
+    "category": "Appetizers",
+    "description": "rosemary, thyme, citrus",
+    "price": "10.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Burrata",
+    "category": "Appetizers",
+    "description": "trapanese pesto, arugula, toasted bread",
+    "price": "13.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roman Style Gnocchi",
+    "category": "Appetizers",
+    "description": "semolina gnocchi, pomodoro sauce, olives, lemon, aged parmesan",
+    "price": "12.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Beets",
+    "category": "Appetizers",
+    "description": "cara cara oranges, olive oil, pistachio dukkah",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Meatballs",
+    "category": "Appetizers",
+    "description": "*ONLY AVAILABLE MONDAY* 3 beef and ricotta meatballs, garlic toast, spicy pomodoro sauce",
+    "price": "16.50 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Kid’s Gelato Scoop",
+    "category": "Kid's Desserts",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Kid’s Birthday Cake",
+    "category": "Kid's Desserts",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Spaghetti with meat or tomato sauce",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Cheese Pizza",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pasta Shells “Mac ‘n Cheese”",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Crispy Risotto Balls with Mozzarella Cheese",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Long Macaroni with Butter & Cheese",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Birthday Cake",
+    "category": "Desserts",
+    "description": "confetti cake under a layer of vanilla butter cream and shortbread cookie crumbles",
+    "price": "11.50 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Mama Rodolico’s Tiramisu",
+    "category": "Desserts",
+    "description": "an old family recipe from friends in Florence – layers of espresso-soaked biscuits topped with an airy mascarpone custard",
+    "price": "12.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Assorted Gelato and Sorbetto Flavors",
+    "category": "Desserts",
+    "description": "1 scoop 4.75 – 2 scoops 6.75 – 3 scoops 8.75 – pint 12",
+    "price": null,
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Breakfast Bruschetta",
+    "category": "Brunch",
+    "description": "cotto ham, provolone, arugula, pickled red onion, add egg +3",
+    "price": "15.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pastaria ‘Huevos Rancheros’",
+    "category": "Brunch",
+    "description": "thick cut toast, white beans, ham, salsa verde",
+    "price": "15.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Breakfast Pizza",
+    "category": "Brunch",
+    "description": "tomato, bacon, fontina, egg, garlic, chili, parsley",
+    "price": "16.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "French Toast",
+    "category": "Brunch",
+    "description": "powdered sugar, whipped ricotta with lemon zest & honey",
+    "price": "16.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Wood Oven Baked Eggs",
+    "category": "Brunch",
+    "description": "choice of amatriciana or pomodoro, toast",
+    "price": "12.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Seasonal Frittata",
+    "category": "Brunch",
+    "description": "spinach, mushroom & tomato mixed green salad or crispy potatoes, toast",
+    "price": "15.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Granola Parfait",
+    "category": "Brunch",
+    "description": "yogurt, honey, seasonal fruit",
+    "price": "10.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Farm Egg Plate",
+    "category": "Brunch",
+    "description": "2 eggs your style, crispy potatoes or mixed greens, toast",
+    "price": "15.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Cacio e Pepe Eggs",
+    "category": "Brunch",
+    "description": "soft scramble with pecorino & black pepper, toast, choice of side salad or crispy potatoes",
+    "price": "15.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Crispy Potatoes",
+    "category": "Sides",
+    "description": "",
+    "price": "5.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Side of Toast with Apple Butter",
+    "category": "Sides",
+    "description": "",
+    "price": "5.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Side of Bacon",
+    "category": "Sides",
+    "description": "",
+    "price": "4.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Two Eggs",
+    "category": "Sides",
+    "description": "",
+    "price": "5.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Crispy Risotto Balls",
+    "category": "Starters & Salads",
+    "description": "mozzarella, grana padano, herb aioli, marinara",
+    "price": "12.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Shaved Kale",
+    "category": "Starters & Salads",
+    "description": "creamy anchovy dressing, pecorino, breadcrumbs, add chicken +9",
+    "price": "10.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chopped Salad",
+    "category": "Starters & Salads",
+    "description": "romaine, pepperoni, chickpeas, olives, pistachios, oregano, red wine vinaigrette, pecorino, add chicken +9",
+    "price": "12.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Mixed Greens",
+    "category": "Starters & Salads",
+    "description": "pears, walnuts, goat cheese, red wine vinaigrette, add chicken +9",
+    "price": "11.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Caprese",
+    "category": "Sandwiches",
+    "description": "mozzarella, tomato, pesto aioli, arugula, red wine vinegar, evoo add turkey +3, add prosciutto +3",
+    "price": "13.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Roasted Turkey",
+    "category": "Sandwiches",
+    "description": "double star farms turkey breast, arugula, tomato, calabrian chili aioli, red wine vinegar, evoo",
+    "price": "13.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "World’s Best Tuna Salad",
+    "category": "Sandwiches",
+    "description": "confit tuna, olives, capers, red onion, aioli, fire roasted tomatoes, garlic chili vinaigrette",
+    "price": "13.50 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Salami",
+    "category": "Sandwiches",
+    "description": "genoa salami, capocollo, provolone, arugula, tomato, red wine vinegar",
+    "price": "13.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Seasonal Coffee Cake",
+    "category": "Pastries",
+    "description": "",
+    "price": "5.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Scone",
+    "category": "Pastries",
+    "description": "",
+    "price": "5.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Gluten-Free Muffin",
+    "category": "Pastries",
+    "description": "",
+    "price": "5.00 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Chitarra alla Carbonara",
+    "category": "Pastas",
+    "description": "guanciale, egg yolk, black pepper, pecorino",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Strozzapreti Cacio e Pepe",
+    "category": "Pastas",
+    "description": "pecorino, grana padano, black pepper",
+    "price": "24.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Strozzapreti Bolognese",
+    "category": "Pastas",
+    "description": "“Pastaria Bolognese”, grana padano",
+    "price": "27.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Strozzapreti al Pomodoro",
+    "category": "Pastas",
+    "description": "tomato, garlic, basil, grana padano",
+    "price": "23.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Margherita",
+    "category": "Pizzas",
+    "description": "tomato, mozzarella, basil",
+    "price": "20.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "Pepperoni",
+    "category": "Pizzas",
+    "description": "tomato, fontina",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Pastaria St. Louis",
+    "type": "menu_item",
+    "item_name": "The Roman",
+    "category": "Pizzas",
+    "description": "tomato, garlic, bacon, mozzarella, pecorino, chili",
+    "price": "22.95 dollars",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "about",
+    "Awards": [
+      {
+        "title": "F & B Leader Ahmedabad",
+        "year": "2023"
+      },
+      {
+        "title": "Times Hospitality Icon Of the Year",
+        "year": "2019"
+      },
+      {
+        "title": "Coca-Cola Golden Spoon Award",
+        "year": "2017"
+      },
+      {
+        "title": "Best South Indian Restaurant",
+        "year": "2016"
+      },
+      {
+        "title": "Times Food Award",
+        "year": "2016"
+      },
+      {
+        "title": "Making a Greener Planet",
+        "year": "2015"
+      },
+      {
+        "title": "Times Food Award",
+        "year": "2015"
+      },
+      {
+        "title": "Best South Indian restaurant",
+        "year": "2014-2015"
+      },
+      {
+        "title": "Times Food Award",
+        "year": "2014"
+      },
+      {
+        "title": "Times Food Award",
+        "year": "2013"
+      },
+      {
+        "title": "Best Regional Restaurant",
+        "year": "2013"
+      },
+      {
+        "title": "11th Award for Excellence",
+        "year": "2013"
+      },
+      {
+        "title": "Times Food Award",
+        "year": "2012"
+      },
+      {
+        "title": "Most Authentic South Indian Restaurant",
+        "year": "2012"
+      },
+      {
+        "title": "Harrow Times UK",
+        "year": "2012"
+      },
+      {
+        "title": "Times Food Award",
+        "year": "2009"
+      },
+      {
+        "title": "Times Food Award",
+        "year": "2008"
+      },
+      {
+        "title": "Shabaash India Certificate of Excellence",
+        "year": "2006"
+      },
+      {
+        "title": "The Guinness Book of World Records",
+        "year": "2006"
+      },
+      {
+        "title": "The Guinness Book of World Records",
+        "year": "1997"
+      }
+    ],
+    "Vision": "To offer the very best in quality cuisine and create an un-matched experience in family dining, maintaining the highest standard of quality, hygiene, service and customer satisfaction.",
+    "Mission": "To repeatedly offer value addition in all spheres thereby inducing repeat visits by patrons. To capture, recreate, and replicate the brand experience in as many places as possible.",
+    "about_us": "Saffron was started in the year 2001 by the Sankalp Group of Restaurants. Named after the world’s most precious spice, Saffron serves freshest ingredients with the finest taste. Our chefs fuse together flavor and aroma to capture the essence of the traditional North Indian cuisine. Saffron has become synonymous with Authentic Vegetarian Barbecue & North Indian Cuisine. The Saffron chain epitomizes the royal experience in flavour, aroma and purity. It was first of its kind as it introduced the unique ” do it yourself ” concept in dining. Saffron’s dining experience comes complete with a grill at the centre of the table and variety of starters skewered and ready for the guests to marinate according to taste and then grill or roast to perfection. This customized dining has been getting a stupendous response from connoisseurs of good food. In fact Saffron has established a stellar customer base that speaks of its popularity.",
+    "commitment": "“We believe in creating an unmatched experience by maintaining the highest standard of quality, hygiene, service and customer satisfaction.” “In a world that is increasingly coming closer, we seek to promote the harmony of Indian culture, cuisine and architecture. As a fast-growing Indian company in various countries, it is our commitment to live up to our nation’s promise to give the best to the world. We strive to set benchmarks in various aspects of our businesses in Food, Hospitality, Hoteliering and Real Estate.” Dr. Kailash Goenka,Chairman & M.D. Sankalp Group"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Pune\n1st Floor Metro Compound Complex, Besides Bishops Co Ed School, Kalyani Nagar, Pune, Pune, maharashtra, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Hyderabad\n1st floor, CVR news Road no 82 Jubilee hills check post Hyderabad, Hyderabad, Telangana, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Bikaner, Rajasthan\n1st floor baba building,\nNaganechi temple road.\nPavanpuri, , Bikaner , Rajasthan, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Sankalp Food Court - Ayodhya\nThe sankalp food court seketpuri deo kali, Ayodhya - 224001, Ayodhya , Uttar pradesh, India\n+919696609145\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Sankalp Food Court - Agra\nShop No 08, 3rd floor, Paras Pearls, Sector 12, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007, Agra, Uttar Pradesh, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Jodhpur\nAnand prakash bhoot marg 7, Opp hotel zone by the park, heavy industrial area, , Jodhpur, Rajasthan, India\n+919521228882\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant GCA Club, Motera- Ahmedabad\nNarendra modi stadium, Motera, Sabarmati, Motera,, Ahmedabad, Gujarat, Ahmedabad\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Aurora Canada\n297 Wellington St E #6, Aurora, ON, Canada, Ontario, Aurora, Ontario, Canada\n+1 (905) 727-96\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Ektanagar\nM & VC Food court in statue of Unity campus, Ektanagar, Ektanagar, Gujarat, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Himmatnagar\nNear Jilla Panchayat himatnagar Idar Bypass road, Himatnagar , Himatnagar , Gujarat, India\n918849630306\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Naroda\nGF-3, Laxmi Villa Greens, Opp. Shalby Hospital, Haridarshan Cross Road, Nava Naroda, , Ahmedabad, Gujarat, India\n9979444330\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Hyderabad\nGF, Glendale Residency, Opp. St. George College, Tajmahal Hotel Lane, King Kothi Road, abids, Hyderabad, Telangana, India\n7075144444\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Udaipole\nAtulya Hospitality (Saffron) Opp Sankalp Restaurant, Near - Bus Station, Udaipole, Udaipur 313001, Udaipur, Rajasthan, India\n098797 51076\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant - Sajjangarh - Udaipur\n52-Pragati Nagar, Opp - Power House, Shashtri Circle Sajjangarh Road, Udaipur-313001, Udaipur, Rajasthan, India\n7023102345\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Vaishno Devi Circle\n1st  Floor, Shaligram Lakeview, Near Vaishnodevi Circle, Ahmedabad, Gujarat, India\n8401535301\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Mehasana\nSurvey No. 432 Paiki 1, Nagalpur, , Mehsana, Gujarat, India\n02762245452\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant S G Highway Ahmedabad\n1st Floor, Silver Radiance, Pakwan Cross Road, Sindhu Bhuvan Road, S G Highway, Ahmedabad, Gujarat, India\n06352740794\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Bhuj-Kutch\nSanskar Nagar, Bhuj, Gujarat, India\n085111 32675\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant karad\nPune Bangalore Highway Pashan Exit, Karad, Maharashtra , India\nsatyajeetgroup56@gmail.com\n098507 17467\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Barmer\n492/2, near drishti library, Laxmi Nagar, Barmer, Rajasthan , India\nkanhadalora@gmail.com\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Vadiwadi Vadodara\n02 Atlantis Heights Shree Vikram Sarabhai Marg, near Genda Cir, Vadiwadi, Vadodara, Gujarat, India\nashupatel1192@gmail.com\n099792 39991\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Paldi\n501, Sankalp Square - 2, Nr Jalaram Temple, Paldi, Ahmedabad, Gujarat, India\n9898372329\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Gwalior\nShop No. 8-9, Food Court Level, DB Mall, Course Road, Gwalior, Madhya Pradesh, India\n9229242671\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Express\nIn Sankalp Express, G-38 DB City Mall, Jail Rd, Zone-I, Arera Hills, Bhopal, Madhya Pradesh, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Food Court\nSankalp-Saffron Food Court Level-3, Colors Mall, NH-43, Dhamtari Rd, Pachpedi Naka, Pachpedi Naka N.H.43, Raipur, Chhattisgarh, India\n07714000052\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Express\nSankalp, Saffron & Sam's Pizza Food Court, Vadodra- Bharuch Highway,, Pore, Gujarat, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Bhavnagar\nShop No 118, Eva Surbhi Complex, Opposite Aksharvadi, Waghawadi Rd, Hill Drive, Bhavnagar, Gujarat, India\n9099022525\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Kolkata\nShop R 4B, Plot, Podium Level, Godrej Waterside, 5, DP Block, Sector V, Bidhannagar, Kolkata, West Bengal, India\n9903379997\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Lunawada\nBlock B - Shop 201-224 Nandan Arcade Lunawada - Modasa Highway Opp. Mahindra Showroom, behind Shubhechchha Hospital, Lunawada, Gujarat, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Express Gondal\nIn Sankalp Food Court, Gokul Heights, Palace Rd, near Shyamwadi, Gondal, Gujarat, India\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "location",
+    "address_raw": "Saffron Restaurant Vishala Circle Ahmedabad\n3rd Floor, Rajyash Rise, Vishala Circle, South Vasna, Ahmedabad, Gujarat, India\n8799581514\nEveryday : 11am to 3pm & 7pm to 11pm\nGet Direction\nVisit Website"
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Blue Lagoon",
+    "category": "Assorted Beverages",
+    "description": "A wonderful fizzy drink with blue curracao, creama nd soda",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Fruit Punch",
+    "category": "Assorted Beverages",
+    "description": "An exotic mocktail with fruit pulp and dash of soda",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Pina Colada",
+    "category": "Assorted Beverages",
+    "description": "A tropical mocktail with pineapple juice and coconut cream",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Assorted Milk Shake",
+    "category": "Assorted Beverages",
+    "description": "Cool refreshing beverage made with milk and ice cream of your choice",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Fresh Fruit Juice",
+    "category": "Assorted Beverages",
+    "description": "Assorted seasonal fresh fruit juice served chilled",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Cold Coffee",
+    "category": "Assorted Beverages",
+    "description": "A chilled creamy Nescafe preparation",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Lassi (Sweet/Salted)",
+    "category": "Assorted Beverages",
+    "description": "A traditional North Indian drink made by blending yogurt salt/sugar and a dash of fresh creama",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Mango Lassi",
+    "category": "Assorted Beverages",
+    "description": "All time favorite",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Butter Milk",
+    "category": "Assorted Beverages",
+    "description": "The Authentic Indian Blend of yogurt with salt , coriander and cumin seeds",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Aerated Drinks",
+    "category": "Assorted Beverages",
+    "description": "Assorted soft drinks",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Bottled Water",
+    "category": "Assorted Beverages",
+    "description": "Packed drinking water",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Tomato Soup",
+    "category": "Khane Se Pehle",
+    "description": "A vegetable broth prepared using Garden Fresh Tomatoes, Herbs and Spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Corn \"N\" Tomato Soup",
+    "category": "Khane Se Pehle",
+    "description": "A healthy soup made from Garden Fresh Tomatoes with boiled Corn Kernels scraped in",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Sweet Corn Veg. Soup",
+    "category": "Khane Se Pehle",
+    "description": "A thick soup made from Fresh American Corns and Assorted Vegetables",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Hot \"N\" Sour Soup",
+    "category": "Khane Se Pehle",
+    "description": "A dark brown Chinese Soup with stir fried minced vegetables, ginger and garlic",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Manchow Soup",
+    "category": "Khane Se Pehle",
+    "description": "A popular Hot n Spicy Meal Soup prepared in Chinese style and served with Fried Noodles",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Tandoori Special Sizzler",
+    "category": "Jalwa-e-Tandoor",
+    "description": "Assorted varieties of tandoori kababs and tikkas served on a sizzler plate with tandoori sauce and special chatnis",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Tiranga Dry",
+    "category": "Jalwa-e-Tandoor",
+    "description": "A delicacy of the restaurant - Paneer marinated in three different yogurt sauces",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Tiranga Dry(Lehsuni/Hariyali/Malai)",
+    "category": "Jalwa-e-Tandoor",
+    "description": "A delicacy of the restaurant - Paneer marinated in three different yogurt sauces",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Gobhi Tikka (Lehsuni/Hariyali/Malai)",
+    "category": "Jalwa-e-Tandoor",
+    "description": "Pieces of Cauliflower marinated in lightly spiced Indian sauce and roasted in a Clay oven",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Aloo (Chutney/Shikhari/Hariyali)",
+    "category": "Jalwa-e-Tandoor",
+    "description": "Dices of Baby Potatoes mixed in a special piquant Indian Herb Sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Cheese Roll",
+    "category": "Jalwa-e-Tandoor",
+    "description": "Chef's Special",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Hara Bhara Kabab",
+    "category": "Jalwa-e-Tandoor",
+    "description": "Deep Fried Kababs made of choicest vegetables boiled and mixed with Leafy Greens, Paneer and Bread Crumbs",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Crispy Rumali Roti",
+    "category": "Jalwa-e-Tandoor",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Manchuruian (Dry/Gravy)",
+    "category": "Chatpata Chinese",
+    "description": "Seasonal mixed vegetable dumplings cooked in Manchurian sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Chilly Paneer (Dry/Gravy)",
+    "category": "Chatpata Chinese",
+    "description": "Crispy fried cottage cheese with dices on onion and capcicum cooked in  red chilly sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Schezwan Noodles",
+    "category": "Chatpata Chinese",
+    "description": "Spicy soft noodles with vegetables in spicy Schezwan sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Fride Rice",
+    "category": "Chatpata Chinese",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Schezwan Fried Rice",
+    "category": "Chatpata Chinese",
+    "description": "Steamed rice with vegetables in Schezwan  sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Chinese Bhel",
+    "category": "Chatpata Chinese",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Crispy Corn",
+    "category": "Chatpata Chinese",
+    "description": "Veg fried corn kennels tossed in chilly soya sauce",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Crispy",
+    "category": "Chatpata Chinese",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Afghani Bhurji",
+    "category": "Subz-e-Paneer",
+    "description": "Fresh cottage cheese grated and cooked with green pappers, tomatoes and onions",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Balti",
+    "category": "Subz-e-Paneer",
+    "description": "Two different cuts of panner prepared in two different graviews and served layered in a balti.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Kolhapuri",
+    "category": "Subz-e-Paneer",
+    "description": "Paneer coocked in a spicy kolhaouri gravy which is a combination of tomato and onion gravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Handi",
+    "category": "Subz-e-Paneer",
+    "description": "dices of cottage cheese cookked on low heat in brown onion gravy and served in handi.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Chatpata",
+    "category": "Subz-e-Paneer",
+    "description": "A spicy but tangy style of preparing cottage cheese in the chef's special style.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Tikka Masala",
+    "category": "Subz-e-Paneer",
+    "description": "Barberqued paneer pieces cooked in makhani gravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Butter Masala",
+    "category": "Subz-e-Paneer",
+    "description": "Matighons of fresh indain paneer in a tomato based makhani gravy with lots of cream.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Cheese  Butter Masala",
+    "category": "Subz-e-Paneer",
+    "description": "Matighons of cheese in a tomato based makhani gravy with lots of cream.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Palak",
+    "category": "Subz-e-Paneer",
+    "description": "Mildly spiced cottage cheese preparation in spinach and onion gravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Kadai",
+    "category": "Subz-e-Paneer",
+    "description": "cubes of paneer, onion, tomatoes and green bell peppers tossed in indian gravy with whole spices",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paneer Methi Garlic Masala",
+    "category": "Subz-e-Paneer",
+    "description": "Chef's Special",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Saffron Special Vegetable",
+    "category": "Taaza Tarkariyan",
+    "description": "A specialty made by our chef with passion.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Khoya Kaju",
+    "category": "Taaza Tarkariyan",
+    "description": "Cashew nuts cooked in khoya rich mild gravy with lots of cream.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Kaju Makhani",
+    "category": "Taaza Tarkariyan",
+    "description": "Choicest cashew nuts simmered in makhani gravy and cream.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Navratan Korma",
+    "category": "Taaza Tarkariyan",
+    "description": "Idealy a combanation of nine choicest vegitables, fruits and nuts prepaid in rich  mildgravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Toofani",
+    "category": "Taaza Tarkariyan",
+    "description": "Chefs special way of preparing the vegetables with ouch id north india.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Makhanwala",
+    "category": "Taaza Tarkariyan",
+    "description": "Fresh vegetable cooked in makhani gravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Kadai",
+    "category": "Taaza Tarkariyan",
+    "description": "Assorted garden fresh vegetables cooked in a mixture of makhani and onion gravy and served in a karahi.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Jaipuri",
+    "category": "Taaza Tarkariyan",
+    "description": "A elicious and colorful vegetatiean dish prepared in onion gravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg Diwani Handi",
+    "category": "Taaza Tarkariyan",
+    "description": "Garden fresh vegetable cooked with aromatic species and served in handi.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Malai Kofta",
+    "category": "Kofte Ka Khazana",
+    "description": "Delicious dumplings of paneer in rich creamy indian sauces.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Palak Kofta",
+    "category": "Kofte Ka Khazana",
+    "description": "Soft veggie balls prepared in spinach onion gravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Shahi Kofta",
+    "category": "Kofte Ka Khazana",
+    "description": "Stuffed dump;ings made with cheese and nuts in a cashew rich mild indian gravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Palak Corn Capsicum",
+    "category": "Khaas Ap Ke Liye",
+    "description": "A delectable corn & bell papper preparation in spinach & onion gravy.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Corn Methi Malai",
+    "category": "Khaas Ap Ke Liye",
+    "description": "Delightful blend of Fenugreek with Fresh American Corn in a creamy rich Gravy",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Roti",
+    "category": "Tandoor Se",
+    "description": "Flat discs of unleavened indian bread with a chewy texture",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Butter Roti",
+    "category": "Tandoor Se",
+    "description": "Butter added flat discs of unleavened indian bread with a chewy texture",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Missi Roti",
+    "category": "Tandoor Se",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paratha",
+    "category": "Tandoor Se",
+    "description": "A flat disc of unleavened indian bread made from whole wheat flour and cooked in a tandoor.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Paratha (Pudina/Stuffed)",
+    "category": "Tandoor Se",
+    "description": "Pudhina added, A flat disc of unleavened indian bread made from whole wheat flour and cooked in a tandoor.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Kulcha",
+    "category": "Tandoor Se",
+    "description": "Flat bread from north indian made from maida and baked in a clay oven.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Onion Kulcha",
+    "category": "Tandoor Se",
+    "description": "Onion added, Flat bread from north indian made from maida and baked in a clay oven.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Cheese Chilly Garlic Kulcha",
+    "category": "Tandoor Se",
+    "description": "Garlic & cheese added, Flat bread from north indian made from maida and baked in a clay oven.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Naan",
+    "category": "Tandoor Se",
+    "description": "A leavened bread from north india made from maida and baked in a clay over.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Garlic Naan",
+    "category": "Tandoor Se",
+    "description": "Garlic added, A leavened bread from north india made from maida and baked in a clay over.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Masala Cheese Naan",
+    "category": "Tandoor Se",
+    "description": "Masala cheese added, A leavened bread from north india made from maida and baked in a clay over.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Cheese Chilly Garlic Naan",
+    "category": "Tandoor Se",
+    "description": "Cheese, chilly, & garlic stuffed, A leavened bread from north india made from maida and baked in a clay over..",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Veg. Raita",
+    "category": "Dahi Ki Jugalbandhi",
+    "description": "A cooling combanation of yogurt with fresh tomatoes, and cucumber and gatnished with roasted cummin seeds.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Boondi Raita",
+    "category": "Dahi Ki Jugalbandhi",
+    "description": "Deep fried lentil crumbs with seasoned creamy yogurt with fresh coriander.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Pineapple Raita",
+    "category": "Dahi Ki Jugalbandhi",
+    "description": "Dices of pineappple mixed sweetened reamy hung curd served chilled.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Roasted Papad",
+    "category": "Saathmein",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Fried Papad",
+    "category": "Saathmein",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Masala Papad",
+    "category": "Saathmein",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Green Salad",
+    "category": "Saathmein",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "French Fries",
+    "category": "Saathmein",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Dal Bukhara",
+    "category": "Tadka Marke",
+    "description": "Assorted lentiles cooked in an authentics recipe on a low heat & thickedned with generous helping of cream & butter.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Dal Tadka",
+    "category": "Tadka Marke",
+    "description": "Thick lentils flavered with onion, ginger & garlic & tempered with butter & cumin seeds.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Saffron Special Pulao",
+    "category": "Basmati Ka Jaadu",
+    "description": "Our Chef's special recipe preparation of basmati with zaffran flavor.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Avadhi Dum Biryani",
+    "category": "Basmati Ka Jaadu",
+    "description": "Long grained rice fried in aromatic spices and herbs with fresh vegetables cooked in a handi.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Hyderabadi Biryani",
+    "category": "Basmati Ka Jaadu",
+    "description": "The cooking recipe comes all the way from hyderabad - A special style of minty flavored rice with fried onions.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Banarasi Pulao",
+    "category": "Basmati Ka Jaadu",
+    "description": "A vegetable pulao prepared with indian spices.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Jeera Rice",
+    "category": "Basmati Ka Jaadu",
+    "description": "Seasoned boiled basmati rice tossed in butter and cumin seeds.",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Steamed Rice",
+    "category": "Basmati Ka Jaadu",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Vanila (100 gm)",
+    "category": "Ice Creams & Desserts",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Strawberry (100 gm)",
+    "category": "Ice Creams & Desserts",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Kesar Pista (100 gm)",
+    "category": "Ice Creams & Desserts",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Chocolate Ice Cream (100 gm)",
+    "category": "Ice Creams & Desserts",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Butterscotch Ice Cream (100 gm)",
+    "category": "Ice Creams & Desserts",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Saffron",
+    "type": "menu_item",
+    "item_name": "Sizzling Brownie With Ice Cream (160 gm)",
+    "category": "Ice Creams & Desserts",
+    "description": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "location",
+    "name": "Smith & Wollensky - Boston",
+    "address": "294 Congress Street Atlantic Wharf Boston, MA 02210",
+    "phone": "617.778.2200",
+    "email": "SWAW@swrg.com",
+    "hours": "Sunday through Thursday: 11:30am-10:00pm \n Friday and Saturday: 11:30am-11:00pm"
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "ANGRY SHRIMP",
+    "category": "STARTERS",
+    "description": "crispy battered shrimp, spicy lobster butter sauce",
+    "price": "$26.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CRAB CAKE",
+    "category": "STARTERS",
+    "description": "lump crab meat, cognac mustard, ginger sauce",
+    "price": "$28.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TUNA TARTARE*",
+    "category": "STARTERS",
+    "description": "orange, jalapeno, cucumber, coconut vinaigrette, sesame tuile",
+    "price": "$25.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TABLESIDE STEAK TARTARE*",
+    "category": "STARTERS",
+    "description": "roasted bone marrow, grilled crostini",
+    "price": "$26.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CONFIT BACON",
+    "category": "STARTERS",
+    "description": "sweet soy glazed, red cabbage and fresno pepper slaw, pickled vegetables",
+    "price": "$24.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "GRILLED OCTOPUS",
+    "category": "STARTERS",
+    "description": "Marcona almond romesco sauce, peppadew peppers, romanesco",
+    "price": "$30.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "HAMACHI CRUDO",
+    "category": "STARTERS",
+    "description": "citrus, green apple, cucumber, tomato, passion fruit sauce",
+    "price": "$26.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "AMERICAN WAGYU CARPACCIO*",
+    "category": "STARTERS",
+    "description": "SRF Wagyu tenderloin, pickled mushrooms, black truffle aioli, shaved Parmesan",
+    "price": "$27.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "BURRATA",
+    "category": "STARTERS",
+    "description": "herb pesto, heirloom tomato, Marcona almond",
+    "price": "$19.00",
+    "options": [
+      {
+        "text": "add prosciutto",
+        "price": "$6.00"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "JUMBO SHRIMP COCKTAIL",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "",
+    "options": [
+      {
+        "text": "3 pieces",
+        "price": "$19.00"
+      },
+      {
+        "text": "5 pieces",
+        "price": "$30.00"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "EAST COAST OYSTERS* (HALF DOZEN)",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "$22.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CHILLED MAINE LOBSTER TAIL (EACH)",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "$21.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CRAB COCKTAIL",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "OCTOPUS COCKTAIL",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "$22.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SHELLFISH TOWER FOR TWO*",
+    "category": "SHELLFISH",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail",
+    "price": "$82.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SHELLFISH TOWER FOR FOUR*",
+    "category": "SHELLFISH",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail",
+    "price": "$143.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SHELLFISH TOWER FOR SIX*",
+    "category": "SHELLFISH",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail, tuna tartare",
+    "price": "$185.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CLASSIC SPLIT PEA SOUP",
+    "category": "SOUP & SALADS",
+    "description": "the Smith & Wollensky original recipe",
+    "price": "$10.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CLAM CHOWDER",
+    "category": "SOUP & SALADS",
+    "description": "New England style",
+    "price": "$14.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TOMATO & ONION SALAD",
+    "category": "SOUP & SALADS",
+    "description": "whipped feta, Marcona almonds",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WOLLENSKY SALAD",
+    "category": "SOUP & SALADS",
+    "description": "romaine lettuce, tomatoes, potato croutons, bacon lardons, marinated mushrooms, dijon vinaigrette",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CAESAR SALAD",
+    "category": "SOUP & SALADS",
+    "description": "romaine lettuce, traditional dressing, croutons",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CLASSIC ICEBERG SALAD",
+    "category": "SOUP & SALADS",
+    "description": "tomatoes, crumbled bleu cheese, bleu cheese dressing, bacon lardons, scallions",
+    "price": "$17.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "MODERN ICEBERG SALAD",
+    "category": "SOUP & SALADS",
+    "description": "creamy bleu cheese, bacon lardons, tomatoes, red onion, radish, red wine vinaigrette",
+    "price": "$17.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "DUCK CONFIT SALAD",
+    "category": "SOUP & SALADS",
+    "description": "duck confit, carrots, cucumber, quinoa, poached egg, frisee, red onion, dijon vinaigrette",
+    "price": "$19.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SURF & TURF FOR TWO",
+    "category": "BUTCHER'S TABLE*",
+    "description": "18 oz. filet, twin Maine lobster tails with garlic butter, chimichurri",
+    "price": "$160.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SIGNATURE FILET MIGNON 10 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "",
+    "price": "$68.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "COFFEE & COCOA RUBBED FILET 10 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "ancho chili butter, angry onions",
+    "price": "$70.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "FILET OSCAR 10 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "lump crab meat, asparagus, hollandaise sauce",
+    "price": "$88.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "GORGONZOLA CRUSTED FILET 10 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "bacon and scallions",
+    "price": "$75.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TWIN PETIT FILET MIGNON",
+    "category": "BUTCHER'S TABLE*",
+    "description": "mushrooms, brandy peppercorn sauce",
+    "price": "$60.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SRF KUROBUTA PORK CHOP",
+    "category": "BUTCHER'S TABLE*",
+    "description": "pineapple salsa, chimichurri, charred radicchio",
+    "price": "$65.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "DUCK CONFIT",
+    "category": "BUTCHER'S TABLE*",
+    "description": "cherry glaze, carrot orange puree, potato gratin",
+    "price": "$36.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "HALF CHICKEN",
+    "category": "BUTCHER'S TABLE*",
+    "description": "semi-boneless chicken, prosciutto, spinach, crispy Yukon gold potatoes, lemon chicken jus",
+    "price": "$36.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "BONE-IN RIB EYE AU POIVRE 26 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "wet-aged, peppercorn crusted, brandy peppercorn sauce",
+    "price": "$78.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "USDA PRIME DRY-AGED PORTERHOUSE FOR TWO - 42 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$190.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SIGNATURE USDA PRIME DRY-AGED BONE-IN RIB EYE 28 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$105.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CAJUN MARINATED USDA PRIME DRY-AGED BONE-IN RIB EYE 28 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$105.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "USDA PRIME DRY-AGED T-BONE 26 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$90.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "USDA PRIME DRY-AGED BONE-IN NEW YORK CUT 21 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$86.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "USDA PRIME BONELESS NEW YORK STRIP 16 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$78.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SWINGING TOMAHAWK RIB EYE",
+    "category": "AMERICAN WAGYU*",
+    "description": "44 oz. black grade Wagyu, carved tableside, crispy beef-fat potatoes - great to share",
+    "price": "$250.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU PORTERHOUSE FOR TWO",
+    "category": "AMERICAN WAGYU*",
+    "description": "38+ oz. gold grade Wagyu, fondant potatoes, asparagus",
+    "price": "$275.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "LONG BONE WAGYU FILET",
+    "category": "AMERICAN WAGYU*",
+    "description": "18 oz. gold grade Wagyu, arugula, EVOO, lemon, crispy garlic",
+    "price": "$158.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU RIBEYE",
+    "category": "AMERICAN WAGYU*",
+    "description": "14 oz. black grade Wagyu, bone marrow bordelaise, blistered tomato",
+    "price": "$145.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU NY STRIP",
+    "category": "AMERICAN WAGYU*",
+    "description": "14 oz. gold grade Wagyu, sauteed spinach, crispy shallots",
+    "price": "$130.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU MANHATTAN CUT",
+    "category": "AMERICAN WAGYU*",
+    "description": "9 oz. gold grade Wagyu, coffee and cocoa rub, roasted corn puree, chimichurri, smoked tableside",
+    "price": "$99.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU FILET MIGNON",
+    "category": "AMERICAN WAGYU*",
+    "description": "9 oz. black grade Wagyu, roasted shallot, asparagus, bone marrow butter",
+    "price": "$98.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CHILEAN SEA BASS",
+    "category": "FRESH CATCH*",
+    "description": "fondue potato, lobster sauce, confit tomato, charred cippolini, shaved fennel",
+    "price": "$54.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SEARED YELLOWFIN TUNA",
+    "category": "FRESH CATCH*",
+    "description": "coconut carrot puree, wild rice, vegetable medley, tamarind sauce, soy cured egg yolk",
+    "price": "$52.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SEARED NORWEGIAN SALMON*",
+    "category": "FRESH CATCH*",
+    "description": "spring vegetable ragu, morel mushroom, braised leeks, chicken jus",
+    "price": "$45.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CAJUN RUB",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$3.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "COFFEE & COCOA RUB",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$3.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "BEARNAISE SAUCE",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$5.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "HOLLANDAISE SAUCE",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$5.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "BRANDY PEPPERCORN SAUCE",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$8.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "GORGONZOLA CRUSTED",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$10.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "ROASTED BONE MARROW",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$12.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "MAINE LOBSTER TAIL (EACH)",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$21.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TRUFFLED MAC & CHEESE",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$22.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CREAMED SPINACH",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SAUTEED SPINACH",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$14.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SAUTEED MUSHROOMS",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "ASPARAGUS WITH HOLLANDAISE",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$15.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WHIPPED POTATOES",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$12.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "HAND CUT FRENCH FRIES",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$10.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TRUFFLE FRENCH FRIES",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$14.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "FRIED ONIONS",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$12.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CORN MANCHEGO",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$17.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CHARRED BROCCOLINI",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$15.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CHARRED ROMANESCO",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "Marcona almond romesco sauce, herb aioli",
+    "price": "$14.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "ROAST BEEF HASH",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "fried egg, horseradish gremolata",
+    "price": "$15.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "*",
+    "category": "*",
+    "description": "",
+    "price": "",
+    "options": []
+  }
+]

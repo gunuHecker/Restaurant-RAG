@@ -1,0 +1,446 @@
+[
+  {
+    "category": "Entr\u00e9es",
+    "item": "Roasted Chicken",
+    "price": "32.95 dollars",
+    "ingridients": "borlotti beans, tomato-braised tuscan kale"
+  },
+  {
+    "category": "Entr\u00e9es",
+    "item": "Striped Bass",
+    "price": "34.95 dollars",
+    "ingridients": "braised artichoke, fingerlings, fennel, salsa verde"
+  },
+  {
+    "category": "Pastas",
+    "item": "Chitarra Aglio e Olio",
+    "price": "22.95 dollars",
+    "ingridients": "olive oil, garlic, chili, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Chitarra al Pomodoro",
+    "price": "23.95 dollars",
+    "ingridients": "tomato, garlic, basil, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Canestri Cacio e Pepe",
+    "price": "24.95 dollars",
+    "ingridients": "pecorino, grana padano, black pepper"
+  },
+  {
+    "category": "Pastas",
+    "item": "Tagliatelle Bolognese",
+    "price": "27.95 dollars",
+    "ingridients": "\u201cPastaria Bolognese\u201d, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Pistachio Ravioli",
+    "price": "24.95 dollars",
+    "ingridients": "lemon, brown butter, mint, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Garganelli",
+    "price": "27.95 dollars",
+    "ingridients": "braised beef, olives, gremolata, Grana Padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Bucatini All\u2019 Amatriciana",
+    "price": "27.95 dollars",
+    "ingridients": "tomato, red onion, guanciale, chili, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Toasted Semolina Linguine",
+    "price": "27.95 dollars",
+    "ingridients": "rock shrimp, shellfish butter, chili, lemon, fennel, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Strozzapreti al Pork Sugo",
+    "price": "26.95 dollars",
+    "ingridients": "braised pork shoulder, mirepoix, tomato, lemon, herbs, grana padano"
+  },
+  {
+    "category": "Pizza",
+    "item": "Margherita",
+    "price": "20.95 dollars",
+    "ingridients": "tomato, mozzarella, basil"
+  },
+  {
+    "category": "Pizza",
+    "item": "Pastaria Marinara",
+    "price": "20.95 dollars",
+    "ingridients": "tomato, onion, garlic, oregano, basil, pecorino (very minimal cheese)"
+  },
+  {
+    "category": "Pizza",
+    "item": "Four Cheese",
+    "price": "21.95 dollars",
+    "ingridients": "mozzarella, fontina, gorgonzola dolce, Grana Padano (no tomato)"
+  },
+  {
+    "category": "Pizza",
+    "item": "Pepperoni",
+    "price": "22.95 dollars",
+    "ingridients": "tomato, fontina"
+  },
+  {
+    "category": "Pizza",
+    "item": "The Roman",
+    "price": "22.95 dollars",
+    "ingridients": "tomato, garlic, bacon, mozzarella, pecorino, chili"
+  },
+  {
+    "category": "Pizza",
+    "item": "The Allan",
+    "price": "23.95 dollars",
+    "ingridients": "tomato, mozzarella, mushroom, Benton\u2019s country ham, oregano, grana padano"
+  },
+  {
+    "category": "Pizza",
+    "item": "Tempesta Nduja (spicy)",
+    "price": "23.95 dollars",
+    "ingridients": "spicy pork spread, tomato, fior di latte, garlic, oregano, honey"
+  },
+  {
+    "category": "Pizza",
+    "item": "Roasted Mushroom",
+    "price": "23.95 dollars",
+    "ingridients": "bechamel, fontina, rosemary, thyme, garlic, grana padano"
+  },
+  {
+    "category": "Soups and Salads",
+    "item": "Minestrone",
+    "price": "11.95 dollars",
+    "ingridients": "cranberry beans, vegetables, noodles, grana padano"
+  },
+  {
+    "category": "Soups and Salads",
+    "item": "Mixed Greens",
+    "price": "11.95 dollars",
+    "ingridients": "pears, walnuts, goat cheese, red wine vinaigrette"
+  },
+  {
+    "category": "Soups and Salads",
+    "item": "Chopped Salad",
+    "price": "11.95 dollars",
+    "ingridients": "little gem lettuce, pepperoni, chickpeas, green olives, pistachios, oregano, red wine vinaigrette, pecorino"
+  },
+  {
+    "category": "Soups and Salads",
+    "item": "Shaved Kale",
+    "price": "11.95 dollars",
+    "ingridients": "creamy anchovy dressing, pecorino, bread crumbs"
+  },
+  {
+    "category": "Soups and Salads",
+    "item": "Arugula & Endive",
+    "price": "11.95 dollars",
+    "ingridients": "white wine vinaigrette, dried cherry, pistachio, goat cheese, breadcrumbs"
+  },
+  {
+    "category": "Vegetables",
+    "item": "Brussels Sprouts",
+    "price": "10.95 dollars",
+    "ingridients": "lemon, calabrian chili flake, garlic"
+  },
+  {
+    "category": "Vegetables",
+    "item": "Roasted Heirloom Carrots",
+    "price": "9.95 dollars",
+    "ingridients": "confit leeks, herbs, toasted breadcrumb"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Crispy Risotto Balls",
+    "price": "12.95 dollars",
+    "ingridients": "mozzarella, grana padano, herb aioli, marinara"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Cauliflower Caponata",
+    "price": "10.95 dollars",
+    "ingridients": "golden raisin, red onion, red pepper chili, herbs, bread"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Marinated Olives",
+    "price": "10.95 dollars",
+    "ingridients": "rosemary, thyme, citrus"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Burrata",
+    "price": "13.95 dollars",
+    "ingridients": "trapanese pesto, arugula, toasted bread"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Roman Style Gnocchi",
+    "price": "12.95 dollars",
+    "ingridients": "semolina gnocchi, pomodoro sauce, olives, lemon, aged parmesan"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Roasted Beets",
+    "price": "11.95 dollars",
+    "ingridients": "cara cara oranges, olive oil, pistachio dukkah"
+  },
+  {
+    "category": "Appetizers",
+    "item": "Meatballs",
+    "price": "16.50 dollars",
+    "ingridients": "*ONLY AVAILABLE MONDAY* 3 beef and ricotta meatballs, garlic toast, spicy pomodoro sauce"
+  },
+  {
+    "category": "Kid's Desserts",
+    "item": "Kid\u2019s Gelato Scoop",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Kid's Desserts",
+    "item": "Kid\u2019s Birthday Cake",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Spaghetti with meat or tomato sauce",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Cheese Pizza",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Pasta Shells \u201cMac \u2018n Cheese\u201d",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Crispy Risotto Balls with Mozzarella Cheese",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Main Dishes",
+    "item": "Long Macaroni with Butter & Cheese",
+    "price": null,
+    "ingridients": ""
+  },
+  {
+    "category": "Desserts",
+    "item": "Birthday Cake",
+    "price": "11.50 dollars",
+    "ingridients": "confetti cake under a layer of vanilla butter cream and shortbread cookie crumbles"
+  },
+  {
+    "category": "Desserts",
+    "item": "Mama Rodolico\u2019s Tiramisu",
+    "price": "12.00 dollars",
+    "ingridients": "an old family recipe from friends in Florence \u2013 layers of espresso-soaked biscuits topped with an airy mascarpone custard"
+  },
+  {
+    "category": "Desserts",
+    "item": "Assorted Gelato and Sorbetto Flavors",
+    "price": null,
+    "ingridients": "1 scoop 4.75 \u2013 2 scoops 6.75 \u2013 3 scoops 8.75 \u2013 pint 12"
+  },
+  {
+    "category": "Brunch",
+    "item": "Breakfast Bruschetta",
+    "price": "15.00 dollars",
+    "ingridients": "cotto ham, provolone, arugula, pickled red onion, add egg +3"
+  },
+  {
+    "category": "Brunch",
+    "item": "Pastaria \u2018Huevos Rancheros\u2019",
+    "price": "15.00 dollars",
+    "ingridients": "thick cut toast, white beans, ham, salsa verde"
+  },
+  {
+    "category": "Brunch",
+    "item": "Breakfast Pizza",
+    "price": "16.00 dollars",
+    "ingridients": "tomato, bacon, fontina, egg, garlic, chili, parsley"
+  },
+  {
+    "category": "Brunch",
+    "item": "French Toast",
+    "price": "16.00 dollars",
+    "ingridients": "powdered sugar, whipped ricotta with lemon zest & honey"
+  },
+  {
+    "category": "Brunch",
+    "item": "Wood Oven Baked Eggs",
+    "price": "12.00 dollars",
+    "ingridients": "choice of amatriciana or pomodoro, toast"
+  },
+  {
+    "category": "Brunch",
+    "item": "Seasonal Frittata",
+    "price": "15.00 dollars",
+    "ingridients": "spinach, mushroom & tomato mixed green salad or crispy potatoes, toast"
+  },
+  {
+    "category": "Brunch",
+    "item": "Granola Parfait",
+    "price": "10.00 dollars",
+    "ingridients": "yogurt, honey, seasonal fruit"
+  },
+  {
+    "category": "Brunch",
+    "item": "Farm Egg Plate",
+    "price": "15.00 dollars",
+    "ingridients": "2 eggs your style, crispy potatoes or mixed greens, toast"
+  },
+  {
+    "category": "Brunch",
+    "item": "Cacio e Pepe Eggs",
+    "price": "15.00 dollars",
+    "ingridients": "soft scramble with pecorino & black pepper, toast, choice of side salad or crispy potatoes"
+  },
+  {
+    "category": "Sides",
+    "item": "Crispy Potatoes",
+    "price": "5.00 dollars",
+    "ingridients": ""
+  },
+  {
+    "category": "Sides",
+    "item": "Side of Toast with Apple Butter",
+    "price": "5.00 dollars",
+    "ingridients": ""
+  },
+  {
+    "category": "Sides",
+    "item": "Side of Bacon",
+    "price": "4.00 dollars",
+    "ingridients": ""
+  },
+  {
+    "category": "Sides",
+    "item": "Two Eggs",
+    "price": "5.00 dollars",
+    "ingridients": ""
+  },
+  {
+    "category": "Starters & Salads",
+    "item": "Crispy Risotto Balls",
+    "price": "12.95 dollars",
+    "ingridients": "mozzarella, grana padano, herb aioli, marinara"
+  },
+  {
+    "category": "Starters & Salads",
+    "item": "Shaved Kale",
+    "price": "10.95 dollars",
+    "ingridients": "creamy anchovy dressing, pecorino, breadcrumbs, add chicken +9"
+  },
+  {
+    "category": "Starters & Salads",
+    "item": "Chopped Salad",
+    "price": "12.95 dollars",
+    "ingridients": "romaine, pepperoni, chickpeas, olives, pistachios, oregano, red wine vinaigrette, pecorino, add chicken +9"
+  },
+  {
+    "category": "Starters & Salads",
+    "item": "Mixed Greens",
+    "price": "11.95 dollars",
+    "ingridients": "pears, walnuts, goat cheese, red wine vinaigrette, add chicken +9"
+  },
+  {
+    "category": "Sandwiches",
+    "item": "Caprese",
+    "price": "13.00 dollars",
+    "ingridients": "mozzarella, tomato, pesto aioli, arugula, red wine vinegar, evoo add turkey +3, add prosciutto +3"
+  },
+  {
+    "category": "Sandwiches",
+    "item": "Roasted Turkey",
+    "price": "13.00 dollars",
+    "ingridients": "double star farms turkey breast, arugula, tomato, calabrian chili aioli, red wine vinegar, evoo"
+  },
+  {
+    "category": "Sandwiches",
+    "item": "World\u2019s Best Tuna Salad",
+    "price": "13.50 dollars",
+    "ingridients": "confit tuna, olives, capers, red onion, aioli, fire roasted tomatoes, garlic chili vinaigrette"
+  },
+  {
+    "category": "Sandwiches",
+    "item": "Salami",
+    "price": "13.00 dollars",
+    "ingridients": "genoa salami, capocollo, provolone, arugula, tomato, red wine vinegar"
+  },
+  {
+    "category": "Pastries",
+    "item": "Seasonal Coffee Cake",
+    "price": "5.00 dollars",
+    "ingridients": ""
+  },
+  {
+    "category": "Pastries",
+    "item": "Scone",
+    "price": "5.00 dollars",
+    "ingridients": ""
+  },
+  {
+    "category": "Pastries",
+    "item": "Gluten-Free Muffin",
+    "price": "5.00 dollars",
+    "ingridients": ""
+  },
+  {
+    "category": "Pastas",
+    "item": "Chitarra alla Carbonara",
+    "price": "23.95 dollars",
+    "ingridients": "guanciale, egg yolk, black pepper, pecorino"
+  },
+  {
+    "category": "Pastas",
+    "item": "Strozzapreti Cacio e Pepe",
+    "price": "24.95 dollars",
+    "ingridients": "pecorino, grana padano, black pepper"
+  },
+  {
+    "category": "Pastas",
+    "item": "Strozzapreti Bolognese",
+    "price": "27.95 dollars",
+    "ingridients": "\u201cPastaria Bolognese\u201d, grana padano"
+  },
+  {
+    "category": "Pastas",
+    "item": "Strozzapreti al Pomodoro",
+    "price": "23.95 dollars",
+    "ingridients": "tomato, garlic, basil, grana padano"
+  },
+  {
+    "category": "Pizzas",
+    "item": "Margherita",
+    "price": "20.95 dollars",
+    "ingridients": "tomato, mozzarella, basil"
+  },
+  {
+    "category": "Pizzas",
+    "item": "Pepperoni",
+    "price": "22.95 dollars",
+    "ingridients": "tomato, fontina"
+  },
+  {
+    "category": "Pizzas",
+    "item": "The Roman",
+    "price": "22.95 dollars",
+    "ingridients": "tomato, garlic, bacon, mozzarella, pecorino, chili"
+  }
+]

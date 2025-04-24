@@ -1,0 +1,326 @@
+[
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "location",
+    "address": "8 city blvd | Nashville, TN 37209",
+    "phone": "615.915.1866",
+    "email": "info@pastarianashville.com",
+    "hours": [
+      "Dinner EveryDay 5-9 PM",
+      "Bar EveryDay 4-9 PM",
+      "Happy Hour EveryDay 4-6 PM (Dine-In Only)"
+    ]
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Crispy Risotto Balls",
+    "category": "Appetizers",
+    "description": "mozzarella, grana padano, herb aioli, marinara",
+    "price": "12.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Citrus Salad",
+    "category": "Appetizers",
+    "description": "orange, grapefruit, green olives, red onions, tarragon, olive oil",
+    "price": "12.50 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Boquerones",
+    "category": "Appetizers",
+    "description": "olive oil, herbs, house bread",
+    "price": "8.24 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Marinated Olives",
+    "category": "Appetizers",
+    "description": "olive oil, citrus, chili, herbs",
+    "price": "9.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Chopped Salad",
+    "category": "Salads",
+    "description": "chickpeas, green olives, pistachios, pepperoni, oregano, red wine vinaigrette, pecorino",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Shaved Kale",
+    "category": "Salads",
+    "description": "creamy anchovy dressing, pecorino, bread crumbs",
+    "price": "10.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Spring Medley",
+    "category": "Salads",
+    "description": "Greener Roots Nashville Blend, citrus, sunflower shoots, pecorino crisp, charred red onion vinaigrette",
+    "price": "13.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "The Bite Flight",
+    "category": "Shareables",
+    "description": "marinated olives, boquerones, giardiniera, house bread",
+    "price": "13.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Roasted Beets",
+    "category": "Shareables",
+    "description": "sunflower shoots, balsamic glaze, crème fraîche, crunchy Za’atar, pecorino",
+    "price": "13.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Grilled Radicchio",
+    "category": "Shareables",
+    "description": "mozzarella cream, crispy Benton’s Ham, red onion, cashews, pecorino, lemon vinaigrette",
+    "price": "15.50 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Burrata",
+    "category": "Shareables",
+    "description": "8 year aged balsamic, olive oil, house focaccia add Benton’s Ham +5.00",
+    "price": "14.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Espresso Chocolate Tart",
+    "category": "Desserts",
+    "description": "white chocolate, mascarpone cream, espresso crunch",
+    "price": "10.55 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Olive Oil Cake",
+    "category": "Desserts",
+    "description": "maple & huckleberry syrup, creme fraiche whipped cream",
+    "price": "11.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Birthday Cake",
+    "category": "Desserts",
+    "description": "confetti cake, butter cream frosting, confetti cookie crumble",
+    "price": "9.50 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pastaria’s “Chicken Parm”",
+    "category": "Entrees",
+    "description": "chitarra noodles, crispy chicken breast, pomodoro, mozzarella, oregano, grana padano, chili",
+    "price": "27.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Market Fish",
+    "category": "Entrees",
+    "description": "cannellini beans, snap peas, sunflower shoots, maitake and brown beech mushrooms",
+    "price": "27.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Chitarra Aglio e Olio",
+    "category": "Pastas",
+    "description": "olive oil, garlic, chili, grana padano             *add anchovy +3.50",
+    "price": "21.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Chitarra al Pomodoro",
+    "category": "Pastas",
+    "description": "tomatoes, garlic, basil, grana padano",
+    "price": "22.25 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Canestri Cacio e Pepe",
+    "category": "Pastas",
+    "description": "pecorino, grana padano, black pepper",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Tagliatelle",
+    "category": "Pastas",
+    "description": "‘Pastaria Bolognese,’ grana padano",
+    "price": "25.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pistachio Ravioli",
+    "category": "Pastas",
+    "description": "mint, lemon brown butter, grana padano",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Garganelli Pork Ragu",
+    "category": "Pastas",
+    "description": "braised pork, mushrooms, citrus, pecorino",
+    "price": "26.25 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Bucatini Rigate",
+    "category": "Pastas",
+    "description": "ground lamb, calabrian chili, garlic, whipped ricotta",
+    "price": "26.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Bucatini All’ Amatriciana",
+    "category": "Pastas",
+    "description": "tomato, red onion, guanciale, chili, grana padano",
+    "price": "24.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pappardelle Beef Ragu",
+    "category": "Pastas",
+    "description": "Black Hawk Farms Wagyu, Castlevetrano olives, pecorino, grana padano",
+    "price": "26.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Lasagna Verde",
+    "category": "Pastas",
+    "description": "bechamel, bolognese",
+    "price": "27.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Margherita",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, basil",
+    "price": "20.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pastaria Marinara",
+    "category": "Pizza",
+    "description": "tomato, olive oil, garlic, oregano, basil *try Heather’s way",
+    "price": "21.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pepperoni",
+    "category": "Pizza",
+    "description": "fontina, tomato",
+    "price": "22.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "The Roman",
+    "category": "Pizza",
+    "description": "tomato, garlic, bacon, mozzarella, pecorino, chili",
+    "price": "22.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "The Allan",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, mushroom, Benton’s ham, oregano, grana padano",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Nduja",
+    "category": "Pizza",
+    "description": "tomato, Fior di latte, garlic, oregano, honey",
+    "price": "23.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pastaria Hawaiian",
+    "category": "Pizza",
+    "description": "tomato, mozzarella, jalapeno, pineapple, house-made Canadian bacon",
+    "price": "22.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "The Mushroom",
+    "category": "Pizza",
+    "description": "mushrooms, roasted garlic puree, fontina, pecorino, fresh herbs",
+    "price": "22.95 dollars"
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Spaghetti with Meat or Tomato Sauce",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Cheese Pizza",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Pasta Shells “Mac ‘n Cheese”",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Butter Noodles",
+    "category": "Main Dishes",
+    "description": "",
+    "price": null
+  },
+  {
+    "restaurant_name": "Pastaria Nashville",
+    "type": "menu_item",
+    "item_name": "Kid’s Gelato Scoop",
+    "category": "Kid's Desserts",
+    "description": "",
+    "price": null
+  }
+]

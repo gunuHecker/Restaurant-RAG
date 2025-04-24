@@ -1,0 +1,911 @@
+[
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "about",
+    "title": "Arya Bhavan at Hotel Southern – The Top-rated South Indian QSR Veg Restaurant in Karol Bagh, New Delhi",
+    "description": "Arya Bhavan offers a wide selection of South India Dishes for our esteemed patrons. All the South Indian delicacies are prepared by our expert chefs who use South Indian ingredients. Step into a tasteful journey where our chefs bring the flavors of the south onto your tables at Arya Bhavan.Indulge in South Indian delicacies like the variety of Dosa’s, Malabar paratha, Idli, Vada at Arya Bhavan – one of the top-rated vegetarian restaurants in Karol Bagh. A warm and prompt staff ensures that all your needs will get proper attention. Head to our South India restaurant near Karol Bagh and experience the finest delicacies today.”"
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "location",
+    "address": "18/1, Arya Samaj Rd, Block 18, WEA, Karol Bagh, Delhi-05",
+    "contact_number": "+91 8006698006",
+    "opening_hours": "Monday – Sunday 06.30 AM – 11.00 PM"
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Idly (2Pc)",
+    "category": "south-indian",
+    "price": "80",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Podi Idly (2Pc)",
+    "category": "south-indian",
+    "price": "85",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mini Idly (12Pc)",
+    "category": "south-indian",
+    "price": "115",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Vada (2Pc)",
+    "category": "south-indian",
+    "price": "85",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Sambar Vada",
+    "category": "south-indian",
+    "price": "115",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rasam Vada",
+    "category": "south-indian",
+    "price": "115",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Dahi Vada (1Pc)",
+    "category": "south-indian",
+    "price": "70",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Dahi Vada (2Pc)",
+    "category": "south-indian",
+    "price": "120",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Upma",
+    "category": "south-indian",
+    "price": "110",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Ghee Pongal",
+    "category": "south-indian",
+    "price": "120",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Ghee Pongal + Vada (1Pc)",
+    "category": "south-indian",
+    "price": "150",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Poori Masala (2Pc)",
+    "category": "south-indian",
+    "price": "105",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Extra Sambar (250ml)",
+    "category": "south-indian",
+    "price": "50",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rava Kesari",
+    "category": "sweets",
+    "price": "85",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Gulab Jamun (2Pcs.)",
+    "category": "sweets",
+    "price": "70",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Sweet Pongal",
+    "category": "sweets",
+    "price": "85",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rasogolla (2Pcs.)",
+    "category": "sweets",
+    "price": "30",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tea",
+    "category": "beverages",
+    "price": "45",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Lamsa Tea (Hyderabadi Special Chai",
+    "category": "beverages",
+    "price": "50",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Masala Tea (Ginger with Cardamom",
+    "category": "beverages",
+    "price": "50",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Coffee (South Indian Filter)",
+    "category": "beverages",
+    "price": "50",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Cold Coffee",
+    "category": "beverages",
+    "price": "80",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Bournvita",
+    "category": "beverages",
+    "price": "65",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Holicks",
+    "category": "beverages",
+    "price": "65",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Badam Milk (Hot)",
+    "category": "beverages",
+    "price": "75",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Hot Milk",
+    "category": "beverages",
+    "price": "45",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Lassi (Sweet/Salt)",
+    "category": "beverages",
+    "price": "90",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Milk",
+    "category": "beverages",
+    "price": "75",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mineral Water",
+    "category": "beverages",
+    "price": "MRP",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Soft Drink (Cola, Lemon & Orange)",
+    "category": "beverages",
+    "price": "MRP",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Soda",
+    "category": "beverages",
+    "price": "MRP",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Fresh Lime Soda",
+    "category": "beverages",
+    "price": "70",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Cappuccino",
+    "category": "beverages",
+    "price": "75",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Cold Coffee with Ice Cream",
+    "category": "beverages",
+    "price": "110",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Strawberry",
+    "category": "milk-shakes",
+    "price": "135",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Vanilla",
+    "category": "milk-shakes",
+    "price": "125",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chocolate",
+    "category": "milk-shakes",
+    "price": "145",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Scotch",
+    "category": "milk-shakes",
+    "price": "145",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mango",
+    "category": "milk-shakes",
+    "price": "145",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Pina Colada",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Virgin Mojito",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Orange Sunrise",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Blue Lagoon",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Lemon Ice Tea",
+    "category": "mocktail",
+    "price": "84",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Pakoda",
+    "category": "evening-snacks",
+    "price": "80",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Aloo Bonda",
+    "category": "evening-snacks",
+    "price": "75",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Paneer Bajji (2Pcs.)",
+    "category": "evening-snacks",
+    "price": "95",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Masala Vada",
+    "category": "evening-snacks",
+    "price": "70",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mirchi Bajji (3Pcs.)",
+    "category": "evening-snacks",
+    "price": "90",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Banana Bajji (4Pcs.)",
+    "category": "evening-snacks",
+    "price": "85",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Guntha Punugulu",
+    "category": "evening-snacks",
+    "price": "90",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Assorted Bajji",
+    "category": "evening-snacks",
+    "price": "100",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Fresh Lime",
+    "category": "fresh-juice",
+    "price": "55",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Pomegranate",
+    "category": "fresh-juice",
+    "price": "130",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Sweet Lime Juice",
+    "category": "fresh-juice",
+    "price": "115",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Apple Juice",
+    "category": "fresh-juice",
+    "price": "130",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Pineapple Juice",
+    "category": "fresh-juice",
+    "price": "120",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Watermelon Juice",
+    "category": "fresh-juice",
+    "price": "115",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Plain Dosa",
+    "category": "dosa",
+    "price": "125",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Dosa",
+    "category": "dosa",
+    "price": "140",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Masala Dosa",
+    "category": "dosa",
+    "price": "145",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Masala Dosa",
+    "category": "dosa",
+    "price": "155",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Podi Dosa",
+    "category": "dosa",
+    "price": "140",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Dosa",
+    "category": "dosa",
+    "price": "135",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Masala Dosa",
+    "category": "dosa",
+    "price": "155",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Ghee Roast Dosa",
+    "category": "dosa",
+    "price": "135",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Ghee Roast Masala Dosa",
+    "category": "dosa",
+    "price": "155",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Set Dosa (2pcs)",
+    "category": "dosa",
+    "price": "160",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rava Dosa",
+    "category": "dosa",
+    "price": "135",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Rava Dosa",
+    "category": "dosa",
+    "price": "155",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Rava Masala Dosa",
+    "category": "dosa",
+    "price": "160",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Coconot Rava Dosa",
+    "category": "dosa",
+    "price": "150",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Rava Masala Dosa",
+    "category": "dosa",
+    "price": "170",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Green Moong Dosa (Pesarattu)",
+    "category": "dosa",
+    "price": "135",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Green Moong Dosa (Pesarattu)",
+    "category": "dosa",
+    "price": "150",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Uttapam",
+    "category": "uttapam",
+    "price": "135",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Onion Uttapam",
+    "category": "uttapam",
+    "price": "150",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tomato Uttapam",
+    "category": "uttapam",
+    "price": "150",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mix Vegetable Uttapam",
+    "category": "uttapam",
+    "price": "160",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tomato Coconut Uttapam",
+    "category": "uttapam",
+    "price": "160",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mysore Masala Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "155",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Spring Roll Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "170",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Coconot Rava Masala Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "165",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "M.L.A Pesarattu (with Upma)",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "165",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Arya Bhavan Paneer Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "170",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Podi Ghee Masala Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "170",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Adai Avail Dosa",
+    "category": "aryan-bhavan-special-dosas",
+    "price": "175",
+    "recommended": true
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Malabar Parotta 2Pc with Veg Korma",
+    "category": "parotta",
+    "price": "155",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chapati 3Pc with Veg Korma",
+    "category": "parotta",
+    "price": "145",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Veg Khothu Parotta",
+    "category": "parotta",
+    "price": "150",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Sambar Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tomato Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Tamarind Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Lemon Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Curd Rice",
+    "category": "rice-variety",
+    "price": "110",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Masala Dosa + Dahi Vada (1Pc)",
+    "category": "combos",
+    "price": "190",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Green Moong Dosa + Dahi Vada (1Pc)",
+    "category": "combos",
+    "price": "195",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mini Meal",
+    "category": "combos",
+    "price": "190",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "South Indian Platter",
+    "category": "combos",
+    "price": "195",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chocolate Surprise",
+    "category": "combos",
+    "price": "120",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Bunny Hug",
+    "category": "combos",
+    "price": "130",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Malabar Parotta 2Pc with Veg Korma",
+    "category": "parotta",
+    "price": "155",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chapati 3Pc with Veg Korma",
+    "category": "parotta",
+    "price": "145",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Veg Khothu Parotta",
+    "category": "parotta",
+    "price": "150",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Vanilla",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Strawberry",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Chocolate",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Butter Scotch",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "menu_item",
+    "item_name": "Mango",
+    "category": "ice-creams-single-scoop",
+    "price": "60",
+    "recommended": false
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "review",
+    "author": "Rahim Al Azzi",
+    "review": "The great Indian south india tali, little bit expensive but good taste., Remember that etra rice they charge you 🤠"
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "review",
+    "author": "DANIEL MATHANGI",
+    "review": "Arya Bhavan the Telugu restaurant serves only veg and the southern dishes"
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "review",
+    "author": "Kusuma Krishna Sankar",
+    "review": "It is part of sothern hotel. good ambience. authentic south breakfast. digital payments accepted."
+  },
+  {
+    "restaurant_name": "Aryabhavan",
+    "type": "review",
+    "author": "Hemansh Sanadhya",
+    "review": "Food was amazing, affordable and they really serve authentic South Indian cuisine. Highly recommended."
+  }
+]

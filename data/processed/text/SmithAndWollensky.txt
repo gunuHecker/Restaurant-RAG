@@ -1,0 +1,122 @@
+Smith & Wollensky Restaurant has location Smith & Wollensky - Boston at 294 Congress Street Atlantic Wharf Boston, MA 02210
+Smith & Wollensky Restaurant has contact number: 617.778.2200
+Smith & Wollensky Restaurant has email: SWAW@swrg.com
+Smith & Wollensky Restaurant opening hours: Sunday through Thursday: 11:30am-10:00pm
+Smith & Wollensky Restaurant opening hours: Friday and Saturday: 11:30am-11:00pm
+Smith & Wollensky Restaurant has menu item ANGRY SHRIMP in category STARTERS priced at $26.00.
+ANGRY SHRIMP description: crispy battered shrimp, spicy lobster butter sauce
+Smith & Wollensky Restaurant has menu item CRAB CAKE in category STARTERS priced at $28.00.
+CRAB CAKE description: lump crab meat, cognac mustard, ginger sauce
+Smith & Wollensky Restaurant has menu item TUNA TARTARE* in category STARTERS priced at $25.00.
+TUNA TARTARE* description: orange, jalapeno, cucumber, coconut vinaigrette, sesame tuile
+Smith & Wollensky Restaurant has menu item TABLESIDE STEAK TARTARE* in category STARTERS priced at $26.00.
+TABLESIDE STEAK TARTARE* description: roasted bone marrow, grilled crostini
+Smith & Wollensky Restaurant has menu item CONFIT BACON in category STARTERS priced at $24.00.
+CONFIT BACON description: sweet soy glazed, red cabbage and fresno pepper slaw, pickled vegetables
+Smith & Wollensky Restaurant has menu item GRILLED OCTOPUS in category STARTERS priced at $30.00.
+GRILLED OCTOPUS description: Marcona almond romesco sauce, peppadew peppers, romanesco
+Smith & Wollensky Restaurant has menu item HAMACHI CRUDO in category STARTERS priced at $26.00.
+HAMACHI CRUDO description: citrus, green apple, cucumber, tomato, passion fruit sauce
+Smith & Wollensky Restaurant has menu item AMERICAN WAGYU CARPACCIO* in category STARTERS priced at $27.00.
+AMERICAN WAGYU CARPACCIO* description: SRF Wagyu tenderloin, pickled mushrooms, black truffle aioli, shaved Parmesan
+Smith & Wollensky Restaurant has menu item BURRATA in category STARTERS priced at $19.00.
+BURRATA description: herb pesto, heirloom tomato, Marcona almond
+Smith & Wollensky Restaurant's BURRATA add-on add prosciutto at $6.00
+Smith & Wollensky Restaurant has menu item JUMBO SHRIMP COCKTAIL in category SHELLFISH priced at .
+Smith & Wollensky Restaurant's JUMBO SHRIMP COCKTAIL add-on 3 pieces at $19.00
+Smith & Wollensky Restaurant's JUMBO SHRIMP COCKTAIL add-on 5 pieces at $30.00
+Smith & Wollensky Restaurant has menu item EAST COAST OYSTERS* (HALF DOZEN) in category SHELLFISH priced at $22.00.
+Smith & Wollensky Restaurant has menu item CHILLED MAINE LOBSTER TAIL (EACH) in category SHELLFISH priced at $21.00.
+Smith & Wollensky Restaurant has menu item CRAB COCKTAIL in category SHELLFISH priced at .
+Smith & Wollensky Restaurant has menu item OCTOPUS COCKTAIL in category SHELLFISH priced at $22.00.
+Smith & Wollensky Restaurant has menu item SHELLFISH TOWER FOR TWO* in category SHELLFISH priced at $82.00.
+SHELLFISH TOWER FOR TWO* description: Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail
+Smith & Wollensky Restaurant has menu item SHELLFISH TOWER FOR FOUR* in category SHELLFISH priced at $143.00.
+SHELLFISH TOWER FOR FOUR* description: Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail
+Smith & Wollensky Restaurant has menu item SHELLFISH TOWER FOR SIX* in category SHELLFISH priced at $185.00.
+SHELLFISH TOWER FOR SIX* description: Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail, tuna tartare
+Smith & Wollensky Restaurant has menu item CLASSIC SPLIT PEA SOUP in category SOUP & SALADS priced at $10.00.
+CLASSIC SPLIT PEA SOUP description: the Smith & Wollensky original recipe
+Smith & Wollensky Restaurant has menu item CLAM CHOWDER in category SOUP & SALADS priced at $14.00.
+CLAM CHOWDER description: New England style
+Smith & Wollensky Restaurant has menu item TOMATO & ONION SALAD in category SOUP & SALADS priced at $16.00.
+TOMATO & ONION SALAD description: whipped feta, Marcona almonds
+Smith & Wollensky Restaurant has menu item WOLLENSKY SALAD in category SOUP & SALADS priced at $16.00.
+WOLLENSKY SALAD description: romaine lettuce, tomatoes, potato croutons, bacon lardons, marinated mushrooms, dijon vinaigrette
+Smith & Wollensky Restaurant has menu item CAESAR SALAD in category SOUP & SALADS priced at $16.00.
+CAESAR SALAD description: romaine lettuce, traditional dressing, croutons
+Smith & Wollensky Restaurant has menu item CLASSIC ICEBERG SALAD in category SOUP & SALADS priced at $17.00.
+CLASSIC ICEBERG SALAD description: tomatoes, crumbled bleu cheese, bleu cheese dressing, bacon lardons, scallions
+Smith & Wollensky Restaurant has menu item MODERN ICEBERG SALAD in category SOUP & SALADS priced at $17.00.
+MODERN ICEBERG SALAD description: creamy bleu cheese, bacon lardons, tomatoes, red onion, radish, red wine vinaigrette
+Smith & Wollensky Restaurant has menu item DUCK CONFIT SALAD in category SOUP & SALADS priced at $19.00.
+DUCK CONFIT SALAD description: duck confit, carrots, cucumber, quinoa, poached egg, frisee, red onion, dijon vinaigrette
+Smith & Wollensky Restaurant has menu item SURF & TURF FOR TWO in category BUTCHER'S TABLE* priced at $160.00.
+SURF & TURF FOR TWO description: 18 oz. filet, twin Maine lobster tails with garlic butter, chimichurri
+Smith & Wollensky Restaurant has menu item SIGNATURE FILET MIGNON 10 OZ in category BUTCHER'S TABLE* priced at $68.00.
+Smith & Wollensky Restaurant has menu item COFFEE & COCOA RUBBED FILET 10 OZ in category BUTCHER'S TABLE* priced at $70.00.
+COFFEE & COCOA RUBBED FILET 10 OZ description: ancho chili butter, angry onions
+Smith & Wollensky Restaurant has menu item FILET OSCAR 10 OZ in category BUTCHER'S TABLE* priced at $88.00.
+FILET OSCAR 10 OZ description: lump crab meat, asparagus, hollandaise sauce
+Smith & Wollensky Restaurant has menu item GORGONZOLA CRUSTED FILET 10 OZ in category BUTCHER'S TABLE* priced at $75.00.
+GORGONZOLA CRUSTED FILET 10 OZ description: bacon and scallions
+Smith & Wollensky Restaurant has menu item TWIN PETIT FILET MIGNON in category BUTCHER'S TABLE* priced at $60.00.
+TWIN PETIT FILET MIGNON description: mushrooms, brandy peppercorn sauce
+Smith & Wollensky Restaurant has menu item SRF KUROBUTA PORK CHOP in category BUTCHER'S TABLE* priced at $65.00.
+SRF KUROBUTA PORK CHOP description: pineapple salsa, chimichurri, charred radicchio
+Smith & Wollensky Restaurant has menu item DUCK CONFIT in category BUTCHER'S TABLE* priced at $36.00.
+DUCK CONFIT description: cherry glaze, carrot orange puree, potato gratin
+Smith & Wollensky Restaurant has menu item HALF CHICKEN in category BUTCHER'S TABLE* priced at $36.00.
+HALF CHICKEN description: semi-boneless chicken, prosciutto, spinach, crispy Yukon gold potatoes, lemon chicken jus
+Smith & Wollensky Restaurant has menu item BONE-IN RIB EYE AU POIVRE 26 OZ in category BUTCHER'S TABLE* priced at $78.00.
+BONE-IN RIB EYE AU POIVRE 26 OZ description: wet-aged, peppercorn crusted, brandy peppercorn sauce
+Smith & Wollensky Restaurant has menu item USDA PRIME DRY-AGED PORTERHOUSE FOR TWO - 42 OZ in category USDA PRIME CLASSIC STEAKHOUSE CUTS* priced at $190.00.
+Smith & Wollensky Restaurant has menu item SIGNATURE USDA PRIME DRY-AGED BONE-IN RIB EYE 28 OZ in category USDA PRIME CLASSIC STEAKHOUSE CUTS* priced at $105.00.
+Smith & Wollensky Restaurant has menu item CAJUN MARINATED USDA PRIME DRY-AGED BONE-IN RIB EYE 28 OZ in category USDA PRIME CLASSIC STEAKHOUSE CUTS* priced at $105.00.
+Smith & Wollensky Restaurant has menu item USDA PRIME DRY-AGED T-BONE 26 OZ in category USDA PRIME CLASSIC STEAKHOUSE CUTS* priced at $90.00.
+Smith & Wollensky Restaurant has menu item USDA PRIME DRY-AGED BONE-IN NEW YORK CUT 21 OZ in category USDA PRIME CLASSIC STEAKHOUSE CUTS* priced at $86.00.
+Smith & Wollensky Restaurant has menu item USDA PRIME BONELESS NEW YORK STRIP 16 OZ in category USDA PRIME CLASSIC STEAKHOUSE CUTS* priced at $78.00.
+Smith & Wollensky Restaurant has menu item SWINGING TOMAHAWK RIB EYE in category AMERICAN WAGYU* priced at $250.00.
+SWINGING TOMAHAWK RIB EYE description: 44 oz. black grade Wagyu, carved tableside, crispy beef-fat potatoes - great to share
+Smith & Wollensky Restaurant has menu item WAGYU PORTERHOUSE FOR TWO in category AMERICAN WAGYU* priced at $275.00.
+WAGYU PORTERHOUSE FOR TWO description: 38+ oz. gold grade Wagyu, fondant potatoes, asparagus
+Smith & Wollensky Restaurant has menu item LONG BONE WAGYU FILET in category AMERICAN WAGYU* priced at $158.00.
+LONG BONE WAGYU FILET description: 18 oz. gold grade Wagyu, arugula, EVOO, lemon, crispy garlic
+Smith & Wollensky Restaurant has menu item WAGYU RIBEYE in category AMERICAN WAGYU* priced at $145.00.
+WAGYU RIBEYE description: 14 oz. black grade Wagyu, bone marrow bordelaise, blistered tomato
+Smith & Wollensky Restaurant has menu item WAGYU NY STRIP in category AMERICAN WAGYU* priced at $130.00.
+WAGYU NY STRIP description: 14 oz. gold grade Wagyu, sauteed spinach, crispy shallots
+Smith & Wollensky Restaurant has menu item WAGYU MANHATTAN CUT in category AMERICAN WAGYU* priced at $99.00.
+WAGYU MANHATTAN CUT description: 9 oz. gold grade Wagyu, coffee and cocoa rub, roasted corn puree, chimichurri, smoked tableside
+Smith & Wollensky Restaurant has menu item WAGYU FILET MIGNON in category AMERICAN WAGYU* priced at $98.00.
+WAGYU FILET MIGNON description: 9 oz. black grade Wagyu, roasted shallot, asparagus, bone marrow butter
+Smith & Wollensky Restaurant has menu item CHILEAN SEA BASS in category FRESH CATCH* priced at $54.00.
+CHILEAN SEA BASS description: fondue potato, lobster sauce, confit tomato, charred cippolini, shaved fennel
+Smith & Wollensky Restaurant has menu item SEARED YELLOWFIN TUNA in category FRESH CATCH* priced at $52.00.
+SEARED YELLOWFIN TUNA description: coconut carrot puree, wild rice, vegetable medley, tamarind sauce, soy cured egg yolk
+Smith & Wollensky Restaurant has menu item SEARED NORWEGIAN SALMON* in category FRESH CATCH* priced at $45.00.
+SEARED NORWEGIAN SALMON* description: spring vegetable ragu, morel mushroom, braised leeks, chicken jus
+Smith & Wollensky Restaurant has menu item CAJUN RUB in category STEAK ENHANCEMENTS priced at $3.00.
+Smith & Wollensky Restaurant has menu item COFFEE & COCOA RUB in category STEAK ENHANCEMENTS priced at $3.00.
+Smith & Wollensky Restaurant has menu item BEARNAISE SAUCE in category STEAK ENHANCEMENTS priced at $5.00.
+Smith & Wollensky Restaurant has menu item HOLLANDAISE SAUCE in category STEAK ENHANCEMENTS priced at $5.00.
+Smith & Wollensky Restaurant has menu item BRANDY PEPPERCORN SAUCE in category STEAK ENHANCEMENTS priced at $8.00.
+Smith & Wollensky Restaurant has menu item GORGONZOLA CRUSTED in category STEAK ENHANCEMENTS priced at $10.00.
+Smith & Wollensky Restaurant has menu item ROASTED BONE MARROW in category STEAK ENHANCEMENTS priced at $12.00.
+Smith & Wollensky Restaurant has menu item MAINE LOBSTER TAIL (EACH) in category STEAK ENHANCEMENTS priced at $21.00.
+Smith & Wollensky Restaurant has menu item TRUFFLED MAC & CHEESE in category CLASSIC & NEW SIDES priced at $22.00.
+Smith & Wollensky Restaurant has menu item CREAMED SPINACH in category CLASSIC & NEW SIDES priced at $16.00.
+Smith & Wollensky Restaurant has menu item SAUTEED SPINACH in category CLASSIC & NEW SIDES priced at $14.00.
+Smith & Wollensky Restaurant has menu item SAUTEED MUSHROOMS in category CLASSIC & NEW SIDES priced at $16.00.
+Smith & Wollensky Restaurant has menu item ASPARAGUS WITH HOLLANDAISE in category CLASSIC & NEW SIDES priced at $15.00.
+Smith & Wollensky Restaurant has menu item WHIPPED POTATOES in category CLASSIC & NEW SIDES priced at $12.00.
+Smith & Wollensky Restaurant has menu item HAND CUT FRENCH FRIES in category CLASSIC & NEW SIDES priced at $10.00.
+Smith & Wollensky Restaurant has menu item TRUFFLE FRENCH FRIES in category CLASSIC & NEW SIDES priced at $14.00.
+Smith & Wollensky Restaurant has menu item FRIED ONIONS in category CLASSIC & NEW SIDES priced at $12.00.
+Smith & Wollensky Restaurant has menu item CORN MANCHEGO in category CLASSIC & NEW SIDES priced at $17.00.
+Smith & Wollensky Restaurant has menu item CHARRED BROCCOLINI in category CLASSIC & NEW SIDES priced at $15.00.
+Smith & Wollensky Restaurant has menu item CHARRED ROMANESCO in category CLASSIC & NEW SIDES priced at $14.00.
+CHARRED ROMANESCO description: Marcona almond romesco sauce, herb aioli
+Smith & Wollensky Restaurant has menu item ROAST BEEF HASH in category CLASSIC & NEW SIDES priced at $15.00.
+ROAST BEEF HASH description: fried egg, horseradish gremolata
+Smith & Wollensky Restaurant has menu item * in category * priced at .

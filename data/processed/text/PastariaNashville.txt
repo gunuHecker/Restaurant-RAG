@@ -1,0 +1,79 @@
+Pastaria Nashville Restaurant is situated at -- 8 city blvd | Nashville, TN 37209
+Pastaria Nashville Restaurant has contact number: 615.915.1866
+Pastaria Nashville Restaurant has email: info@pastarianashville.com
+Pastaria Nashville Restaurant opening hours: Dinner EveryDay 5-9 PM
+Pastaria Nashville Restaurant opening hours: Bar EveryDay 4-9 PM
+Pastaria Nashville Restaurant opening hours: Happy Hour EveryDay 4-6 PM (Dine-In Only)
+Pastaria Nashville Restaurant has menu item, Crispy Risotto Balls in Appetizers priced at 12.95 dollars.
+Description: mozzarella, grana padano, herb aioli, marinara
+Pastaria Nashville Restaurant has menu item, Citrus Salad in Appetizers priced at 12.50 dollars.
+Description: orange, grapefruit, green olives, red onions, tarragon, olive oil
+Pastaria Nashville Restaurant has menu item, Boquerones in Appetizers priced at 8.24 dollars.
+Description: olive oil, herbs, house bread
+Pastaria Nashville Restaurant has menu item, Marinated Olives in Appetizers priced at 9.95 dollars.
+Description: olive oil, citrus, chili, herbs
+Pastaria Nashville Restaurant has menu item, Chopped Salad in Salads priced at 11.95 dollars.
+Description: chickpeas, green olives, pistachios, pepperoni, oregano, red wine vinaigrette, pecorino
+Pastaria Nashville Restaurant has menu item, Shaved Kale in Salads priced at 10.95 dollars.
+Description: creamy anchovy dressing, pecorino, bread crumbs
+Pastaria Nashville Restaurant has menu item, Spring Medley in Salads priced at 13.95 dollars.
+Description: Greener Roots Nashville Blend, citrus, sunflower shoots, pecorino crisp, charred red onion vinaigrette
+Pastaria Nashville Restaurant has menu item, The Bite Flight in Shareables priced at 13.95 dollars.
+Description: marinated olives, boquerones, giardiniera, house bread
+Pastaria Nashville Restaurant has menu item, Roasted Beets in Shareables priced at 13.95 dollars.
+Description: sunflower shoots, balsamic glaze, crème fraîche, crunchy Za’atar, pecorino
+Pastaria Nashville Restaurant has menu item, Grilled Radicchio in Shareables priced at 15.50 dollars.
+Description: mozzarella cream, crispy Benton’s Ham, red onion, cashews, pecorino, lemon vinaigrette
+Pastaria Nashville Restaurant has menu item, Burrata in Shareables priced at 14.95 dollars.
+Description: 8 year aged balsamic, olive oil, house focaccia add Benton’s Ham +5.00
+Pastaria Nashville Restaurant has menu item, Espresso Chocolate Tart in Desserts priced at 10.55 dollars.
+Description: white chocolate, mascarpone cream, espresso crunch
+Pastaria Nashville Restaurant has menu item, Olive Oil Cake in Desserts priced at 11.95 dollars.
+Description: maple & huckleberry syrup, creme fraiche whipped cream
+Pastaria Nashville Restaurant has menu item, Birthday Cake in Desserts priced at 9.50 dollars.
+Description: confetti cake, butter cream frosting, confetti cookie crumble
+Pastaria Nashville Restaurant has menu item, Pastaria’s “Chicken Parm” in Entrees priced at 27.95 dollars.
+Description: chitarra noodles, crispy chicken breast, pomodoro, mozzarella, oregano, grana padano, chili
+Pastaria Nashville Restaurant has menu item, Market Fish in Entrees priced at 27.95 dollars.
+Description: cannellini beans, snap peas, sunflower shoots, maitake and brown beech mushrooms
+Pastaria Nashville Restaurant has menu item, Chitarra Aglio e Olio in Pastas priced at 21.95 dollars.
+Description: olive oil, garlic, chili, grana padano             *add anchovy +3.50
+Pastaria Nashville Restaurant has menu item, Chitarra al Pomodoro in Pastas priced at 22.25 dollars.
+Description: tomatoes, garlic, basil, grana padano
+Pastaria Nashville Restaurant has menu item, Canestri Cacio e Pepe in Pastas priced at 23.95 dollars.
+Description: pecorino, grana padano, black pepper
+Pastaria Nashville Restaurant has menu item, Tagliatelle in Pastas priced at 25.95 dollars.
+Description: ‘Pastaria Bolognese,’ grana padano
+Pastaria Nashville Restaurant has menu item, Pistachio Ravioli in Pastas priced at 23.95 dollars.
+Description: mint, lemon brown butter, grana padano
+Pastaria Nashville Restaurant has menu item, Garganelli Pork Ragu in Pastas priced at 26.25 dollars.
+Description: braised pork, mushrooms, citrus, pecorino
+Pastaria Nashville Restaurant has menu item, Bucatini Rigate in Pastas priced at 26.95 dollars.
+Description: ground lamb, calabrian chili, garlic, whipped ricotta
+Pastaria Nashville Restaurant has menu item, Bucatini All’ Amatriciana in Pastas priced at 24.95 dollars.
+Description: tomato, red onion, guanciale, chili, grana padano
+Pastaria Nashville Restaurant has menu item, Pappardelle Beef Ragu in Pastas priced at 26.95 dollars.
+Description: Black Hawk Farms Wagyu, Castlevetrano olives, pecorino, grana padano
+Pastaria Nashville Restaurant has menu item, Lasagna Verde in Pastas priced at 27.95 dollars.
+Description: bechamel, bolognese
+Pastaria Nashville Restaurant has menu item, Margherita in Pizza priced at 20.95 dollars.
+Description: tomato, mozzarella, basil
+Pastaria Nashville Restaurant has menu item, Pastaria Marinara in Pizza priced at 21.95 dollars.
+Description: tomato, olive oil, garlic, oregano, basil *try Heather’s way
+Pastaria Nashville Restaurant has menu item, Pepperoni in Pizza priced at 22.95 dollars.
+Description: fontina, tomato
+Pastaria Nashville Restaurant has menu item, The Roman in Pizza priced at 22.95 dollars.
+Description: tomato, garlic, bacon, mozzarella, pecorino, chili
+Pastaria Nashville Restaurant has menu item, The Allan in Pizza priced at 23.95 dollars.
+Description: tomato, mozzarella, mushroom, Benton’s ham, oregano, grana padano
+Pastaria Nashville Restaurant has menu item, Nduja in Pizza priced at 23.95 dollars.
+Description: tomato, Fior di latte, garlic, oregano, honey
+Pastaria Nashville Restaurant has menu item, Pastaria Hawaiian in Pizza priced at 22.95 dollars.
+Description: tomato, mozzarella, jalapeno, pineapple, house-made Canadian bacon
+Pastaria Nashville Restaurant has menu item, The Mushroom in Pizza priced at 22.95 dollars.
+Description: mushrooms, roasted garlic puree, fontina, pecorino, fresh herbs
+Pastaria Nashville Restaurant has menu item, Spaghetti with Meat or Tomato Sauce in Main Dishes priced at .
+Pastaria Nashville Restaurant has menu item, Cheese Pizza in Main Dishes priced at .
+Pastaria Nashville Restaurant has menu item, Pasta Shells “Mac ‘n Cheese” in Main Dishes priced at .
+Pastaria Nashville Restaurant has menu item, Butter Noodles in Main Dishes priced at .
+Pastaria Nashville Restaurant has menu item, Kid’s Gelato Scoop in Kid's Desserts priced at .

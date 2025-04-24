@@ -1,0 +1,142 @@
+Pastaria St. Louis Restaurant is situated at -- 7734 Forsyth Blvd. | Clayton, MO 63105
+Pastaria St. Louis Restaurant has contact number: 314.862.6603
+Pastaria St. Louis Restaurant has email: info@pastariastl.com
+Pastaria St. Louis Restaurant opening hours: 7 Days a Week
+Pastaria St. Louis Restaurant opening hours: 4pm – 9pm
+Pastaria St. Louis Restaurant opening hours: Sunday Brunch
+Pastaria St. Louis Restaurant opening hours: 10am – 2pm
+Pastaria St. Louis Restaurant opening hours: Dine-In & Curbside
+Pastaria St. Louis Restaurant has menu item, Roasted Chicken in Entrées priced at 32.95 dollars.
+Description: borlotti beans, tomato-braised tuscan kale
+Pastaria St. Louis Restaurant has menu item, Striped Bass in Entrées priced at 34.95 dollars.
+Description: braised artichoke, fingerlings, fennel, salsa verde
+Pastaria St. Louis Restaurant has menu item, Chitarra Aglio e Olio in Pastas priced at 22.95 dollars.
+Description: olive oil, garlic, chili, grana padano
+Pastaria St. Louis Restaurant has menu item, Chitarra al Pomodoro in Pastas priced at 23.95 dollars.
+Description: tomato, garlic, basil, grana padano
+Pastaria St. Louis Restaurant has menu item, Canestri Cacio e Pepe in Pastas priced at 24.95 dollars.
+Description: pecorino, grana padano, black pepper
+Pastaria St. Louis Restaurant has menu item, Tagliatelle Bolognese in Pastas priced at 27.95 dollars.
+Description: “Pastaria Bolognese”, grana padano
+Pastaria St. Louis Restaurant has menu item, Pistachio Ravioli in Pastas priced at 24.95 dollars.
+Description: lemon, brown butter, mint, grana padano
+Pastaria St. Louis Restaurant has menu item, Garganelli in Pastas priced at 27.95 dollars.
+Description: braised beef, olives, gremolata, Grana Padano
+Pastaria St. Louis Restaurant has menu item, Bucatini All’ Amatriciana in Pastas priced at 27.95 dollars.
+Description: tomato, red onion, guanciale, chili, grana padano
+Pastaria St. Louis Restaurant has menu item, Toasted Semolina Linguine in Pastas priced at 27.95 dollars.
+Description: rock shrimp, shellfish butter, chili, lemon, fennel, grana padano
+Pastaria St. Louis Restaurant has menu item, Strozzapreti al Pork Sugo in Pastas priced at 26.95 dollars.
+Description: braised pork shoulder, mirepoix, tomato, lemon, herbs, grana padano
+Pastaria St. Louis Restaurant has menu item, Margherita in Pizza priced at 20.95 dollars.
+Description: tomato, mozzarella, basil
+Pastaria St. Louis Restaurant has menu item, Pastaria Marinara in Pizza priced at 20.95 dollars.
+Description: tomato, onion, garlic, oregano, basil, pecorino (very minimal cheese)
+Pastaria St. Louis Restaurant has menu item, Four Cheese in Pizza priced at 21.95 dollars.
+Description: mozzarella, fontina, gorgonzola dolce, Grana Padano (no tomato)
+Pastaria St. Louis Restaurant has menu item, Pepperoni in Pizza priced at 22.95 dollars.
+Description: tomato, fontina
+Pastaria St. Louis Restaurant has menu item, The Roman in Pizza priced at 22.95 dollars.
+Description: tomato, garlic, bacon, mozzarella, pecorino, chili
+Pastaria St. Louis Restaurant has menu item, The Allan in Pizza priced at 23.95 dollars.
+Description: tomato, mozzarella, mushroom, Benton’s country ham, oregano, grana padano
+Pastaria St. Louis Restaurant has menu item, Tempesta Nduja (spicy) in Pizza priced at 23.95 dollars.
+Description: spicy pork spread, tomato, fior di latte, garlic, oregano, honey
+Pastaria St. Louis Restaurant has menu item, Roasted Mushroom in Pizza priced at 23.95 dollars.
+Description: bechamel, fontina, rosemary, thyme, garlic, grana padano
+Pastaria St. Louis Restaurant has menu item, Minestrone in Soups and Salads priced at 11.95 dollars.
+Description: cranberry beans, vegetables, noodles, grana padano
+Pastaria St. Louis Restaurant has menu item, Mixed Greens in Soups and Salads priced at 11.95 dollars.
+Description: pears, walnuts, goat cheese, red wine vinaigrette
+Pastaria St. Louis Restaurant has menu item, Chopped Salad in Soups and Salads priced at 11.95 dollars.
+Description: little gem lettuce, pepperoni, chickpeas, green olives, pistachios, oregano, red wine vinaigrette, pecorino
+Pastaria St. Louis Restaurant has menu item, Shaved Kale in Soups and Salads priced at 11.95 dollars.
+Description: creamy anchovy dressing, pecorino, bread crumbs
+Pastaria St. Louis Restaurant has menu item, Arugula & Endive in Soups and Salads priced at 11.95 dollars.
+Description: white wine vinaigrette, dried cherry, pistachio, goat cheese, breadcrumbs
+Pastaria St. Louis Restaurant has menu item, Brussels Sprouts in Vegetables priced at 10.95 dollars.
+Description: lemon, calabrian chili flake, garlic
+Pastaria St. Louis Restaurant has menu item, Roasted Heirloom Carrots in Vegetables priced at 9.95 dollars.
+Description: confit leeks, herbs, toasted breadcrumb
+Pastaria St. Louis Restaurant has menu item, Crispy Risotto Balls in Appetizers priced at 12.95 dollars.
+Description: mozzarella, grana padano, herb aioli, marinara
+Pastaria St. Louis Restaurant has menu item, Cauliflower Caponata in Appetizers priced at 10.95 dollars.
+Description: golden raisin, red onion, red pepper chili, herbs, bread
+Pastaria St. Louis Restaurant has menu item, Marinated Olives in Appetizers priced at 10.95 dollars.
+Description: rosemary, thyme, citrus
+Pastaria St. Louis Restaurant has menu item, Burrata in Appetizers priced at 13.95 dollars.
+Description: trapanese pesto, arugula, toasted bread
+Pastaria St. Louis Restaurant has menu item, Roman Style Gnocchi in Appetizers priced at 12.95 dollars.
+Description: semolina gnocchi, pomodoro sauce, olives, lemon, aged parmesan
+Pastaria St. Louis Restaurant has menu item, Roasted Beets in Appetizers priced at 11.95 dollars.
+Description: cara cara oranges, olive oil, pistachio dukkah
+Pastaria St. Louis Restaurant has menu item, Meatballs in Appetizers priced at 16.50 dollars.
+Description: *ONLY AVAILABLE MONDAY* 3 beef and ricotta meatballs, garlic toast, spicy pomodoro sauce
+Pastaria St. Louis Restaurant has menu item, Kid’s Gelato Scoop in Kid's Desserts priced at .
+Pastaria St. Louis Restaurant has menu item, Kid’s Birthday Cake in Kid's Desserts priced at .
+Pastaria St. Louis Restaurant has menu item, Spaghetti with meat or tomato sauce in Main Dishes priced at .
+Pastaria St. Louis Restaurant has menu item, Cheese Pizza in Main Dishes priced at .
+Pastaria St. Louis Restaurant has menu item, Pasta Shells “Mac ‘n Cheese” in Main Dishes priced at .
+Pastaria St. Louis Restaurant has menu item, Crispy Risotto Balls with Mozzarella Cheese in Main Dishes priced at .
+Pastaria St. Louis Restaurant has menu item, Long Macaroni with Butter & Cheese in Main Dishes priced at .
+Pastaria St. Louis Restaurant has menu item, Birthday Cake in Desserts priced at 11.50 dollars.
+Description: confetti cake under a layer of vanilla butter cream and shortbread cookie crumbles
+Pastaria St. Louis Restaurant has menu item, Mama Rodolico’s Tiramisu in Desserts priced at 12.00 dollars.
+Description: an old family recipe from friends in Florence – layers of espresso-soaked biscuits topped with an airy mascarpone custard
+Pastaria St. Louis Restaurant has menu item, Assorted Gelato and Sorbetto Flavors in Desserts priced at .
+Description: 1 scoop 4.75 – 2 scoops 6.75 – 3 scoops 8.75 – pint 12
+Pastaria St. Louis Restaurant has menu item, Breakfast Bruschetta in Brunch priced at 15.00 dollars.
+Description: cotto ham, provolone, arugula, pickled red onion, add egg +3
+Pastaria St. Louis Restaurant has menu item, Pastaria ‘Huevos Rancheros’ in Brunch priced at 15.00 dollars.
+Description: thick cut toast, white beans, ham, salsa verde
+Pastaria St. Louis Restaurant has menu item, Breakfast Pizza in Brunch priced at 16.00 dollars.
+Description: tomato, bacon, fontina, egg, garlic, chili, parsley
+Pastaria St. Louis Restaurant has menu item, French Toast in Brunch priced at 16.00 dollars.
+Description: powdered sugar, whipped ricotta with lemon zest & honey
+Pastaria St. Louis Restaurant has menu item, Wood Oven Baked Eggs in Brunch priced at 12.00 dollars.
+Description: choice of amatriciana or pomodoro, toast
+Pastaria St. Louis Restaurant has menu item, Seasonal Frittata in Brunch priced at 15.00 dollars.
+Description: spinach, mushroom & tomato mixed green salad or crispy potatoes, toast
+Pastaria St. Louis Restaurant has menu item, Granola Parfait in Brunch priced at 10.00 dollars.
+Description: yogurt, honey, seasonal fruit
+Pastaria St. Louis Restaurant has menu item, Farm Egg Plate in Brunch priced at 15.00 dollars.
+Description: 2 eggs your style, crispy potatoes or mixed greens, toast
+Pastaria St. Louis Restaurant has menu item, Cacio e Pepe Eggs in Brunch priced at 15.00 dollars.
+Description: soft scramble with pecorino & black pepper, toast, choice of side salad or crispy potatoes
+Pastaria St. Louis Restaurant has menu item, Crispy Potatoes in Sides priced at 5.00 dollars.
+Pastaria St. Louis Restaurant has menu item, Side of Toast with Apple Butter in Sides priced at 5.00 dollars.
+Pastaria St. Louis Restaurant has menu item, Side of Bacon in Sides priced at 4.00 dollars.
+Pastaria St. Louis Restaurant has menu item, Two Eggs in Sides priced at 5.00 dollars.
+Pastaria St. Louis Restaurant has menu item, Crispy Risotto Balls in Starters & Salads priced at 12.95 dollars.
+Description: mozzarella, grana padano, herb aioli, marinara
+Pastaria St. Louis Restaurant has menu item, Shaved Kale in Starters & Salads priced at 10.95 dollars.
+Description: creamy anchovy dressing, pecorino, breadcrumbs, add chicken +9
+Pastaria St. Louis Restaurant has menu item, Chopped Salad in Starters & Salads priced at 12.95 dollars.
+Description: romaine, pepperoni, chickpeas, olives, pistachios, oregano, red wine vinaigrette, pecorino, add chicken +9
+Pastaria St. Louis Restaurant has menu item, Mixed Greens in Starters & Salads priced at 11.95 dollars.
+Description: pears, walnuts, goat cheese, red wine vinaigrette, add chicken +9
+Pastaria St. Louis Restaurant has menu item, Caprese in Sandwiches priced at 13.00 dollars.
+Description: mozzarella, tomato, pesto aioli, arugula, red wine vinegar, evoo add turkey +3, add prosciutto +3
+Pastaria St. Louis Restaurant has menu item, Roasted Turkey in Sandwiches priced at 13.00 dollars.
+Description: double star farms turkey breast, arugula, tomato, calabrian chili aioli, red wine vinegar, evoo
+Pastaria St. Louis Restaurant has menu item, World’s Best Tuna Salad in Sandwiches priced at 13.50 dollars.
+Description: confit tuna, olives, capers, red onion, aioli, fire roasted tomatoes, garlic chili vinaigrette
+Pastaria St. Louis Restaurant has menu item, Salami in Sandwiches priced at 13.00 dollars.
+Description: genoa salami, capocollo, provolone, arugula, tomato, red wine vinegar
+Pastaria St. Louis Restaurant has menu item, Seasonal Coffee Cake in Pastries priced at 5.00 dollars.
+Pastaria St. Louis Restaurant has menu item, Scone in Pastries priced at 5.00 dollars.
+Pastaria St. Louis Restaurant has menu item, Gluten-Free Muffin in Pastries priced at 5.00 dollars.
+Pastaria St. Louis Restaurant has menu item, Chitarra alla Carbonara in Pastas priced at 23.95 dollars.
+Description: guanciale, egg yolk, black pepper, pecorino
+Pastaria St. Louis Restaurant has menu item, Strozzapreti Cacio e Pepe in Pastas priced at 24.95 dollars.
+Description: pecorino, grana padano, black pepper
+Pastaria St. Louis Restaurant has menu item, Strozzapreti Bolognese in Pastas priced at 27.95 dollars.
+Description: “Pastaria Bolognese”, grana padano
+Pastaria St. Louis Restaurant has menu item, Strozzapreti al Pomodoro in Pastas priced at 23.95 dollars.
+Description: tomato, garlic, basil, grana padano
+Pastaria St. Louis Restaurant has menu item, Margherita in Pizzas priced at 20.95 dollars.
+Description: tomato, mozzarella, basil
+Pastaria St. Louis Restaurant has menu item, Pepperoni in Pizzas priced at 22.95 dollars.
+Description: tomato, fontina
+Pastaria St. Louis Restaurant has menu item, The Roman in Pizzas priced at 22.95 dollars.
+Description: tomato, garlic, bacon, mozzarella, pecorino, chili

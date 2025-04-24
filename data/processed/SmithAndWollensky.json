@@ -1,0 +1,682 @@
+[
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "location",
+    "name": "Smith & Wollensky - Boston",
+    "address": "294 Congress Street Atlantic Wharf Boston, MA 02210",
+    "phone": "617.778.2200",
+    "email": "SWAW@swrg.com",
+    "hours": "Sunday through Thursday: 11:30am-10:00pm \n Friday and Saturday: 11:30am-11:00pm"
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "ANGRY SHRIMP",
+    "category": "STARTERS",
+    "description": "crispy battered shrimp, spicy lobster butter sauce",
+    "price": "$26.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CRAB CAKE",
+    "category": "STARTERS",
+    "description": "lump crab meat, cognac mustard, ginger sauce",
+    "price": "$28.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TUNA TARTARE*",
+    "category": "STARTERS",
+    "description": "orange, jalapeno, cucumber, coconut vinaigrette, sesame tuile",
+    "price": "$25.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TABLESIDE STEAK TARTARE*",
+    "category": "STARTERS",
+    "description": "roasted bone marrow, grilled crostini",
+    "price": "$26.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CONFIT BACON",
+    "category": "STARTERS",
+    "description": "sweet soy glazed, red cabbage and fresno pepper slaw, pickled vegetables",
+    "price": "$24.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "GRILLED OCTOPUS",
+    "category": "STARTERS",
+    "description": "Marcona almond romesco sauce, peppadew peppers, romanesco",
+    "price": "$30.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "HAMACHI CRUDO",
+    "category": "STARTERS",
+    "description": "citrus, green apple, cucumber, tomato, passion fruit sauce",
+    "price": "$26.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "AMERICAN WAGYU CARPACCIO*",
+    "category": "STARTERS",
+    "description": "SRF Wagyu tenderloin, pickled mushrooms, black truffle aioli, shaved Parmesan",
+    "price": "$27.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "BURRATA",
+    "category": "STARTERS",
+    "description": "herb pesto, heirloom tomato, Marcona almond",
+    "price": "$19.00",
+    "options": [
+      {
+        "text": "add prosciutto",
+        "price": "$6.00"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "JUMBO SHRIMP COCKTAIL",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "",
+    "options": [
+      {
+        "text": "3 pieces",
+        "price": "$19.00"
+      },
+      {
+        "text": "5 pieces",
+        "price": "$30.00"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "EAST COAST OYSTERS* (HALF DOZEN)",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "$22.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CHILLED MAINE LOBSTER TAIL (EACH)",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "$21.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CRAB COCKTAIL",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "OCTOPUS COCKTAIL",
+    "category": "SHELLFISH",
+    "description": "",
+    "price": "$22.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SHELLFISH TOWER FOR TWO*",
+    "category": "SHELLFISH",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail",
+    "price": "$82.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SHELLFISH TOWER FOR FOUR*",
+    "category": "SHELLFISH",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail",
+    "price": "$143.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SHELLFISH TOWER FOR SIX*",
+    "category": "SHELLFISH",
+    "description": "Maine lobster tail, crab cocktail, jumbo shrimp, oysters, octopus cocktail, tuna tartare",
+    "price": "$185.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CLASSIC SPLIT PEA SOUP",
+    "category": "SOUP & SALADS",
+    "description": "the Smith & Wollensky original recipe",
+    "price": "$10.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CLAM CHOWDER",
+    "category": "SOUP & SALADS",
+    "description": "New England style",
+    "price": "$14.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TOMATO & ONION SALAD",
+    "category": "SOUP & SALADS",
+    "description": "whipped feta, Marcona almonds",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WOLLENSKY SALAD",
+    "category": "SOUP & SALADS",
+    "description": "romaine lettuce, tomatoes, potato croutons, bacon lardons, marinated mushrooms, dijon vinaigrette",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CAESAR SALAD",
+    "category": "SOUP & SALADS",
+    "description": "romaine lettuce, traditional dressing, croutons",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CLASSIC ICEBERG SALAD",
+    "category": "SOUP & SALADS",
+    "description": "tomatoes, crumbled bleu cheese, bleu cheese dressing, bacon lardons, scallions",
+    "price": "$17.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "MODERN ICEBERG SALAD",
+    "category": "SOUP & SALADS",
+    "description": "creamy bleu cheese, bacon lardons, tomatoes, red onion, radish, red wine vinaigrette",
+    "price": "$17.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "DUCK CONFIT SALAD",
+    "category": "SOUP & SALADS",
+    "description": "duck confit, carrots, cucumber, quinoa, poached egg, frisee, red onion, dijon vinaigrette",
+    "price": "$19.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SURF & TURF FOR TWO",
+    "category": "BUTCHER'S TABLE*",
+    "description": "18 oz. filet, twin Maine lobster tails with garlic butter, chimichurri",
+    "price": "$160.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SIGNATURE FILET MIGNON 10 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "",
+    "price": "$68.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "COFFEE & COCOA RUBBED FILET 10 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "ancho chili butter, angry onions",
+    "price": "$70.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "FILET OSCAR 10 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "lump crab meat, asparagus, hollandaise sauce",
+    "price": "$88.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "GORGONZOLA CRUSTED FILET 10 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "bacon and scallions",
+    "price": "$75.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TWIN PETIT FILET MIGNON",
+    "category": "BUTCHER'S TABLE*",
+    "description": "mushrooms, brandy peppercorn sauce",
+    "price": "$60.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SRF KUROBUTA PORK CHOP",
+    "category": "BUTCHER'S TABLE*",
+    "description": "pineapple salsa, chimichurri, charred radicchio",
+    "price": "$65.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "DUCK CONFIT",
+    "category": "BUTCHER'S TABLE*",
+    "description": "cherry glaze, carrot orange puree, potato gratin",
+    "price": "$36.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "HALF CHICKEN",
+    "category": "BUTCHER'S TABLE*",
+    "description": "semi-boneless chicken, prosciutto, spinach, crispy Yukon gold potatoes, lemon chicken jus",
+    "price": "$36.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "BONE-IN RIB EYE AU POIVRE 26 OZ",
+    "category": "BUTCHER'S TABLE*",
+    "description": "wet-aged, peppercorn crusted, brandy peppercorn sauce",
+    "price": "$78.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "USDA PRIME DRY-AGED PORTERHOUSE FOR TWO - 42 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$190.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SIGNATURE USDA PRIME DRY-AGED BONE-IN RIB EYE 28 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$105.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CAJUN MARINATED USDA PRIME DRY-AGED BONE-IN RIB EYE 28 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$105.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "USDA PRIME DRY-AGED T-BONE 26 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$90.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "USDA PRIME DRY-AGED BONE-IN NEW YORK CUT 21 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$86.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "USDA PRIME BONELESS NEW YORK STRIP 16 OZ",
+    "category": "USDA PRIME CLASSIC STEAKHOUSE CUTS*",
+    "description": "",
+    "price": "$78.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SWINGING TOMAHAWK RIB EYE",
+    "category": "AMERICAN WAGYU*",
+    "description": "44 oz. black grade Wagyu, carved tableside, crispy beef-fat potatoes - great to share",
+    "price": "$250.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU PORTERHOUSE FOR TWO",
+    "category": "AMERICAN WAGYU*",
+    "description": "38+ oz. gold grade Wagyu, fondant potatoes, asparagus",
+    "price": "$275.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "LONG BONE WAGYU FILET",
+    "category": "AMERICAN WAGYU*",
+    "description": "18 oz. gold grade Wagyu, arugula, EVOO, lemon, crispy garlic",
+    "price": "$158.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU RIBEYE",
+    "category": "AMERICAN WAGYU*",
+    "description": "14 oz. black grade Wagyu, bone marrow bordelaise, blistered tomato",
+    "price": "$145.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU NY STRIP",
+    "category": "AMERICAN WAGYU*",
+    "description": "14 oz. gold grade Wagyu, sauteed spinach, crispy shallots",
+    "price": "$130.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU MANHATTAN CUT",
+    "category": "AMERICAN WAGYU*",
+    "description": "9 oz. gold grade Wagyu, coffee and cocoa rub, roasted corn puree, chimichurri, smoked tableside",
+    "price": "$99.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WAGYU FILET MIGNON",
+    "category": "AMERICAN WAGYU*",
+    "description": "9 oz. black grade Wagyu, roasted shallot, asparagus, bone marrow butter",
+    "price": "$98.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CHILEAN SEA BASS",
+    "category": "FRESH CATCH*",
+    "description": "fondue potato, lobster sauce, confit tomato, charred cippolini, shaved fennel",
+    "price": "$54.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SEARED YELLOWFIN TUNA",
+    "category": "FRESH CATCH*",
+    "description": "coconut carrot puree, wild rice, vegetable medley, tamarind sauce, soy cured egg yolk",
+    "price": "$52.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SEARED NORWEGIAN SALMON*",
+    "category": "FRESH CATCH*",
+    "description": "spring vegetable ragu, morel mushroom, braised leeks, chicken jus",
+    "price": "$45.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CAJUN RUB",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$3.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "COFFEE & COCOA RUB",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$3.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "BEARNAISE SAUCE",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$5.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "HOLLANDAISE SAUCE",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$5.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "BRANDY PEPPERCORN SAUCE",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$8.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "GORGONZOLA CRUSTED",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$10.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "ROASTED BONE MARROW",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$12.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "MAINE LOBSTER TAIL (EACH)",
+    "category": "STEAK ENHANCEMENTS",
+    "description": "",
+    "price": "$21.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TRUFFLED MAC & CHEESE",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$22.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CREAMED SPINACH",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SAUTEED SPINACH",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$14.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "SAUTEED MUSHROOMS",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$16.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "ASPARAGUS WITH HOLLANDAISE",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$15.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "WHIPPED POTATOES",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$12.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "HAND CUT FRENCH FRIES",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$10.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "TRUFFLE FRENCH FRIES",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$14.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "FRIED ONIONS",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$12.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CORN MANCHEGO",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$17.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CHARRED BROCCOLINI",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "",
+    "price": "$15.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "CHARRED ROMANESCO",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "Marcona almond romesco sauce, herb aioli",
+    "price": "$14.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "ROAST BEEF HASH",
+    "category": "CLASSIC & NEW SIDES",
+    "description": "fried egg, horseradish gremolata",
+    "price": "$15.00",
+    "options": []
+  },
+  {
+    "restaurant_name": "Smith & Wollensky",
+    "type": "menu_item",
+    "item_name": "*",
+    "category": "*",
+    "description": "",
+    "price": "",
+    "options": []
+  }
+]

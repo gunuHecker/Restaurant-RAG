@@ -1,0 +1,656 @@
+[
+    {
+        "name": "Idly (2Pc)",
+        "price": "80",
+        "category": "south-indian",
+        "recommended": true
+    },
+    {
+        "name": "Podi Idly (2Pc)",
+        "price": "85",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Mini Idly (12Pc)",
+        "price": "115",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Vada (2Pc)",
+        "price": "85",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Sambar Vada",
+        "price": "115",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Rasam Vada",
+        "price": "115",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Dahi Vada (1Pc)",
+        "price": "70",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Dahi Vada (2Pc)",
+        "price": "120",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Upma",
+        "price": "110",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Ghee Pongal",
+        "price": "120",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Ghee Pongal + Vada (1Pc)",
+        "price": "150",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Poori Masala (2Pc)",
+        "price": "105",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Extra Sambar (250ml)",
+        "price": "50",
+        "category": "south-indian",
+        "recommended": false
+    },
+    {
+        "name": "Rava Kesari",
+        "price": "85",
+        "category": "sweets",
+        "recommended": false
+    },
+    {
+        "name": "Gulab Jamun (2Pcs.)",
+        "price": "70",
+        "category": "sweets",
+        "recommended": false
+    },
+    {
+        "name": "Sweet Pongal",
+        "price": "85",
+        "category": "sweets",
+        "recommended": false
+    },
+    {
+        "name": "Rasogolla (2Pcs.)",
+        "price": "30",
+        "category": "sweets",
+        "recommended": false
+    },
+    {
+        "name": "Tea",
+        "price": "45",
+        "category": "beverages",
+        "recommended": true
+    },
+    {
+        "name": "Lamsa Tea (Hyderabadi Special Chai",
+        "price": "50",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Masala Tea (Ginger with Cardamom",
+        "price": "50",
+        "category": "beverages",
+        "recommended": true
+    },
+    {
+        "name": "Coffee (South Indian Filter)",
+        "price": "50",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Cold Coffee",
+        "price": "80",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Bournvita",
+        "price": "65",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Holicks",
+        "price": "65",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Badam Milk (Hot)",
+        "price": "75",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Hot Milk",
+        "price": "45",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Lassi (Sweet/Salt)",
+        "price": "90",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Butter Milk",
+        "price": "75",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Mineral Water",
+        "price": "MRP",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Soft Drink (Cola, Lemon & Orange)",
+        "price": "MRP",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Soda",
+        "price": "MRP",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Fresh Lime Soda",
+        "price": "70",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Cappuccino",
+        "price": "75",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Cold Coffee with Ice Cream",
+        "price": "110",
+        "category": "beverages",
+        "recommended": false
+    },
+    {
+        "name": "Strawberry",
+        "price": "135",
+        "category": "milk-shakes",
+        "recommended": false
+    },
+    {
+        "name": "Vanilla",
+        "price": "125",
+        "category": "milk-shakes",
+        "recommended": false
+    },
+    {
+        "name": "Chocolate",
+        "price": "145",
+        "category": "milk-shakes",
+        "recommended": false
+    },
+    {
+        "name": "Butter Scotch",
+        "price": "145",
+        "category": "milk-shakes",
+        "recommended": false
+    },
+    {
+        "name": "Mango",
+        "price": "145",
+        "category": "milk-shakes",
+        "recommended": false
+    },
+    {
+        "name": "Pina Colada",
+        "price": "84",
+        "category": "mocktail",
+        "recommended": false
+    },
+    {
+        "name": "Virgin Mojito",
+        "price": "84",
+        "category": "mocktail",
+        "recommended": false
+    },
+    {
+        "name": "Orange Sunrise",
+        "price": "84",
+        "category": "mocktail",
+        "recommended": false
+    },
+    {
+        "name": "Blue Lagoon",
+        "price": "84",
+        "category": "mocktail",
+        "recommended": false
+    },
+    {
+        "name": "Lemon Ice Tea",
+        "price": "84",
+        "category": "mocktail",
+        "recommended": false
+    },
+    {
+        "name": "Onion Pakoda",
+        "price": "80",
+        "category": "evening-snacks",
+        "recommended": false
+    },
+    {
+        "name": "Aloo Bonda",
+        "price": "75",
+        "category": "evening-snacks",
+        "recommended": false
+    },
+    {
+        "name": "Paneer Bajji (2Pcs.)",
+        "price": "95",
+        "category": "evening-snacks",
+        "recommended": false
+    },
+    {
+        "name": "Masala Vada",
+        "price": "70",
+        "category": "evening-snacks",
+        "recommended": false
+    },
+    {
+        "name": "Mirchi Bajji (3Pcs.)",
+        "price": "90",
+        "category": "evening-snacks",
+        "recommended": false
+    },
+    {
+        "name": "Banana Bajji (4Pcs.)",
+        "price": "85",
+        "category": "evening-snacks",
+        "recommended": false
+    },
+    {
+        "name": "Guntha Punugulu",
+        "price": "90",
+        "category": "evening-snacks",
+        "recommended": false
+    },
+    {
+        "name": "Assorted Bajji",
+        "price": "100",
+        "category": "evening-snacks",
+        "recommended": false
+    },
+    {
+        "name": "Fresh Lime",
+        "price": "55",
+        "category": "fresh-juice",
+        "recommended": false
+    },
+    {
+        "name": "Pomegranate",
+        "price": "130",
+        "category": "fresh-juice",
+        "recommended": false
+    },
+    {
+        "name": "Sweet Lime Juice",
+        "price": "115",
+        "category": "fresh-juice",
+        "recommended": false
+    },
+    {
+        "name": "Apple Juice",
+        "price": "130",
+        "category": "fresh-juice",
+        "recommended": false
+    },
+    {
+        "name": "Pineapple Juice",
+        "price": "120",
+        "category": "fresh-juice",
+        "recommended": false
+    },
+    {
+        "name": "Watermelon Juice",
+        "price": "115",
+        "category": "fresh-juice",
+        "recommended": false
+    },
+    {
+        "name": "Plain Dosa",
+        "price": "125",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Onion Dosa",
+        "price": "140",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Masala Dosa",
+        "price": "145",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Onion Masala Dosa",
+        "price": "155",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Podi Dosa",
+        "price": "140",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Butter Dosa",
+        "price": "135",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Butter Masala Dosa",
+        "price": "155",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Ghee Roast Dosa",
+        "price": "135",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Ghee Roast Masala Dosa",
+        "price": "155",
+        "category": "dosa",
+        "recommended": true
+    },
+    {
+        "name": "Set Dosa (2pcs)",
+        "price": "160",
+        "category": "dosa",
+        "recommended": false
+    },
+    {
+        "name": "Rava Dosa",
+        "price": "135",
+        "category": "dosa",
+        "recommended": false
+    },
+    {
+        "name": "Onion Rava Dosa",
+        "price": "155",
+        "category": "dosa",
+        "recommended": false
+    },
+    {
+        "name": "Rava Masala Dosa",
+        "price": "160",
+        "category": "dosa",
+        "recommended": false
+    },
+    {
+        "name": "Coconot Rava Dosa",
+        "price": "150",
+        "category": "dosa",
+        "recommended": false
+    },
+    {
+        "name": "Onion Rava Masala Dosa",
+        "price": "170",
+        "category": "dosa",
+        "recommended": false
+    },
+    {
+        "name": "Green Moong Dosa (Pesarattu)",
+        "price": "135",
+        "category": "dosa",
+        "recommended": false
+    },
+    {
+        "name": "Onion Green Moong Dosa (Pesarattu)",
+        "price": "150",
+        "category": "dosa",
+        "recommended": false
+    },
+    {
+        "name": "Uttapam",
+        "price": "135",
+        "category": "uttapam",
+        "recommended": false
+    },
+    {
+        "name": "Onion Uttapam",
+        "price": "150",
+        "category": "uttapam",
+        "recommended": false
+    },
+    {
+        "name": "Tomato Uttapam",
+        "price": "150",
+        "category": "uttapam",
+        "recommended": false
+    },
+    {
+        "name": "Mix Vegetable Uttapam",
+        "price": "160",
+        "category": "uttapam",
+        "recommended": false
+    },
+    {
+        "name": "Tomato Coconut Uttapam",
+        "price": "160",
+        "category": "uttapam",
+        "recommended": false
+    },
+    {
+        "name": "Mysore Masala Dosa",
+        "price": "155",
+        "category": "aryan-bhavan-special-dosas",
+        "recommended": true
+    },
+    {
+        "name": "Spring Roll Dosa",
+        "price": "170",
+        "category": "aryan-bhavan-special-dosas",
+        "recommended": true
+    },
+    {
+        "name": "Coconot Rava Masala Dosa",
+        "price": "165",
+        "category": "aryan-bhavan-special-dosas",
+        "recommended": true
+    },
+    {
+        "name": "M.L.A Pesarattu (with Upma)",
+        "price": "165",
+        "category": "aryan-bhavan-special-dosas",
+        "recommended": true
+    },
+    {
+        "name": "Arya Bhavan Paneer Dosa",
+        "price": "170",
+        "category": "aryan-bhavan-special-dosas",
+        "recommended": true
+    },
+    {
+        "name": "Podi Ghee Masala Dosa",
+        "price": "170",
+        "category": "aryan-bhavan-special-dosas",
+        "recommended": true
+    },
+    {
+        "name": "Adai Avail Dosa",
+        "price": "175",
+        "category": "aryan-bhavan-special-dosas",
+        "recommended": true
+    },
+    {
+        "name": "Malabar Parotta 2Pc with Veg Korma",
+        "price": "155",
+        "category": "parotta",
+        "recommended": false
+    },
+    {
+        "name": "Chapati 3Pc with Veg Korma",
+        "price": "145",
+        "category": "parotta",
+        "recommended": false
+    },
+    {
+        "name": "Veg Khothu Parotta",
+        "price": "150",
+        "category": "parotta",
+        "recommended": false
+    },
+    {
+        "name": "Sambar Rice",
+        "price": "110",
+        "category": "rice-variety",
+        "recommended": false
+    },
+    {
+        "name": "Tomato Rice",
+        "price": "110",
+        "category": "rice-variety",
+        "recommended": false
+    },
+    {
+        "name": "Tamarind Rice",
+        "price": "110",
+        "category": "rice-variety",
+        "recommended": false
+    },
+    {
+        "name": "Lemon Rice",
+        "price": "110",
+        "category": "rice-variety",
+        "recommended": false
+    },
+    {
+        "name": "Curd Rice",
+        "price": "110",
+        "category": "rice-variety",
+        "recommended": false
+    },
+    {
+        "name": "Masala Dosa + Dahi Vada (1Pc)",
+        "price": "190",
+        "category": "combos",
+        "recommended": false
+    },
+    {
+        "name": "Green Moong Dosa + Dahi Vada (1Pc)",
+        "price": "195",
+        "category": "combos",
+        "recommended": false
+    },
+    {
+        "name": "Mini Meal",
+        "price": "190",
+        "category": "combos",
+        "recommended": false
+    },
+    {
+        "name": "South Indian Platter",
+        "price": "195",
+        "category": "combos",
+        "recommended": false
+    },
+    {
+        "name": "Chocolate Surprise",
+        "price": "120",
+        "category": "combos",
+        "recommended": false
+    },
+    {
+        "name": "Bunny Hug",
+        "price": "130",
+        "category": "combos",
+        "recommended": false
+    },
+    {
+        "name": "Malabar Parotta 2Pc with Veg Korma",
+        "price": "155",
+        "category": "parotta",
+        "recommended": false
+    },
+    {
+        "name": "Chapati 3Pc with Veg Korma",
+        "price": "145",
+        "category": "parotta",
+        "recommended": false
+    },
+    {
+        "name": "Veg Khothu Parotta",
+        "price": "150",
+        "category": "parotta",
+        "recommended": false
+    },
+    {
+        "name": "Vanilla",
+        "price": "60",
+        "category": "ice-creams-single-scoop",
+        "recommended": false
+    },
+    {
+        "name": "Strawberry",
+        "price": "60",
+        "category": "ice-creams-single-scoop",
+        "recommended": false
+    },
+    {
+        "name": "Chocolate",
+        "price": "60",
+        "category": "ice-creams-single-scoop",
+        "recommended": false
+    },
+    {
+        "name": "Butter Scotch",
+        "price": "60",
+        "category": "ice-creams-single-scoop",
+        "recommended": false
+    },
+    {
+        "name": "Mango",
+        "price": "60",
+        "category": "ice-creams-single-scoop",
+        "recommended": false
+    }
+]
