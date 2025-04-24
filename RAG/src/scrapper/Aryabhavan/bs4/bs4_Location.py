@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-def extract_footer_info(html_file="data/raw/aryabhavan/AboutUsPage.html", output_file="data/raw/aryabhavan/locations.json"):
+def extract_footer_info(html_file="data/raw/aryabhavan/html/AboutUsPage.html", output_file="data/raw/aryabhavan/json/locations.json"):
     with open(html_file, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 

@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-def extract_sections(input_file="data/raw/aryabhavan/AboutUsPage.html", output_file="data/raw/aryabhavan/aboutus_sections.html"):
+def extract_sections(input_file="data/raw/aryabhavan/html/AboutUsPage.html", output_file="data/raw/aryabhavan/html/aboutus_sections.html"):
     # Load the saved HTML
     with open(input_file, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")

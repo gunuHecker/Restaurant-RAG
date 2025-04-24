@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-def extract_reviews(input_file="data/raw/aryabhavan/aboutus_sections.html", output_file="data/raw/aryabhavan/reviews.json"):
+def extract_reviews(input_file="data/raw/aryabhavan/html/aboutus_sections.html", output_file="data/raw/aryabhavan/json/reviews.json"):
     # Load the HTML content
     with open(input_file, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")

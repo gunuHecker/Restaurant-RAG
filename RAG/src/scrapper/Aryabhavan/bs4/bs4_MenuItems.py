@@ -2,7 +2,7 @@ import os
 import json
 from bs4 import BeautifulSoup
 
-def extract_menu_items_from_tab_panes(input_dir="data/raw/aryabhavan/menu", output_file="data/raw/aryabhavan/menu_items.json"):
+def extract_menu_items_from_tab_panes(input_dir="data/raw/aryabhavan/html/menu", output_file="data/raw/aryabhavan/json/menu_items.json"):
     all_items = []
 
     os.makedirs(os.path.dirname(output_file), exist_ok=True)

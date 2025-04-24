@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import os
 
-def extract_tab_pane_divs(html_path="data/raw/aryabhavan/menuPage.html"):
+def extract_tab_pane_divs(html_path="data/raw/aryabhavan/html/menuPage.html"):
     with open(html_path, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
 
@@ -17,7 +17,7 @@ def extract_tab_pane_divs(html_path="data/raw/aryabhavan/menuPage.html"):
 
 if __name__ == "__main__":
     tab_panes = extract_tab_pane_divs()
-    output_dir = "data/raw/aryabhavan/menu"
+    output_dir = "data/raw/aryabhavan/html/menu"
     os.makedirs(output_dir, exist_ok=True)
 
     for i, content in enumerate(tab_panes):
